@@ -184,7 +184,9 @@ Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Guld
 
 Die Familie Cabos reiste 1792 nach Berlin - in eine Stadt, die seit über hundert Jahren eine bedeutende französische Gemeinde beherbergte. Etwa 6.000 Hugenotten hatten sich zwischen 1685 und 1700 in Berlin niedergelassen und machten zeitweilig ein Fünftel der Bevölkerung aus. Die französisch-reformierte Gemeinde mit ihrer Friedrichstadtkirche - dem "Französischen Dom" am Gendarmenmarkt - war das Zentrum dieser Gemeinschaft.
 
-Am **24. Januar 1793** wurde in Berlin der letzte Sohn der Familie geboren: **Charles Emmanuel**. Der Kirchenbucheintrag der französisch-reformierten Friedrichstadtkirche vermerkt, dass der Vater als *"Dentiste, natif de Caussade en Querci"* - als Zahnarzt, gebürtig aus Caussade in Quercy - bezeichnet wurde. Hatte Etienne einen neuen Beruf ergriffen, oder war "Dentiste" nur eine ehrenvollere Bezeichnung? Die Paten des Kindes waren jedenfalls hochrangig: Charles Emanuel Baron de Hoffstaedt, Geheimer Rat, und Agnes Louise Amelie Palmie, geborene Rauch.
+Am **24. Januar 1793** wurde in Berlin der letzte Sohn der Familie geboren: **Charles Emmanuel**. Der Kirchenbucheintrag der französisch-reformierten Friedrichstadtkirche vermerkt, dass der Vater als *"Dentiste, natif de Caussade en Querci"* - als Zahnarzt, gebürtig aus Caussade in Quercy - bezeichnet wurde. Die Paten des Kindes waren hochrangig: Charles Emanuel Baron de Hoffstaedt, Geheimer Rat, und Agnes Louise Amelie Palmie, geborene Rauch.
+
+Dass Etienne tatsächlich als Zahnarzt praktizierte, belegen Anzeigen in den **Wöchentlichen Hallischen Anzeigen** von **1794 und 1798**. Von Berlin aus reiste er nach Halle, um dort Patienten zu behandeln. Er bot das volle Spektrum zeitgenössischer Zahnheilkunde an: Zahnextraktion, Prothesen, Füllungen, Zahnreinigung und selbst hergestelltes Mundwasser. In seinen Anzeigen pries er Zahnprothesen an, *"welche so fest an dem Gaumen halten, als die besten natürlichen Zähne"*, und versprach 1798 sogar Zähne einzusetzen, *"wie sie die Natur giebt"*. Als reisender Zahnarzt gehörte Cabos zu den wenigen, die Halle mehrfach besuchten.
 
 <div class="grid cards" markdown>
 
@@ -195,6 +197,14 @@ Am **24. Januar 1793** wurde in Berlin der letzte Sohn der Familie geboren: **Ch
     Taufeintrag Charles Emmanuel in der Friedrichstadtkirche
 
     [→ Zum Dokument](dokumente/taufe-berlin-1793.md)
+
+-   :material-tooth:{ .lg .middle } **Zahnarzt in Halle 1794-1798**
+
+    ---
+
+    Anzeigen belegen Cabos' Tätigkeit als reisender Zahnarzt
+
+    [→ Zum Dokument](dokumente/zahnarzt-halle.md)
 
 </div>
 
@@ -224,7 +234,7 @@ Seine Frau Maria Justine überlebte ihn um zwei Jahre. Am 10. September 1810 sta
 
 ## Epilog: Ein Leben im Strom der Geschichte
 
-Etienne Cabos' Leben spiegelt die großen Bewegungen seiner Zeit wider: die Nachwirkungen der Hugenottenverfolgung, die Anziehungskraft Preußens für französische Protestanten, die Wirren des Bayerischen Erbfolgekrieges, die wirtschaftlichen Netzwerke zwischen Rotterdam und Deutschland. Er war Sohn eines Kaufmanns, wurde Soldat in einem fremden Land, versuchte sich als Händler in den Niederlanden und endete als "Dentiste" in Berlin.
+Etienne Cabos' Leben spiegelt die großen Bewegungen seiner Zeit wider: die Nachwirkungen der Hugenottenverfolgung, die Anziehungskraft Preußens für französische Protestanten, die Wirren des Bayerischen Erbfolgekrieges, die wirtschaftlichen Netzwerke zwischen Rotterdam und Deutschland. Er war Sohn eines Kaufmanns, wurde Soldat in einem fremden Land, versuchte sich als Händler in den Niederlanden und praktizierte schließlich als reisender Zahnarzt in Preußen.
 
 Seine Geschichte ist auch eine Geschichte von Verlusten: zwei Kinder, die jung starben; ein Sohn, der verschollen war; eine Ehe, die zerbrach; finanzielle Nöte, die ihn zwangen, Almosen von Kirchengemeinden anzunehmen. Doch sie ist auch eine Geschichte von Beharrlichkeit und Anpassungsfähigkeit - die Geschichte eines Mannes, der in einer Welt voller Grenzen und Hindernisse seinen Weg fand.
 

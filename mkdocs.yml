@@ -31,6 +31,7 @@ theme:
 
 nav:
   - Startseite: index.md
+  - Zeitleiste: zeitleiste.md
   - Historische Dokumente:
     - Übersicht: dokumente/index.md
     - Karte von 1777: dokumente/karte-1777.md

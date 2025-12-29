@@ -1,11 +1,10 @@
 # Militärregister - Infanterieregiment Nr. 8
 
-![Militärregister](../images/militaerregister.jpg){ loading=lazy }
+![Militärregister](../images/militaerregister.gif){ loading=lazy }
 
 *Etienne war als Stephan Cabos Soldat im Infanterieregiment Nr. 8 (von Hacke) bei Kompaniechef Major Alexander Wilhelm von Arnim*
 
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `militaerregister.jpg` in den Ordner `docs/images/` ein.
+*1770 wurde v. Arnim als Kapitän und Kompaniechef in das Infanterieregiment „von Hacke" Nr. 8 versetzt und nahm 1778/79 am Bayrischen Erbfolgekrieg teil. 1781 wurde Arnim als Major zunächst Kommandeur des I., 1783 Kommandeur des II. Bataillons. Arnim war seit 1772 mit Albertine Gräfin von Küssow (* 26. Oktober 1753 in Megow; † 11. September 1829 in Gerswalde) verheiratet.*
 
 ---
 

@@ -74,9 +74,9 @@ Etienne diente als Soldat im **Infanterieregiment Nr. 8 (von Hacke)**, in der Ko
 
     [→ Zum Dokument](dokumente/hochzeit-stettin-1772.md)
 
--   :material-sword:{ .lg .middle } **Militärregister**
+-   [![Militärregister](images/militaerregister.gif){ width="200" }](dokumente/militaerregister.md)
 
-    ---
+    **Militärregister**
 
     Einträge zum Infanterieregiment Nr. 8
 

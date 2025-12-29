@@ -160,9 +160,9 @@ Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Guld
 
     [→ Zu den Dokumenten](dokumente/begraebnisse-rotterdam.md)
 
--   :material-file-document-edit:{ .lg .middle } **Unterhaltsvertrag 1792**
+-   [![Unterhaltsvertrag 1792](images/unterhaltsvertrag-1792-1.jpg){ width="200" }](dokumente/unterhaltsvertrag-1792.md)
 
-    ---
+    **Unterhaltsvertrag 1792**
 
     Vertrag mit dem Konsistorium Rotterdam
 

@@ -13,7 +13,7 @@ Diese Website dokumentiert das Leben und die Familiengeschichte von **Etienne Ca
 
 ## Website
 
-Die Website ist unter [https://yourusername.github.io/Etienne/](https://yourusername.github.io/Etienne/) erreichbar.
+Die Website ist unter [https://ccabos.github.io/Etienne/](https://ccabos.github.io/Etienne/) erreichbar.
 
 ## Lokale Entwicklung
 

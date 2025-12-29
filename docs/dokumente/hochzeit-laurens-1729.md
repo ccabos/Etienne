@@ -2,6 +2,8 @@
 
 ![Hochzeitseintrag 1729](../images/hochzeit-laurens-1729.jpg){ loading=lazy }
 
+> *"Le Sieur Laurens Cabos merchant hab de Caussade et demoiselle Marie Rey hte de la pte ville ont receu la benediction nuptialle de moy soussigne dans l'eglise dupnt lieu le 14e Juillet apres la devë publication des sans pendant trois dimanches, sans opposition my (se) Mariage empechement, apres une affiduite aux offices diviny et instructions ; avoir promis en face de l'eglise de vivre et mourir dans la Religion C'et et Romaine, et de nen reconnaitre ny professer dautre que cette la ; s'etre praesentes a confesse comme il conste par le certificat du RP. Maisonneuve gesuite signe, et par ma declaration, et apres avoir eté commis par Mr Jabbe de la Luzerne official et vicaire qu de la leur donner, et cella en presence de Mrs Raymond Rochin substitut du Roy, Joseph Laëns chirugien Pierre Aluures e?? Royal Pierre Soulie marchant et autres soussignez avec nous"*
+
 *Laurens Cabos heiratete am 14. Juli 1729 Marie Rey*
 
 ---

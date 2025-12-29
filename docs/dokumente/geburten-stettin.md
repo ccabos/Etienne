@@ -1,0 +1,122 @@
+# Geburten der Kinder in Stettin (1772-1777)
+
+In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan Cabos und Maria Justine Siercken geboren.
+
+---
+
+## Johann Carl Abraham (1772)
+
+![Taufe Johann Carl Abraham](../images/taufe-johann-carl-1772.jpg){ loading=lazy }
+
+!!! info "Bildhinweis"
+    Bitte fügen Sie das Bild `taufe-johann-carl-1772.jpg` in den Ordner `docs/images/` ein.
+
+### Dokumentinformationen
+
+| Feld | Wert |
+|------|------|
+| **Geburtsdatum** | 29. November 1772 |
+| **Taufdatum** | - |
+| **Ort** | Stettin, Preußen |
+| **Vater** | Stephan Cabos (Soldat) |
+| **Mutter** | Maria Justine Siercken |
+
+### Beschreibung
+
+**Johann Carl Abraham** war das erste Kind von Stephan und Maria Justine Cabos. Er wurde nur wenige Monate nach der Hochzeit seiner Eltern am 16. Juli 1772 geboren.
+
+---
+
+## Friedrich Ludwig Abraham Isaac (1774)
+
+![Taufe Friedrich Ludwig](../images/taufe-friedrich-ludwig-1774.jpg){ loading=lazy }
+
+!!! info "Bildhinweis"
+    Bitte fügen Sie das Bild `taufe-friedrich-ludwig-1774.jpg` in den Ordner `docs/images/` ein.
+
+### Dokumentinformationen
+
+| Feld | Wert |
+|------|------|
+| **Geburtsdatum** | 27. April 1774 |
+| **Taufdatum** | - |
+| **Ort** | Stettin, Preußen |
+| **Vater** | Stephan Cabos (Soldat) |
+| **Mutter** | Maria Justine Siercken |
+
+### Beschreibung
+
+**Friedrich Ludwig Abraham Isaac** war das zweite Kind. Er ging später nach Hamburg, wurde dort am 28. März 1806 Bürger und heiratete am 4. Mai 1806 Anna Monica Jacobsen im Hamburger Michel. Danach zog er nach Königsberg.
+
+---
+
+## Franz Alexander George Carl (1776)
+
+![Taufe Franz Alexander](../images/taufe-franz-alexander-1776.jpg){ loading=lazy }
+
+!!! info "Bildhinweis"
+    Bitte fügen Sie das Bild `taufe-franz-alexander-1776.jpg` in den Ordner `docs/images/` ein.
+
+### Dokumentinformationen
+
+| Feld | Wert |
+|------|------|
+| **Geburtsdatum** | 29. Januar 1776 |
+| **Taufdatum** | - |
+| **Ort** | Stettin, Preußen |
+| **Vater** | Stephan Cabos (Soldat) |
+| **Mutter** | Maria Justine Siercken |
+
+### Beschreibung
+
+**Franz Alexander George Carl** war das dritte Kind der Familie.
+
+---
+
+## Henriette Charlotte Sophie (1777)
+
+![Taufe Henriette Charlotte](../images/taufe-henriette-1777.jpg){ loading=lazy }
+
+!!! info "Bildhinweis"
+    Bitte fügen Sie das Bild `taufe-henriette-1777.jpg` in den Ordner `docs/images/` ein.
+
+### Dokumentinformationen
+
+| Feld | Wert |
+|------|------|
+| **Geburtsdatum** | 29. Dezember 1777 |
+| **Taufdatum** | - |
+| **Ort** | Stettin, Preußen |
+| **Vater** | Stephan Cabos (Soldat) |
+| **Mutter** | Maria Justine Siercken |
+
+### Beschreibung
+
+**Henriette Charlotte Sophie** war das vierte Kind und die erste Tochter der Familie. Sie wurde kurz vor dem Ausbruch des Bayerischen Erbfolgekrieges geboren.
+
+---
+
+## Die Taufpaten
+
+Bemerkenswert sind die hochrangigen Taufpaten der Kinder, die zeigen, dass Stephan Cabos trotz seines einfachen Soldatenstandes Verbindungen in höhere Kreise pflegte:
+
+- **Major von Wrangel**
+- **Major von Arnim** (der Kompaniechef von Stephan Cabos)
+- **Frau Lieutenant von Braunschweig**
+
+Diese adeligen Paten waren ein Zeichen der Wertschätzung und des sozialen Aufstiegs der Familie Cabos innerhalb der preußischen Garnisonsgesellschaft.
+
+---
+
+## Übersicht
+
+| Kind | Geburtsdatum | Besonderheiten |
+|------|--------------|----------------|
+| Johann Carl Abraham | 29. November 1772 | Erstes Kind |
+| Friedrich Ludwig Abraham Isaac | 27. April 1774 | Später Bürger in Hamburg, dann Königsberg |
+| Franz Alexander George Carl | 29. Januar 1776 | - |
+| Henriette Charlotte Sophie | 29. Dezember 1777 | Erste Tochter |
+
+---
+
+[← Zurück zur Übersicht](index.md)

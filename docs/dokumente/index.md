@@ -48,6 +48,14 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     [→ Details](hochzeit-stettin-1772.md)
 
+-   :material-baby-carriage:{ .lg .middle } **Geburten Stettin 1772-1777**
+
+    ---
+
+    Taufeinträge der vier Kinder Johann Carl, Friedrich Ludwig, Franz Alexander und Henriette
+
+    [→ Details](geburten-stettin.md)
+
 -   :material-sword:{ .lg .middle } **Militärregister**
 
     ---

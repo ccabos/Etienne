@@ -42,9 +42,9 @@ Am Tag nach seiner Geburt, dem 10. Juli 1737, wurde der kleine Etienne getauft. 
 
     [→ Zum Dokument](dokumente/hochzeit-laurens-1729.md)
 
--   :material-baby-carriage:{ .lg .middle } **Taufe 1737**
+-   [![Taufe 1737](images/taufe-etienne-1737.jpg){ width="200" }](dokumente/taufe-etienne-1737.md)
 
-    ---
+    **Taufe 1737**
 
     Taufeintrag Etienne Cabos
 
@@ -66,9 +66,9 @@ Etienne diente als Soldat im **Infanterieregiment Nr. 8 (von Hacke)**, in der Ko
 
 <div class="grid cards" markdown>
 
--   :material-ring:{ .lg .middle } **Hochzeit Stettin 1772**
+-   [![Hochzeit Stettin 1772](images/hochzeit-stettin-1772.jpg){ width="200" }](dokumente/hochzeit-stettin-1772.md)
 
-    ---
+    **Hochzeit Stettin 1772**
 
     Heiratseintrag Stephan Cabos und Maria Justine Siercken
 

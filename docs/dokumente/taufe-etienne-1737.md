@@ -2,10 +2,9 @@
 
 ![Taufeintrag 1737](../images/taufe-etienne-1737.jpg){ loading=lazy }
 
-*Etienne Cabos wurde am 9. Juli 1737 in Caussade als Kind von Laurens Cabos und Marie Rey geboren.*
+> *"Etiene cabos fils au Sieur Laurent cabos marchand et a demoiselle Marie Rey mariés de la pte ville est né le neuvienne juillet mille Sept cens trente sept et a été batisé le Lendemain parrain le sieur Etiene Prunet maitre chirurgien, marraine demoiselle Claire St Geniés soussignnés avec moy Lacroix vie Claire Saint genies Prunet Cabos"*
 
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `taufe-etienne-1737.jpg` in den Ordner `docs/images/` ein.
+*Etiene Cabos, Sohn des Herrn Laurens Cabos, Händler, und der Dame Marie Rey, verheiratet in der genannten Stadt, wurde am neunten Juli 1737 geboren und wurde am nächsten Tag getauft. Pate war der Herr Etiene Prunet, Meisterchirurg, Patin war die Dame Claire St Geniés. Unterschrieben mit mir Lacroix Vie, Claire Saint Genies, Prunet, Cabos*
 
 ---
 

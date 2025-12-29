@@ -2,6 +2,8 @@
 
 ![Unterhaltsvertrag 1792](../images/unterhaltsvertrag-1792.jpg){ loading=lazy }
 
+*Am 18. April 1792 erstellt das Konsistorium der lutherischen Kirche in Rotterdam einen Vertrag über Unterhalt für die Familie von Etienne.*
+
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `unterhaltsvertrag-1792.jpg` in den Ordner `docs/images/` ein.
 

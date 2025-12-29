@@ -2,6 +2,8 @@
 
 ![Hochzeitseintrag Stettin 1772](../images/hochzeit-stettin-1772.jpg){ loading=lazy }
 
+*Er wanderte aus Frankreich aus und heiratete am 16. Juli 1772 in Stettin Maria Justine Siercken. Sie wurde am 28.1.1754 in Templin bei Berlin als Tochter eines Stadtmusikers geboren.*
+
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `hochzeit-stettin-1772.jpg` in den Ordner `docs/images/` ein.
 

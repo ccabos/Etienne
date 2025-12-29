@@ -2,8 +2,7 @@
 
 ![Hochzeitseintrag 1729](../images/hochzeit-laurens-1729.jpg){ loading=lazy }
 
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `hochzeit-laurens-1729.jpg` in den Ordner `docs/images/` ein.
+*Laurens Cabos heiratete am 14. Juli 1729 Marie Rey*
 
 ---
 

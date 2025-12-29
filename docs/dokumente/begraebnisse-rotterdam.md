@@ -4,6 +4,8 @@
 
 ![Begräbnis Justine 1782](../images/begraebnis-justine-1782.jpg){ loading=lazy }
 
+*12.9.1782 Begräbnis Justine*
+
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `begraebnis-justine-1782.jpg` in den Ordner `docs/images/` ein.
 
@@ -28,6 +30,10 @@ Am **12. September 1782** wurde die kleine Justine beerdigt - nur knapp zwei Jah
 ## Begräbnis Marie Christine (1784)
 
 ![Begräbnis Marie Christine 1784](../images/begraebnis-christine-1784.jpg){ loading=lazy }
+
+*"overledene was 5 1/4 jaar; Visserdijk Galanteriwinkel"*
+
+*Im Juni 1784 stirbt Marie Christine in Rotterdam (5 1/4 Jahr alt). Eintrag zu Christine im Begräbnisbuch Juni 1784, DTB Rotterdam Begraven.*
 
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `begraebnis-christine-1784.jpg` in den Ordner `docs/images/` ein.

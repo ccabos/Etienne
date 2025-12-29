@@ -2,6 +2,10 @@
 
 ![Karte Montauban 1777](../images/karte-montauban-1777.jpg){ loading=lazy }
 
+*(Carte de France levée par ordre du Roy). No. 37 (Montauban). Aldring sculp. et Bourgoin scrip. (1777)*
+
+*Karte von 1777*
+
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `karte-montauban-1777.jpg` in den Ordner `docs/images/` ein.
 

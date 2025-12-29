@@ -2,6 +2,8 @@
 
 ![Taufe Berlin 1793](../images/taufe-berlin-1793.jpg){ loading=lazy }
 
+*Am 24. Jan. 1793 wird ihr Sohn Charles Emmanuel in Berlin geboren.*
+
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `taufe-berlin-1793.jpg` in den Ordner `docs/images/` ein.
 

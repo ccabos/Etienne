@@ -2,6 +2,8 @@
 
 ![Sterbeurkunde 1808](../images/sterbeurkunde-1808.jpg){ loading=lazy }
 
+*Etienne starb am 14.9.1808 in Charlottenburg an einem Schlaganfall*
+
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `sterbeurkunde-1808.jpg` in den Ordner `docs/images/` ein.
 

@@ -2,6 +2,8 @@
 
 ![Taufeintrag 1737](../images/taufe-etienne-1737.jpg){ loading=lazy }
 
+*Etienne Cabos wurde am 9. Juli 1737 in Caussade als Kind von Laurens Cabos und Marie Rey geboren.*
+
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `taufe-etienne-1737.jpg` in den Ordner `docs/images/` ein.
 

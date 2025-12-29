@@ -2,6 +2,8 @@
 
 ![Militärregister](../images/militaerregister.jpg){ loading=lazy }
 
+*Etienne war als Stephan Cabos Soldat im Infanterieregiment Nr. 8 (von Hacke) bei Kompaniechef Major Alexander Wilhelm von Arnim*
+
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `militaerregister.jpg` in den Ordner `docs/images/` ein.
 

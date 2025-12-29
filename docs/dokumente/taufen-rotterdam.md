@@ -4,6 +4,8 @@
 
 ![Taufe Justine 1780](../images/taufe-justine-1780.jpg){ loading=lazy }
 
+*Am 4. Sept. 1780 kommt ihre Tochter Justine in Rotterdam zur Welt. Sie wird am 13. Sept. getauft.*
+
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `taufe-justine-1780.jpg` in den Ordner `docs/images/` ein.
 
@@ -30,6 +32,10 @@ Tragischerweise starb die kleine Justine bereits am 12. September 1782 - nicht e
 ## Taufe Etienne (1783)
 
 ![Taufe Etienne 1783](../images/taufe-etienne-1783.jpg){ loading=lazy }
+
+*Der Eintrag der Taufe von Etienne 26.4.1783 im DTB Rotterdam Doop Waals.*
+
+*Am 19. Apr. 1783 wird ihr Sohn Etienne geboren. Laut eines Briefs des Pfarrers Täge aus Anklam wurde er geboren auf einer Reise von Le Havre nach Rotterdam. Am 26. Apr. wird er in Rotterdam getauft.*
 
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `taufe-etienne-1783.jpg` in den Ordner `docs/images/` ein.
@@ -58,6 +64,8 @@ Die Taufe fand am 26. April 1783 in Rotterdam statt - das Kind erhielt den Namen
 ## Taufe Elisabeth (1785)
 
 ![Taufe Elisabeth 1785](../images/taufe-elisabeth-1785.jpg){ loading=lazy }
+
+*Am 12. Sept. 1785 wird ihre Tochter Elisabeth geboren, am 25. Sept. wird sie getauft. Eintrag zur Taufe von Elisabeth 25.9.1785 im DTB Rotterdam Doop Waals.*
 
 !!! info "Bildhinweis"
     Bitte fügen Sie das Bild `taufe-elisabeth-1785.jpg` in den Ordner `docs/images/` ein.

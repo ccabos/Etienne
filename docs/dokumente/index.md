@@ -128,6 +128,14 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     [→ Details](taufe-berlin-1793.md)
 
+-   :material-tooth:{ .lg .middle } **Zahnarzt in Halle 1794-1798**
+
+    ---
+
+    Anzeigen in den Wöchentlichen Hallischen Anzeigen dokumentieren Cabos' Tätigkeit als reisender Zahnarzt
+
+    [→ Details](zahnarzt-halle.md)
+
 -   :material-grave-stone:{ .lg .middle } **Sterbeurkunde 1808**
 
     ---

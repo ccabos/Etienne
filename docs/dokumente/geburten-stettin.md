@@ -8,15 +8,16 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 
 ![Taufe Johann Carl Abraham](../images/taufe-johann-carl-1772.jpg){ loading=lazy }
 
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `taufe-johann-carl-1772.jpg` in den Ordner `docs/images/` ein.
+> *"Taufe 3.Dez.1772 — Pat. Stephan Cabos Soldat von H. Major v. Arnim — Mat. Justine Siercken — Pathen: 1. H. Meyer, 2. Webern"*
+
+*Taufe am 3. Dezember 1772. Vater: Stephan Cabos, Soldat unter Herrn Major von Arnim. Mutter: Justine Siercken. Paten: 1. Herr Meyer, 2. Webern*
 
 ### Dokumentinformationen
 
 | Feld | Wert |
 |------|------|
 | **Geburtsdatum** | 29. November 1772 |
-| **Taufdatum** | - |
+| **Taufdatum** | 3. Dezember 1772 |
 | **Ort** | Stettin, Preußen |
 | **Vater** | Stephan Cabos (Soldat) |
 | **Mutter** | Maria Justine Siercken |

@@ -114,26 +114,26 @@ Soldat im Infanterieregiment Nr. 8 (von Hacke)
 
 <div class="timeline-item left" style="margin-top: 0px;">
 <div class="timeline-year">1772</div>
-<div class="timeline-event">👶 Johann Carl Abraham</div>
+<div class="timeline-event">👶 <a href="dokumente/geburten-stettin.md#johann-carl-abraham-1772">Johann Carl Abraham</a></div>
 <div class="timeline-location">29. November - Stettin</div>
 Erstes Kind geboren
 </div>
 
 <div class="timeline-item right" style="margin-top: 3px;">
 <div class="timeline-year">1774</div>
-<div class="timeline-event">👶 Friedrich Ludwig Abraham Isaac</div>
+<div class="timeline-event">👶 <a href="dokumente/geburten-stettin.md#friedrich-ludwig-abraham-isaac-1774">Friedrich Ludwig Abraham Isaac</a></div>
 <div class="timeline-location">27. April - Stettin</div>
 </div>
 
 <div class="timeline-item left" style="margin-top: 3px;">
 <div class="timeline-year">1776</div>
-<div class="timeline-event">👶 Franz Alexander George Carl</div>
+<div class="timeline-event">👶 <a href="dokumente/geburten-stettin.md#franz-alexander-george-carl-1776">Franz Alexander George Carl</a></div>
 <div class="timeline-location">29. Januar - Stettin</div>
 </div>
 
 <div class="timeline-item right" style="margin-top: 3px;">
 <div class="timeline-year">1777</div>
-<div class="timeline-event">👶 Henriette Charlotte Sophie</div>
+<div class="timeline-event">👶 <a href="dokumente/geburten-stettin.md#henriette-charlotte-sophie-1777">Henriette Charlotte Sophie</a></div>
 <div class="timeline-location">29. Dezember - Stettin</div>
 </div>
 

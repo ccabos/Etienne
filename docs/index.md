@@ -34,9 +34,9 @@ Am Tag nach seiner Geburt, dem 10. Juli 1737, wurde der kleine Etienne getauft. 
 
 <div class="grid cards" markdown>
 
--   :material-church:{ .lg .middle } **Hochzeit 1729**
+-   [![Hochzeit 1729](images/hochzeit-laurens-1729.jpg){ width="200" }](dokumente/hochzeit-laurens-1729.md)
 
-    ---
+    **Hochzeit 1729**
 
     Heiratseintrag Laurens Cabos und Marie Rey
 

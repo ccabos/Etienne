@@ -1,0 +1,68 @@
+site_name: Etienne Cabos (1737-1808)
+site_description: Ein Leben zwischen Frankreich, Preußen und den Niederlanden
+site_url: https://yourusername.github.io/Etienne/
+
+theme:
+  name: material
+  language: de
+  palette:
+    - scheme: default
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Dunkelmodus aktivieren
+    - scheme: slate
+      primary: brown
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Hellmodus aktivieren
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+  font:
+    text: Roboto Slab
+    code: Roboto Mono
+
+nav:
+  - Startseite: index.md
+  - Historische Dokumente:
+    - Übersicht: dokumente/index.md
+    - Karte von 1777: dokumente/karte-1777.md
+    - Hochzeit Laurens Cabos 1729: dokumente/hochzeit-laurens-1729.md
+    - Taufe Etienne 1737: dokumente/taufe-etienne-1737.md
+    - Hochzeit Stettin 1772: dokumente/hochzeit-stettin-1772.md
+    - Militärregister: dokumente/militaerregister.md
+    - Reisepass 1780: dokumente/reisepass-1780.md
+    - Bürgerbuch Rotterdam: dokumente/buergerbuch-rotterdam.md
+    - Taufen Rotterdam: dokumente/taufen-rotterdam.md
+    - Begräbnisse Rotterdam: dokumente/begraebnisse-rotterdam.md
+    - Unterhaltsvertrag 1792: dokumente/unterhaltsvertrag-1792.md
+    - Taufe Berlin 1793: dokumente/taufe-berlin-1793.md
+    - Sterbeurkunde 1808: dokumente/sterbeurkunde-1808.md
+  - Quellen: quellen.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang: de
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername/Etienne

@@ -1,0 +1,91 @@
+# Taufen in Rotterdam (1780-1785)
+
+## Taufe Justine (1780)
+
+![Taufe Justine 1780](../images/taufe-justine-1780.jpg){ loading=lazy }
+
+!!! info "Bildhinweis"
+    Bitte fügen Sie das Bild `taufe-justine-1780.jpg` in den Ordner `docs/images/` ein.
+
+---
+
+### Dokumentinformationen
+
+| Feld | Wert |
+|------|------|
+| **Dokumenttyp** | DTB Rotterdam Doop Waals (Wallonisches Taufbuch) |
+| **Geburtsdatum** | 4. September 1780 |
+| **Taufdatum** | 13. September 1780 |
+| **Täufling** | Justine |
+| **Eltern** | Etienne Cabos und Maria Justine Siercken |
+
+### Beschreibung
+
+Nur wenige Monate nach der Ankunft in Rotterdam wurde am 4. September 1780 die Tochter **Justine** geboren. Sie wurde am 13. September in der wallonischen (französisch-reformierten) Kirche getauft.
+
+Tragischerweise starb die kleine Justine bereits am 12. September 1782 - nicht einmal zwei Jahre alt.
+
+---
+
+## Taufe Etienne (1783)
+
+![Taufe Etienne 1783](../images/taufe-etienne-1783.jpg){ loading=lazy }
+
+!!! info "Bildhinweis"
+    Bitte fügen Sie das Bild `taufe-etienne-1783.jpg` in den Ordner `docs/images/` ein.
+
+---
+
+### Dokumentinformationen
+
+| Feld | Wert |
+|------|------|
+| **Dokumenttyp** | DTB Rotterdam Doop Waals |
+| **Geburtsdatum** | 19. April 1783 |
+| **Taufdatum** | 26. April 1783 |
+| **Täufling** | Etienne |
+| **Eltern** | Etienne Cabos und Maria Justine Siercken |
+| **Besonderheit** | Geboren auf einer Reise von Le Havre nach Rotterdam |
+
+### Beschreibung
+
+Der Sohn **Etienne** wurde am 19. April 1783 geboren - laut eines Briefes des Pfarrers Täge aus Anklam *"auf einer Reise von Le Havre nach Rotterdam"*. Diese Angabe ist faszinierend: Was führte Etienne Cabos senior nach Le Havre? War es eine Geschäftsreise für sein Galanteriewarengeschäft?
+
+Die Taufe fand am 26. April 1783 in Rotterdam statt - das Kind erhielt den Namen seines Vaters.
+
+---
+
+## Taufe Elisabeth (1785)
+
+![Taufe Elisabeth 1785](../images/taufe-elisabeth-1785.jpg){ loading=lazy }
+
+!!! info "Bildhinweis"
+    Bitte fügen Sie das Bild `taufe-elisabeth-1785.jpg` in den Ordner `docs/images/` ein.
+
+---
+
+### Dokumentinformationen
+
+| Feld | Wert |
+|------|------|
+| **Dokumenttyp** | DTB Rotterdam Doop Waals |
+| **Geburtsdatum** | 12. September 1785 |
+| **Taufdatum** | 25. September 1785 |
+| **Täufling** | Elisabeth |
+| **Eltern** | Etienne Cabos und Maria Justine Siercken |
+
+### Beschreibung
+
+Am 12. September 1785 wurde die Tochter **Elisabeth** geboren und am 25. September getauft. Sie war das letzte Kind, das in Rotterdam zur Welt kam.
+
+Elisabeth überlebte als eine der wenigen Kinder und heiratete später (1807) in Charlottenburg den Stadtchirurgen August Friedrich Ferdinand Pohle.
+
+---
+
+## Die wallonische Kirche in Rotterdam
+
+Alle Kinder wurden in der **wallonischen (französisch-reformierten) Kirche** getauft. Die wallonischen Gemeinden in den Niederlanden waren traditionelle Anlaufpunkte für französischsprachige Protestanten und pflegten enge Verbindungen zu den hugenottischen Netzwerken in ganz Europa.
+
+---
+
+[:material-arrow-left: Zurück zur Übersicht](index.md)

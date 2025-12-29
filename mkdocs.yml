@@ -1,6 +1,6 @@
 site_name: Etienne Cabos (1737-1808)
 site_description: Ein Leben zwischen Frankreich, Preußen und den Niederlanden
-site_url: https://yourusername.github.io/Etienne/
+site_url: https://ccabos.github.io/Etienne/
 
 theme:
   name: material
@@ -65,4 +65,4 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourusername/Etienne
+      link: https://github.com/ccabos/Etienne

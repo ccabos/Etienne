@@ -87,4 +87,4 @@ Der Verlust von Kindern gehörte zum traurigen Alltag vieler Familien - auch der
 
 ---
 
-[:material-arrow-left: Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md)

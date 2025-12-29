@@ -96,4 +96,4 @@ Alle Kinder wurden in der **wallonischen (französisch-reformierten) Kirche** ge
 
 ---
 
-[:material-arrow-left: Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md)

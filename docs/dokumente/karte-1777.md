@@ -39,4 +39,4 @@ Die Karte entstand in einer Zeit, als die Hugenotten in Frankreich noch unter st
 
 ---
 
-[:material-arrow-left: Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md)

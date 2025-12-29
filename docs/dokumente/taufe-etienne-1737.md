@@ -61,4 +61,4 @@ Dieser Eintrag ist das **Geburtsdokument** von Etienne Cabos und belegt:
 
 ---
 
-[:material-arrow-left: Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md)

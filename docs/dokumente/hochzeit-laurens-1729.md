@@ -56,4 +56,4 @@ Dieser Eintrag belegt:
 
 ---
 
-[:material-arrow-left: Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md)

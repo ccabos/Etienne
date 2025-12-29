@@ -81,4 +81,4 @@ Diese adeligen Paten zeigen, dass Stephan Cabos trotz seines einfachen Soldatens
 
 ---
 
-[:material-arrow-left: Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md)

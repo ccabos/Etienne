@@ -14,7 +14,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Carte de France, Blatt Montauban - zeigt die Region Quercy, Heimat der Familie Cabos
 
-    [:octicons-arrow-right-24: Details](karte-1777.md)
+    [→ Details](karte-1777.md)
 
 -   :material-church:{ .lg .middle } **Hochzeit Laurens Cabos 1729**
 
@@ -22,7 +22,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Heiratseintrag der Eltern von Etienne
 
-    [:octicons-arrow-right-24: Details](hochzeit-laurens-1729.md)
+    [→ Details](hochzeit-laurens-1729.md)
 
 -   :material-baby-carriage:{ .lg .middle } **Taufe Etienne 1737**
 
@@ -30,7 +30,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Taufeintrag des neugeborenen Etienne in Caussade
 
-    [:octicons-arrow-right-24: Details](taufe-etienne-1737.md)
+    [→ Details](taufe-etienne-1737.md)
 
 </div>
 
@@ -46,7 +46,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Heiratseintrag von Stephan Cabos und Maria Justine Siercken
 
-    [:octicons-arrow-right-24: Details](hochzeit-stettin-1772.md)
+    [→ Details](hochzeit-stettin-1772.md)
 
 -   :material-sword:{ .lg .middle } **Militärregister**
 
@@ -54,7 +54,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Einträge zum Infanterieregiment Nr. 8 (von Hacke)
 
-    [:octicons-arrow-right-24: Details](militaerregister.md)
+    [→ Details](militaerregister.md)
 
 -   :material-passport:{ .lg .middle } **Reisepass 1780**
 
@@ -62,7 +62,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Ausgestellt von der französisch-reformierten Kirche in Isenburg
 
-    [:octicons-arrow-right-24: Details](reisepass-1780.md)
+    [→ Details](reisepass-1780.md)
 
 </div>
 
@@ -78,7 +78,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Eintrag im Poorterboek vom 24. Mai 1780
 
-    [:octicons-arrow-right-24: Details](buergerbuch-rotterdam.md)
+    [→ Details](buergerbuch-rotterdam.md)
 
 -   :material-cross:{ .lg .middle } **Taufen Rotterdam**
 
@@ -86,7 +86,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Taufeinträge der Kinder Justine, Etienne und Elisabeth
 
-    [:octicons-arrow-right-24: Details](taufen-rotterdam.md)
+    [→ Details](taufen-rotterdam.md)
 
 -   :material-grave-stone:{ .lg .middle } **Begräbnisse Rotterdam**
 
@@ -94,7 +94,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Begräbniseinträge für Justine und Marie Christine
 
-    [:octicons-arrow-right-24: Details](begraebnisse-rotterdam.md)
+    [→ Details](begraebnisse-rotterdam.md)
 
 -   :material-file-document-edit:{ .lg .middle } **Unterhaltsvertrag 1792**
 
@@ -102,7 +102,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Vertrag mit dem Konsistorium der lutherischen und wallonischen Kirche
 
-    [:octicons-arrow-right-24: Details](unterhaltsvertrag-1792.md)
+    [→ Details](unterhaltsvertrag-1792.md)
 
 </div>
 
@@ -118,7 +118,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Taufeintrag Charles Emmanuel in der Friedrichstadtkirche
 
-    [:octicons-arrow-right-24: Details](taufe-berlin-1793.md)
+    [→ Details](taufe-berlin-1793.md)
 
 -   :material-grave-stone:{ .lg .middle } **Sterbeurkunde 1808**
 
@@ -126,7 +126,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     Sterbeeintrag Etienne Cabos
 
-    [:octicons-arrow-right-24: Details](sterbeurkunde-1808.md)
+    [→ Details](sterbeurkunde-1808.md)
 
 </div>
 

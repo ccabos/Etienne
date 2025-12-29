@@ -18,7 +18,7 @@ In diese turbulente Zeit hinein wurde am **9. Juli 1737** in der kleinen Stadt *
 
     Carte de France - Blatt Montauban
 
-    [:octicons-arrow-right-24: Zur Karte](dokumente/karte-1777.md)
+    [→ Zur Karte](dokumente/karte-1777.md)
 
 </div>
 
@@ -40,7 +40,7 @@ Am Tag nach seiner Geburt, dem 10. Juli 1737, wurde der kleine Etienne getauft. 
 
     Heiratseintrag Laurens Cabos und Marie Rey
 
-    [:octicons-arrow-right-24: Zum Dokument](dokumente/hochzeit-laurens-1729.md)
+    [→ Zum Dokument](dokumente/hochzeit-laurens-1729.md)
 
 -   :material-baby-carriage:{ .lg .middle } **Taufe 1737**
 
@@ -48,7 +48,7 @@ Am Tag nach seiner Geburt, dem 10. Juli 1737, wurde der kleine Etienne getauft. 
 
     Taufeintrag Etienne Cabos
 
-    [:octicons-arrow-right-24: Zum Dokument](dokumente/taufe-etienne-1737.md)
+    [→ Zum Dokument](dokumente/taufe-etienne-1737.md)
 
 </div>
 
@@ -72,7 +72,7 @@ Etienne diente als Soldat im **Infanterieregiment Nr. 8 (von Hacke)**, in der Ko
 
     Heiratseintrag Stephan Cabos und Maria Justine Siercken
 
-    [:octicons-arrow-right-24: Zum Dokument](dokumente/hochzeit-stettin-1772.md)
+    [→ Zum Dokument](dokumente/hochzeit-stettin-1772.md)
 
 -   :material-sword:{ .lg .middle } **Militärregister**
 
@@ -80,7 +80,7 @@ Etienne diente als Soldat im **Infanterieregiment Nr. 8 (von Hacke)**, in der Ko
 
     Einträge zum Infanterieregiment Nr. 8
 
-    [:octicons-arrow-right-24: Zum Dokument](dokumente/militaerregister.md)
+    [→ Zum Dokument](dokumente/militaerregister.md)
 
 </div>
 
@@ -116,7 +116,7 @@ Am **24. Mai 1780** wurde Etienne in Rotterdam als Bürger (Poorter) eingetragen
 
     Ausgestellt von der französisch-reformierten Kirche in Isenburg
 
-    [:octicons-arrow-right-24: Zum Dokument](dokumente/reisepass-1780.md)
+    [→ Zum Dokument](dokumente/reisepass-1780.md)
 
 -   :material-book-open-variant:{ .lg .middle } **Bürgerbuch Rotterdam**
 
@@ -124,7 +124,7 @@ Am **24. Mai 1780** wurde Etienne in Rotterdam als Bürger (Poorter) eingetragen
 
     Eintrag im Poorterboek vom 24. Mai 1780
 
-    [:octicons-arrow-right-24: Zum Dokument](dokumente/buergerbuch-rotterdam.md)
+    [→ Zum Dokument](dokumente/buergerbuch-rotterdam.md)
 
 </div>
 
@@ -150,7 +150,7 @@ Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Guld
 
     Taufeinträge der Kinder Justine, Etienne und Elisabeth
 
-    [:octicons-arrow-right-24: Zu den Dokumenten](dokumente/taufen-rotterdam.md)
+    [→ Zu den Dokumenten](dokumente/taufen-rotterdam.md)
 
 -   :material-grave-stone:{ .lg .middle } **Begräbnisse Rotterdam**
 
@@ -158,7 +158,7 @@ Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Guld
 
     Begräbniseinträge für Justine und Marie Christine
 
-    [:octicons-arrow-right-24: Zu den Dokumenten](dokumente/begraebnisse-rotterdam.md)
+    [→ Zu den Dokumenten](dokumente/begraebnisse-rotterdam.md)
 
 -   :material-file-document-edit:{ .lg .middle } **Unterhaltsvertrag 1792**
 
@@ -166,7 +166,7 @@ Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Guld
 
     Vertrag mit dem Konsistorium Rotterdam
 
-    [:octicons-arrow-right-24: Zum Dokument](dokumente/unterhaltsvertrag-1792.md)
+    [→ Zum Dokument](dokumente/unterhaltsvertrag-1792.md)
 
 </div>
 
@@ -186,7 +186,7 @@ Am **24. Januar 1793** wurde in Berlin der letzte Sohn der Familie geboren: **Ch
 
     Taufeintrag Charles Emmanuel in der Friedrichstadtkirche
 
-    [:octicons-arrow-right-24: Zum Dokument](dokumente/taufe-berlin-1793.md)
+    [→ Zum Dokument](dokumente/taufe-berlin-1793.md)
 
 </div>
 
@@ -208,7 +208,7 @@ Seine Frau Maria Justine überlebte ihn um zwei Jahre. Am 10. September 1810 sta
 
     Sterbeeintrag Etienne Cabos in Berlin
 
-    [:octicons-arrow-right-24: Zum Dokument](dokumente/sterbeurkunde-1808.md)
+    [→ Zum Dokument](dokumente/sterbeurkunde-1808.md)
 
 </div>
 
@@ -238,7 +238,7 @@ Frédéric Louis kam ca. 1794 nach Hamburg und wurde am 28. März 1806 Bürger. 
 
     Alle Primärquellen und Sekundärliteratur
 
-    [:octicons-arrow-right-24: Zu den Quellen](quellen.md)
+    [→ Zu den Quellen](quellen.md)
 
 -   :material-folder-multiple:{ .lg .middle } **Historische Dokumente**
 
@@ -246,6 +246,6 @@ Frédéric Louis kam ca. 1794 nach Hamburg und wurde am 28. März 1806 Bürger. 
 
     Übersicht aller Originaldokumente
 
-    [:octicons-arrow-right-24: Zur Übersicht](dokumente/index.md)
+    [→ Zur Übersicht](dokumente/index.md)
 
 </div>

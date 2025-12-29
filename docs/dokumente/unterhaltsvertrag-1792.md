@@ -81,4 +81,4 @@ Es ist ein ehrliches Zeugnis der Schwierigkeiten, mit denen viele Emigranten kon
 
 ---
 
-[:material-arrow-left: Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md)

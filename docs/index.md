@@ -82,6 +82,14 @@ Etienne diente als Soldat im **Infanterieregiment Nr. 8 (von Hacke)**, in der Ko
 
     [→ Zum Dokument](dokumente/militaerregister.md)
 
+-   [![Geburten Stettin](images/taufe-johann-carl-1772.jpg){ width="200" }](dokumente/geburten-stettin.md)
+
+    **Geburten Stettin 1772-1777**
+
+    Taufeinträge der vier Kinder Johann Carl, Friedrich Ludwig, Franz Alexander und Henriette
+
+    [→ Zu den Dokumenten](dokumente/geburten-stettin.md)
+
 </div>
 
 ---

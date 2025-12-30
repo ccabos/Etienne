@@ -136,6 +136,8 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     ---
 
+    ![Begräbnis Christine](../images/Begraebnis_Christine-11-06-1784.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
     Begräbniseinträge für Justine und Marie Christine
 
     [→ Details](begraebnisse-rotterdam.md)

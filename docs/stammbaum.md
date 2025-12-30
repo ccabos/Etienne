@@ -11,7 +11,10 @@ graph TD
     A["👨 Laurens Cabos<br/>Kaufmann<br/>Caussade"] --> H1["💒 Hochzeit<br/>14. Juli 1729<br/>Caussade"]
     B["👩 Marie Rey<br/>Caussade"] --> H1
 
+    H1 --> S0["👤 ??? Cabos<br/>vor 1737-?<br/>älterer Bruder?"]
     H1 --> C["👤 Etienne Cabos<br/>1737-1808<br/>⭐ Caussade 🪦 Berlin"]
+    H1 --> S1["👦 Jean Cabos<br/>~1730-1796<br/>⭐🪦 Caussade"]
+    H1 --> S2["👦 Pierre Cabos<br/>1740-?<br/>⭐ Caussade"]
 
     C --> H2["💒 Hochzeit<br/>16. Juli 1772<br/>Stettin"]
     D["👩 Maria Justine Siercken<br/>1754-1810<br/>⭐ Templin 🪦 Charlottenburg"] --> H2
@@ -30,6 +33,9 @@ graph TD
     F["👨 August Friedrich<br/>Ferdinand Pohle<br/>Stadtchirurg"] --> H3
 
     style C fill:#8d6e63,stroke:#5d4037,stroke-width:3px,color:#fff
+    style S0 fill:#9e9e9e,stroke:#616161,stroke-width:2px,stroke-dasharray:5,color:#fff
+    style S1 fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
+    style S2 fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
     style E5 fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
     style E6 fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
     style H1 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
@@ -37,6 +43,8 @@ graph TD
     style H3 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
 
     classDef mainPerson fill:#8d6e63,stroke:#5d4037,stroke-width:3px,color:#fff
+    classDef sibling fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
+    classDef unknown fill:#9e9e9e,stroke:#616161,stroke-width:2px,stroke-dasharray:5,color:#fff
     classDef deceased fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
     classDef marriage fill:#ffd54f,stroke:#f9a825,stroke-width:2px
 ```
@@ -47,6 +55,8 @@ graph TD
 - 💒 = Hochzeit (eigener Knoten)
 - † = früh verstorben
 - <span style="background-color:#8d6e63; color:white; padding:2px 8px; border-radius:3px;">Braun</span> = Etienne Cabos (Hauptperson)
+- <span style="background-color:#7986cb; color:white; padding:2px 8px; border-radius:3px;">Blau</span> = Geschwister von Etienne
+- <span style="background-color:#9e9e9e; color:white; padding:2px 8px; border-radius:3px;">Grau gestrichelt</span> = Unbestätigt/vermutet
 - <span style="background-color:#ef5350; color:white; padding:2px 8px; border-radius:3px;">Rot</span> = Im Kindesalter verstorben
 - <span style="background-color:#ffd54f; color:black; padding:2px 8px; border-radius:3px;">Gelb</span> = Hochzeitsknoten
 
@@ -72,7 +82,15 @@ graph TD
 
 ---
 
-### Generation II: Etienne Cabos
+### Generation II: Die Söhne von Laurens und Marie
+
+#### 👤 ??? Cabos (vor 1737 - ?)
+- **Geburt:** vor 1737 (vermutlich)
+- **Status:** Unbestätigt
+- **Hinweis:** Das [Bulletin 1907](dokumente/bulletin-1907.md) behauptet, Etiennes "älterer Bruder" sei in Caussade hingerichtet worden. Weder Jean noch Pierre können dieser Bruder sein. Wenn die Behauptung stimmt, muss es einen vierten, älteren Bruder gegeben haben.
+
+!!! warning "Forschungsbedarf"
+    Die Existenz dieses Bruders ist nicht durch Primärquellen belegt.
 
 #### 👤 Etienne Cabos (1737-1808)
 - **Geburt:** 9. Juli 1737 in Caussade, Frankreich
@@ -93,6 +111,33 @@ graph TD
 - 1793: Neubeginn als Zahnarzt in Berlin
 
 [→ Taufurkunde 1737](dokumente/taufe-etienne-1737.md) | [→ Sterbeurkunde 1808](dokumente/sterbeurkunde-1808.md)
+
+#### 👦 Jean Cabos (~1730-1796)
+- **Geburt:** ca. 1730 (geschätzt)
+- **Tod:** 4. November 1796 in Caussade
+- **Hochzeit:** 3./8. Februar 1760 mit Jeanne Fournier
+- **Religion:** Protestantisch (Trauung "au Désert" durch Pastor Lafond)
+- **Besonderheit:** Blieb in Caussade, starb dort friedlich während der Französischen Revolution
+
+!!! success "Nicht der hingerichtete Bruder"
+    Die Sterbeurkunde von 1796 beweist, dass Jean nicht hingerichtet wurde.
+
+[→ Hochzeitsdokument 1760](dokumente/hochzeit-jean-1760.md)
+
+#### 👦 Pierre Cabos (1740-?)
+- **Geburt:** 1. November 1740 in Caussade
+- **Taufe:** 1. November 1740
+- **Eltern:** Laurens Cabos und Marie Rey
+- **Besonderheit:** Jüngerer Bruder von Etienne (3 Jahre jünger)
+
+!!! info "Nicht der ältere Bruder"
+    Pierre wurde 1740 geboren, also 3 Jahre nach Etienne - er kann nicht der "ältere hingerichtete Bruder" aus dem Bulletin 1907 sein.
+
+[→ Taufdokument 1740](dokumente/taufe-pierre-1740.md)
+
+---
+
+### Etienne und Maria Justine
 
 #### 👩 Maria Justine Siercken (1754-1810)
 - **Geburt:** 28. Januar 1754 in Templin, Preußen

@@ -136,13 +136,21 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     [→ Details](zahnarzt-halle.md)
 
--   :material-grave-stone:{ .lg .middle } **Sterbeurkunde 1808**
+-   :material-grave-stone:{ .lg .middle } **Sterbeurkunde Etienne 1808**
 
     ---
 
     Sterbeeintrag Etienne Cabos
 
     [→ Details](sterbeurkunde-1808.md)
+
+-   :material-grave-stone:{ .lg .middle } **Sterbeurkunde Maria Justine 1810**
+
+    ---
+
+    Sterbeeintrag in der Luisenkirche Charlottenburg
+
+    [→ Details](sterbeurkunde-justine-1810.md)
 
 </div>
 

@@ -220,17 +220,25 @@ Dass Etienne tatsächlich als Zahnarzt praktizierte, belegen Anzeigen in den **W
 
 Am **14. September 1808**, morgens um ein Uhr, starb Etienne Cabos im Alter von 71 Jahren im Charlottenburger Krankenhaus an einem Schlaganfall. Der Kirchenbucheintrag der französisch-reformierten Friedrichstadtkirche vermerkt seinen Tod und seine Beerdigung am 16. September auf dem *"cimetière de la porte d'Orange"* - dem Friedhof am Oranienburger Tor, dem Friedhof der französischen Kolonie.
 
-Seine Frau Maria Justine überlebte ihn um zwei Jahre. Am 10. September 1810 starb sie abends um neun Uhr an der Ruhr. Der Kirchenbucheintrag bezeichnet sie als "separirte" - getrennt lebend -, ein Hinweis darauf, dass die Ehe in den letzten Jahren vielleicht nicht mehr glücklich war. Sie hinterließ *"1 major: Tochter und 3 Söhne davon 2 major: sind, und 1 Sohn von dem man seit 20 Jahren nichts weiß"* - ein erwachsenes Kind und drei Söhne, von denen zwei volljährig waren, und einen Sohn, von dem man seit 20 Jahren nichts gehört hatte.
+Seine Frau Maria Justine überlebte ihn um zwei Jahre. Am 10. September 1810 starb sie abends um neun Uhr an der Ruhr. Der Kirchenbucheintrag der **Luisenkirche in Charlottenburg** bezeichnet sie als "separirte" - getrennt lebend -, ein Hinweis darauf, dass die Ehe in den letzten Jahren zerbrochen war. Sie hinterließ *"1 major: Tochter und 3 Söhne davon 2 major: sind, und 1 Sohn von dem man seit 20 Jahren nichts weiß"* - ein erwachsenes Kind und drei Söhne, von denen zwei volljährig waren, und einen Sohn, von dem man seit 20 Jahren nichts gehört hatte.
 
 <div class="grid cards" markdown>
 
--   [![Sterbeurkunde 1808](images/sterbeurkunde-1808.jpg){ width="200" }](dokumente/sterbeurkunde-1808.md)
+-   [![Sterbeurkunde Etienne 1808](images/sterbeurkunde-1808.jpg){ width="200" }](dokumente/sterbeurkunde-1808.md)
 
-    **Sterbeurkunde 1808**
+    **Sterbeurkunde Etienne 1808**
 
     Sterbeeintrag Etienne Cabos in Berlin
 
     [→ Zum Dokument](dokumente/sterbeurkunde-1808.md)
+
+-   [![Sterbeurkunde Maria Justine 1810](images/Tod_Justine_Siercken-1811.jpg){ width="200" }](dokumente/sterbeurkunde-justine-1810.md)
+
+    **Sterbeurkunde Maria Justine 1810**
+
+    Sterbeeintrag in der Luisenkirche Charlottenburg
+
+    [→ Zum Dokument](dokumente/sterbeurkunde-justine-1810.md)
 
 </div>
 

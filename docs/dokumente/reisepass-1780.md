@@ -2,8 +2,12 @@
 
 ![Reisepass 1780](../images/reisepass-1780.jpg){ loading=lazy }
 
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `reisepass-1780.jpg` in den Ordner `docs/images/` ein.
+> *"Nous le Pasteur et les Anciens de l'Eglise fracoise d'Ysembourg certfions que Susanne Elisabeth Sollerolle originaire de Schwobach en Franconie a passer (?) quelque tems ici avec (?) un de ses parens. Ayant produit les témoignages rea(?) de la conduite, elle a été admisse avec nous a la participation de la S. Cène. Pendant tout le tems quelle a eté au milieu de nous, elle a non seulement contribué à la b…ation de notre troupeau en (fren?)quentant regulierement nos..."*
+
+*Wir, der Pastor und die Kirchenältesten der französischen Kirche von Isenburg, bestätigen, dass Susanne Elisabeth Sollerolle, gebürtig aus Schwabach in Franken, einige Zeit hier bei einem ihrer Verwandten verbracht hat. Nachdem sie gültige Zeugnisse ihres Lebenswandels vorgelegt hat, wurde sie bei uns zur Teilnahme am heiligen Abendmahl zugelassen. Während der ganzen Zeit, die sie in unserer Mitte war, hat sie nicht nur zur ... unserer Gemeinde beigetragen, indem sie regelmäßig unsere...*
+
+!!! note "Hinweis"
+    Das abgebildete Dokument zeigt einen Pass für **Susanne Elisabeth Sollerolle** aus Schwabach in Franken - nicht für Etienne Cabos. Es illustriert jedoch das Format der von der französisch-reformierten Kirche in Isenburg ausgestellten Reisepässe.
 
 ---
 

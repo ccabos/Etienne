@@ -75,6 +75,10 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 
 ![Taufe Henriette Charlotte](../images/taufe-henriette-1777.jpg){ loading=lazy }
 
+> *"Henriette Charl. Sophie Cabos — Pat. Stephan Cabos Soldat von dem H Maj v Arnim — Mat Marie Justine Siercken — Pathen: 1. Die Frau Lieutenant v Braunschweig geb v Wedel, 2. Frau Haubtm. v Schwerin, 3. H... v Puttkammer — Geboren 29. Dezember 1777"*
+
+*Henriette Charlotte Sophie Cabos. Vater: Stephan Cabos, Soldat unter Herrn Major von Arnim. Mutter: Marie Justine Siercken. Paten: 1. Frau Lieutenant von Braunschweig, geborene von Wedel, 2. Frau Hauptmann von Schwerin, 3. Herr ... von Puttkammer. Geboren am 29. Dezember 1777.*
+
 ### Dokumentinformationen
 
 | Feld | Wert |

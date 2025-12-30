@@ -8,57 +8,47 @@ Diese Seite zeigt die genealogischen Verbindungen der Familie Cabos über drei G
 
 ```mermaid
 graph TD
-    A["👨 Laurens Cabos<br/>Kaufmann<br/>Caussade"] ---|⚭ 1729| B["👩 Marie Rey<br/>Caussade"]
+    A["👨 Laurens Cabos<br/>Kaufmann<br/>Caussade"] --> H1["💒 Hochzeit<br/>14. Juli 1729<br/>Caussade"]
+    B["👩 Marie Rey<br/>Caussade"] --> H1
 
-    A --> C["👤 Etienne Cabos<br/>1737-1808<br/>⭐ Caussade 🪦 Berlin"]
-    B --> C
+    H1 --> C["👤 Etienne Cabos<br/>1737-1808<br/>⭐ Caussade 🪦 Berlin"]
 
-    C ---|⚭ 1772<br/>Stettin| D["👩 Maria Justine Siercken<br/>1754-?<br/>⭐ Templin"]
+    C --> H2["💒 Hochzeit<br/>16. Juli 1772<br/>Stettin"]
+    D["👩 Maria Justine Siercken<br/>1754-?<br/>⭐ Templin"] --> H2
 
-    C --> E1["👦 Johann Carl Abraham<br/>1772<br/>⭐ Stettin"]
-    D --> E1
+    H2 --> E1["👦 Johann Carl Abraham<br/>1772<br/>⭐ Stettin"]
+    H2 --> E2["👦 Friedrich Ludwig<br/>1774<br/>⭐ Stettin<br/>später Hamburg & Königsberg"]
+    H2 --> E3["👦 Franz Alexander<br/>1776<br/>⭐ Stettin"]
+    H2 --> E4["👧 Henriette Charlotte<br/>1777<br/>⭐ Stettin"]
+    H2 --> E5["👧 Marie Christine<br/>~1779-1784 †<br/>⭐ Stettin 🪦 Rotterdam"]
+    H2 --> E6["👧 Justine<br/>1780-1782 †<br/>⭐🪦 Rotterdam"]
+    H2 --> E7["👦 Etienne<br/>1783<br/>⭐ Le Havre → Rotterdam"]
+    H2 --> E8["👧 Elisabeth<br/>1785<br/>⭐ Rotterdam"]
+    H2 --> E9["👦 Charles Emmanuel<br/>1793<br/>⭐ Berlin"]
 
-    C --> E2["👦 Friedrich Ludwig<br/>1774<br/>⭐ Stettin<br/>später Hamburg & Königsberg"]
-    D --> E2
-
-    C --> E3["👦 Franz Alexander<br/>1776<br/>⭐ Stettin"]
-    D --> E3
-
-    C --> E4["👧 Henriette Charlotte<br/>1777<br/>⭐ Stettin"]
-    D --> E4
-
-    C --> E5["👧 Marie Christine<br/>~1779-1784 †<br/>⭐ Stettin 🪦 Rotterdam"]
-    D --> E5
-
-    C --> E6["👧 Justine<br/>1780-1782 †<br/>⭐🪦 Rotterdam"]
-    D --> E6
-
-    C --> E7["👦 Etienne<br/>1783<br/>⭐ Le Havre → Rotterdam"]
-    D --> E7
-
-    C --> E8["👧 Elisabeth<br/>1785<br/>⭐ Rotterdam"]
-    D --> E8
-
-    C --> E9["👦 Charles Emmanuel<br/>1793<br/>⭐ Berlin"]
-    D --> E9
-
-    E8 ---|⚭ 1807<br/>Charlottenburg| F["👨 August Friedrich<br/>Ferdinand Pohle<br/>Stadtchirurg"]
+    E8 --> H3["💒 Hochzeit<br/>1807<br/>Charlottenburg"]
+    F["👨 August Friedrich<br/>Ferdinand Pohle<br/>Stadtchirurg"] --> H3
 
     style C fill:#8d6e63,stroke:#5d4037,stroke-width:3px,color:#fff
     style E5 fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
     style E6 fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
+    style H1 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
+    style H2 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
+    style H3 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
 
     classDef mainPerson fill:#8d6e63,stroke:#5d4037,stroke-width:3px,color:#fff
     classDef deceased fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
+    classDef marriage fill:#ffd54f,stroke:#f9a825,stroke-width:2px
 ```
 
 **Legende:**
 - ⭐ = Geburtsort
 - 🪦 = Sterbeort
-- ⚭ = Hochzeit
+- 💒 = Hochzeit (eigener Knoten)
 - † = früh verstorben
 - <span style="background-color:#8d6e63; color:white; padding:2px 8px; border-radius:3px;">Braun</span> = Etienne Cabos (Hauptperson)
 - <span style="background-color:#ef5350; color:white; padding:2px 8px; border-radius:3px;">Rot</span> = Im Kindesalter verstorben
+- <span style="background-color:#ffd54f; color:black; padding:2px 8px; border-radius:3px;">Gelb</span> = Hochzeitsknoten
 
 ---
 

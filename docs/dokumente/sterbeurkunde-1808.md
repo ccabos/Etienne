@@ -41,7 +41,7 @@ Der **Cimetière de la porte d'Orange** (Friedhof am Oranienburger Tor) war der 
 
 *Karte von Berlin um 1810. Der Friedhof am Oranienburger Tor (Cimetière de la porte d'Orange) lag nördlich der Stadtmauer.*
 
-Der Friedhof existiert heute nicht mehr - er wurde im 19. Jahrhundert aufgelöst und überbaut.
+Der Friedhof existiert noch heute als **Französischer Friedhof** in der Chausseestraße in Berlin.
 
 ---
 

@@ -102,7 +102,14 @@
 Sohn von Laurens Cabos (Kaufmann) und Marie Rey
 </div>
 
-<div class="timeline-item right" style="margin-top: 10px;">
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1740</div>
+<div class="timeline-event">👶 <a href="dokumente/taufe-pierre-1740.md">Taufe Pierre Cabos</a></div>
+<div class="timeline-location">1. November - Caussade</div>
+Jüngerer Bruder von Etienne
+</div>
+
+<div class="timeline-item left" style="margin-top: 10px;">
 <div class="timeline-year">1760</div>
 <div class="timeline-event">💒 <a href="dokumente/hochzeit-jean-1760.md">Hochzeit Jean Cabos</a></div>
 <div class="timeline-location">3./8. Februar - Caussade</div>
@@ -295,6 +302,7 @@ Gestorben an der Ruhr, 56 Jahre alt.<br>
 | Jahr | Alter | Ereignis | Ort |
 |------|-------|----------|-----|
 | 1737 | 0 | Geburt & Taufe | Caussade, Frankreich |
+| 1740 | 3 | Bruder Pierre geboren | Caussade |
 | 1760 | 23 | Bruder Jean heiratet Jeanne Fournier | Caussade |
 | 1761-62 | 24-25 | Affäre Rochette - Hinrichtungen | Caussade/Toulouse |
 | 1772 | 35 | Hochzeit mit Maria Justine Siercken | Stettin, Preußen |

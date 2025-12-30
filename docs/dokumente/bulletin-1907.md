@@ -67,7 +67,7 @@ Diese Passage wirft ein völlig neues Licht auf Etienne Cabos:
 | Behauptung | Bewertung | Anmerkung |
 |------------|-----------|-----------|
 | **"Deserteur"** | ⚠️ Unklar | War Etienne ein Deserteur aus der französischen Armee? Oder bezieht sich dies auf sein Verlassen Preußens? |
-| **Bruder hingerichtet** | ❓ Nicht Jean! | Etienne hatte einen Bruder **[Jean Cabos](hochzeit-jean-1760.md)** (†1796) - aber dieser starb 1796 in Caussade, wurde also **nicht** hingerichtet. Gab es einen dritten Bruder? |
+| **Bruder hingerichtet** | ❓ Vierter Bruder? | Weder **[Jean](hochzeit-jean-1760.md)** (†1796) noch **[Pierre](taufe-pierre-1740.md)** (1740, jünger als Etienne). Wenn wahr, muss es einen **vierten, älteren Bruder** gegeben haben! |
 | **1792 aus Holland vertrieben** | ✅ Bestätigt | Passt zum Unterhaltsvertrag vom April 1792, aber "französische Besatzungsmacht" ist anachronistisch - die Franzosen kamen erst 1795 |
 | **Habseligkeiten verloren** | ⚠️ Möglich | Passt zur finanziellen Notlage der Familie |
 | **Friseur, Zahnarzt, Parfümeur** | ✅ Teilweise bestätigt | Die Tätigkeit als Zahnarzt ist durch die Hallischen Anzeigen belegt |
@@ -155,7 +155,7 @@ Dieses Dokument ist eine der wenigen externen Quellen, die Etienne Cabos namentl
 - Die Härten der preußischen Armee erlebte
 - Trotz aller Widrigkeiten eine Familie gründete und erhielt
 
-Die Entdeckung des Bruders **[Jean Cabos](hochzeit-jean-1760.md)** (1760 Hochzeit, †1796 Caussade) zeigt, dass Jean **nicht** der hingerichtete Bruder war - er lebte noch 34 Jahre nach der Affäre Rochette. Wenn die Behauptung im Bulletin stimmt, muss es einen **dritten Bruder** gegeben haben. Diese Frage bleibt ein faszinierendes Rätsel für weitere Forschungen in den Kirchenbüchern von Caussade.
+Die Entdeckung der Brüder **[Jean Cabos](hochzeit-jean-1760.md)** (†1796 Caussade) und **[Pierre Cabos](taufe-pierre-1740.md)** (geb. 1740, jünger als Etienne) zeigt, dass keiner von beiden der hingerichtete "ältere Bruder" war. Wenn die Behauptung im Bulletin stimmt, muss es einen **vierten, älteren Bruder** gegeben haben, der vor 1737 geboren wurde. Diese Frage bleibt ein faszinierendes Rätsel für weitere Forschungen in den Kirchenbüchern von Caussade.
 
 ---
 

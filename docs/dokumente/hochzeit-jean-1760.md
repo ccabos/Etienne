@@ -139,9 +139,10 @@ Dieses Dokument erweitert unser Bild der Familie Cabos erheblich:
 |--------|-------|-------------|--------|
 | **Laurent Cabos** | Vater | ? - ? | Hochzeit 1729, Ehevertrag Jean 1760 |
 | **Marie Rey** | Mutter | ? - ? | Hochzeit 1729 |
-| **Etienne Cabos** | Sohn | 1737-1808 | Taufe 1737, Tod Berlin 1808 |
+| **??? Cabos** | "Älterer Bruder" (hingerichtet?) | vor 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Sohn | ca. 1730? - 1796 | Hochzeit 1760, Tod Caussade 1796 |
-| **??? Cabos** | "Älterer Bruder" (hingerichtet?) | ? - ? | Bulletin 1907 (nicht Jean!) |
+| **Etienne Cabos** | Sohn | 1737-1808 | Taufe 1737, Tod Berlin 1808 |
+| **[Pierre Cabos](taufe-pierre-1740.md)** | Sohn | 1740 - ? | Taufe 1740 |
 
 ### Soziales Netzwerk
 

@@ -32,6 +32,10 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 
 ![Taufe Friedrich Ludwig](../images/taufe-friedrich-ludwig-1774.jpg){ loading=lazy }
 
+> *"Pat: Stephan Cabos, S. von H. Maj. v Arnim — Mat: Christine Siegrigen — Pathen: 1. H. Major v. Wrangel, 2. H. Major v. Arnim, 3. Die Fräulein v. Zarkow"*
+
+*Vater: Stephan Cabos, Soldat unter Herrn Major von Arnim. Mutter: Christine Siercken. Paten: 1. Herr Major von Wrangel, 2. Herr Major von Arnim, 3. Fräulein von Zarkow.*
+
 ### Dokumentinformationen
 
 | Feld | Wert |

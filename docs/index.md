@@ -16,9 +16,9 @@ In diese turbulente Zeit hinein wurde am **9. Juli 1737** in der kleinen Stadt *
 
 <div class="grid cards" markdown>
 
--   :material-map:{ .lg .middle } **Karte von 1777**
+-   [![Karte von 1777](images/Karte%20Montauban%201777.png){ width="200" }](dokumente/karte-1777.md)
 
-    ---
+    **Karte von 1777**
 
     Carte de France - Blatt Montauban
 

@@ -37,6 +37,10 @@ Am **14. September 1808**, morgens um ein Uhr, starb **Etienne Cabos** im Alter 
 
 Der **Cimetière de la porte d'Orange** (Friedhof am Oranienburger Tor) war der Begräbnisplatz der französisch-reformierten Gemeinde in Berlin. Hier fanden die Mitglieder der hugenottischen Gemeinde ihre letzte Ruhe.
 
+![Berlin 1810 - Friedhof am Oranienburger Tor](../images/berlin-1810.jpg){ loading=lazy }
+
+*Karte von Berlin um 1810. Der Friedhof am Oranienburger Tor (Cimetière de la porte d'Orange) lag nördlich der Stadtmauer.*
+
 Der Friedhof existiert heute nicht mehr - er wurde im 19. Jahrhundert aufgelöst und überbaut.
 
 ---

@@ -225,9 +225,10 @@ Beerdigt auf dem Friedhof am Oranienburger Tor
 
 <div class="timeline-item left" style="margin-top: 3px;">
 <div class="timeline-year">1810</div>
-<div class="timeline-event">✝️ Tod Maria Justine</div>
-<div class="timeline-location">10. September - Berlin</div>
-Gestorben an der Ruhr
+<div class="timeline-event">✝️ <a href="dokumente/sterbeurkunde-justine-1810.md">Tod Maria Justine</a></div>
+<div class="timeline-location">10. September - Charlottenburg</div>
+Gestorben an der Ruhr, 56 Jahre alt.<br>
+"separirte" - getrennt lebend
 </div>
 
 </div>

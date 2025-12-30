@@ -122,9 +122,9 @@ Am **24. Mai 1780** wurde Etienne in Rotterdam als Bürger (Poorter) eingetragen
 
 <div class="grid cards" markdown>
 
--   :material-passport:{ .lg .middle } **Reisepass 1780**
+-   [![Reisepass 1780](images/reisepass-1780.jpg){ width="200" }](dokumente/reisepass-1780.md)
 
-    ---
+    **Reisepass 1780**
 
     Ausgestellt von der französisch-reformierten Kirche in Isenburg
 

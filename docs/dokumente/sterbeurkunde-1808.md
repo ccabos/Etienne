@@ -2,10 +2,12 @@
 
 ![Sterbeurkunde 1808](../images/sterbeurkunde-1808.jpg){ loading=lazy }
 
-*Etienne starb am 14.9.1808 in Charlottenburg an einem Schlaganfall*
+> *"Le 14 Sep 1808 à 1 heure du matin est mort d'apoplexie à l'hopital Etienne Cabos agé de 71 ans natif de Kochshagen fils d'Etienne Cabos et de Marie Rey sa femme. Enterrer le 16 au cimetiere de la porte d'Orange"*
 
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `sterbeurkunde-1808.jpg` in den Ordner `docs/images/` ein.
+*Am 14. September 1808 um 1 Uhr morgens ist an einem Schlaganfall im Krankenhaus gestorben Etienne Cabos, 71 Jahre alt, gebürtig aus "Kochshagen" [= Caussade], Sohn von Etienne Cabos und seiner Ehefrau Marie Rey. Beerdigt am 16. auf dem Friedhof am Oranienburger Tor.*
+
+!!! note "Ortsname 'Kochshagen'"
+    Der Schreiber notierte den Geburtsort als "Kochshagen" - eine phonetische Verballhornung von **Caussade**. Der französische Ortsname war dem deutschsprachigen Kirchenbuchführer offenbar nicht geläufig.
 
 ---
 
@@ -20,12 +22,6 @@
 | **Alter** | 71 Jahre |
 | **Beerdigungsdatum** | 16. September 1808 |
 | **Friedhof** | Cimetière de la porte d'Orange (Friedhof am Oranienburger Tor) |
-
----
-
-## Transkription
-
-*[Transkription des Originaleintrags hier einfügen]*
 
 ---
 

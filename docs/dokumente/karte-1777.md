@@ -1,13 +1,18 @@
-# Karte von 1777 - Blatt Montauban
+# Historische Karten
+
+## Karte von 1789 - Europa zur Zeit der Revolution
+
+![Karte 1789](../images/karte-1789.png){ loading=lazy }
+
+*Europa im Jahr 1789 - dem Jahr der Französischen Revolution. Die Karte zeigt die politischen Grenzen zur Lebenszeit von Etienne Cabos.*
+
+---
+
+## Karte von 1777 - Blatt Montauban
 
 ![Karte Montauban 1777](../images/karte-montauban-1777.jpg){ loading=lazy }
 
 *(Carte de France levée par ordre du Roy). No. 37 (Montauban). Aldring sculp. et Bourgoin scrip. (1777)*
-
-*Karte von 1777*
-
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `karte-montauban-1777.jpg` in den Ordner `docs/images/` ein.
 
 ---
 

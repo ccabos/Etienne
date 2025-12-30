@@ -60,7 +60,9 @@ Am Tag nach seiner Geburt, dem 10. Juli 1737, wurde der kleine Etienne getauft. 
 
 ## Der Weg nach Preußen
 
-Die genauen Umstände, die Etienne aus seiner südfranzösischen Heimat nach Norddeutschland führten, liegen im Dunkel der Geschichte. Fest steht jedoch, dass er in den frühen 1770er Jahren in Stettin auftaucht - nicht als Kaufmann wie sein Vater, sondern als Soldat im preußischen Heer.
+Die genauen Umstände, die Etienne aus seiner südfranzösischen Heimat nach Norddeutschland führten, liegen im Dunkel der Geschichte. Ein [französischer Bericht aus dem Jahr 1907](dokumente/bulletin-1907.md) erwähnt jedoch, dass sein **älterer Bruder in Caussade hingerichtet** worden sei - wegen eines unbekannten Vergehens. Ob dieses familiäre Drama Etienne zur Flucht aus Frankreich trieb, bleibt Spekulation, doch es würde erklären, warum er seine Heimat für immer verließ.
+
+Fest steht, dass er in den frühen 1770er Jahren in Stettin auftaucht - nicht als Kaufmann wie sein Vater, sondern als Soldat im preußischen Heer. Der gleiche Bericht bezeichnet ihn als "Deserteur" und erwähnt, dass er "zahlreiche Schläge erhielt, um die preußische Exerzierkunst zu erlernen" - ein Hinweis auf die berüchtigte Härte der preußischen Militärdisziplin.
 
 Preußen unter Friedrich dem Großen war ein Zufluchtsort für französische Protestanten. Das Edikt von Potsdam von 1685 hatte den verfolgten Hugenotten Aufnahme und besondere Privilegien gewährt. Etwa 18.000 bis 20.000 Hugenotten fanden in Brandenburg-Preußen eine neue Heimat und brachten über 40 neue Berufszweige mit, gründeten die ersten Manufakturen und fanden Zugang zu gehobenen Positionen in Militär, Wissenschaft und Verwaltung. Französisch wurde zur Sprache der gebildeten Eliten, und die reformierte Konfession verband die Hugenotten mit dem brandenburgischen Herrscherhaus.
 
@@ -198,7 +200,7 @@ Die Familie Cabos reiste 1792 nach Berlin - in eine Stadt, die seit über hunder
 
 Am **24. Januar 1793** wurde in Berlin der letzte Sohn der Familie geboren: **Charles Emmanuel**. Der Kirchenbucheintrag der französisch-reformierten Friedrichstadtkirche vermerkt, dass der Vater als *"Dentiste, natif de Caussade en Querci"* - als Zahnarzt, gebürtig aus Caussade in Quercy - bezeichnet wurde. Die Paten des Kindes waren hochrangig: Charles Emanuel Baron de Hoffstaedt, Geheimer Rat, und Agnes Louise Amelie Palmie, geborene Rauch.
 
-Dass Etienne tatsächlich als Zahnarzt praktizierte, belegen Anzeigen in den **Wöchentlichen Hallischen Anzeigen** von **1794 und 1798**. Von Berlin aus reiste er nach Halle, um dort Patienten zu behandeln. Er bot das volle Spektrum zeitgenössischer Zahnheilkunde an: Zahnextraktion, Prothesen, Füllungen, Zahnreinigung und selbst hergestelltes Mundwasser. In seinen Anzeigen pries er Zahnprothesen an, *"welche so fest an dem Gaumen halten, als die besten natürlichen Zähne"*, und versprach 1798 sogar Zähne einzusetzen, *"wie sie die Natur giebt"*. Als reisender Zahnarzt gehörte Cabos zu den wenigen, die Halle mehrfach besuchten.
+Etienne war ein Mann vieler Berufe. Der [französische Bericht von 1907](dokumente/bulletin-1907.md) beschreibt ihn als "Abenteurer", der nacheinander **Friseur, Zahnarzt und Parfümeur** gewesen sei. Dass er tatsächlich als Zahnarzt praktizierte, belegen Anzeigen in den **Wöchentlichen Hallischen Anzeigen** von **1794 und 1798**. Von Berlin aus reiste er nach Halle, um dort Patienten zu behandeln. Er bot das volle Spektrum zeitgenössischer Zahnheilkunde an: Zahnextraktion, Prothesen, Füllungen, Zahnreinigung und selbst hergestelltes Mundwasser. In seinen Anzeigen pries er Zahnprothesen an, *"welche so fest an dem Gaumen halten, als die besten natürlichen Zähne"*, und versprach 1798 sogar Zähne einzusetzen, *"wie sie die Natur giebt"*. Als reisender Zahnarzt gehörte Cabos zu den wenigen, die Halle mehrfach besuchten.
 
 <div class="grid cards" markdown>
 
@@ -217,6 +219,14 @@ Dass Etienne tatsächlich als Zahnarzt praktizierte, belegen Anzeigen in den **W
     Anzeigen belegen Cabos' Tätigkeit als reisender Zahnarzt
 
     [→ Zum Dokument](dokumente/zahnarzt-halle.md)
+
+-   :material-book-open-variant:{ .lg .middle } **Bulletin 1907**
+
+    ---
+
+    Französischer Bericht über die Hugenottenkolonie - erwähnt Etienne Cabos namentlich
+
+    [→ Zum Dokument](dokumente/bulletin-1907.md)
 
 </div>
 

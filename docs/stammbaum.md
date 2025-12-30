@@ -23,7 +23,7 @@ graph TD
     H2 --> E5["👧 Marie Christine<br/>~1779-1784 †<br/>⭐ Stettin 🪦 Rotterdam"]
     H2 --> E6["👧 Justine<br/>1780-1782 †<br/>⭐🪦 Rotterdam"]
     H2 --> E7["👦 Etienne<br/>1783-1852<br/>⭐ Le Havre 🪦 Anklam"]
-    H2 --> E8["👧 Elisabeth<br/>1785-1866<br/>⭐ Rotterdam 🪦 Groß Jehser"]
+    H2 --> E8["👧 Anne Elisabeth<br/>1785-1866<br/>⭐ Rotterdam 🪦 Groß Jehser"]
     H2 --> E9["👦 Charles Emmanuel<br/>1793-1852<br/>⭐ Berlin 🪦 Lippehne"]
 
     E8 --> H3["💒 Hochzeit<br/>1807<br/>Charlottenburg"]
@@ -168,15 +168,16 @@ graph TD
 
 [→ Zum Dokument](dokumente/taufen-rotterdam.md#taufe-etienne-1783)
 
-##### 👧 Elisabeth (Anne) (1785-1866)
+##### 👧 Anne Elisabeth (1785-1866)
 - **Geburt:** 12. September 1785
 - **Taufe:** 25. September 1785 (wallonische Kirche)
-- **Hochzeit:** 1807 in Charlottenburg
+- **Hochzeit:** 16. August 1807 in Charlottenburg
 - **Ehemann:** August Friedrich Ferdinand Pohle (Stadtchirurg)
 - **Tod:** 21. Dezember 1866 in Groß Jehser, Brandenburg
-- **Besonderheit:** Letztes in Rotterdam geborenes Kind
+- **Begräbnis:** 24. Dezember 1866
+- **Besonderheit:** Letztes in Rotterdam geborenes Kind, einziges Kind mit vollständiger Dokumentation
 
-[→ Zum Dokument](dokumente/taufen-rotterdam.md#taufe-elisabeth-1785)
+[→ Taufe Rotterdam](dokumente/taufen-rotterdam.md#taufe-elisabeth-1785) | [→ Hochzeit & Tod](dokumente/hochzeit-elisabeth-1807.md)
 
 ---
 

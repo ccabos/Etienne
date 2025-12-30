@@ -56,7 +56,7 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 
 ![Taufe Franz Alexander](../images/1776-Geburt_Frantz.jpg){ loading=lazy }
 
-*Taufeintrag #15 im Kirchenbuch der Garnisonkirche Stettin. Franz Alexander George Carl Cabos, geboren am 29. Januar 1776.*
+*Taufeintrag #12 im Kirchenbuch der Garnisonkirche Stettin. Franz Alexander George Carl Cabos, geboren am 29. Januar 1776.*
 
 ### Dokumentinformationen
 
@@ -67,11 +67,11 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 | **Ort** | Stettin, Preußen |
 | **Vater** | Stephan Cabos (Soldat) |
 | **Mutter** | Maria Justine Siercken |
-| **Kirchenbuch** | Garnisonkirche Stettin, Eintrag #15 |
+| **Kirchenbuch** | Garnisonkirche Stettin, Eintrag #12 |
 
 ### Beschreibung
 
-**Franz Alexander George Carl** war das dritte Kind der Familie, geboren am 29. Januar 1776 in Stettin. Der Taufeintrag findet sich im Kirchenbuch der Garnisonkirche als Eintrag Nummer 15.
+**Franz Alexander George Carl** war das dritte Kind der Familie, geboren am 29. Januar 1776 in Stettin. Der Taufeintrag findet sich im Kirchenbuch der Garnisonkirche als Eintrag Nummer 12.
 
 ---
 

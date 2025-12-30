@@ -4,33 +4,59 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
 ---
 
-## Frankreich (1729-1737)
+## Frankreich (1729-1760)
 
 <div class="grid cards" markdown>
 
--   :material-map:{ .lg .middle } **Karte von 1777**
+-   **Karte von 1777**
 
     ---
 
-    Carte de France, Blatt Montauban - zeigt die Region Quercy, Heimat der Familie Cabos
+    ![Karte Montauban](../images/Karte%20Montauban%201777.png){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Carte de France, Blatt Montauban - zeigt die Region Quercy
 
     [→ Details](karte-1777.md)
 
--   :material-church:{ .lg .middle } **Hochzeit Laurens Cabos 1729**
+-   **Hochzeit Laurens Cabos 1729**
 
     ---
+
+    ![Hochzeit 1729](../images/hochzeit-laurens-1729.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Heiratseintrag der Eltern von Etienne
 
     [→ Details](hochzeit-laurens-1729.md)
 
--   :material-baby-carriage:{ .lg .middle } **Taufe Etienne 1737**
+-   **Taufe Etienne 1737**
 
     ---
+
+    ![Taufe 1737](../images/taufe-etienne-1737.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Taufeintrag des neugeborenen Etienne in Caussade
 
     [→ Details](taufe-etienne-1737.md)
+
+-   **Taufe Pierre 1740**
+
+    ---
+
+    ![Taufe Pierre 1740](../images/1740-11-01-Geburt%20Pierre.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Taufeintrag des jüngeren Bruders Pierre
+
+    [→ Details](taufe-pierre-1740.md)
+
+-   **Hochzeit Jean Cabos 1760**
+
+    ---
+
+    ![Hochzeit Jean 1760](../images/1760-02-03-Jean%20cabos%20jeanne%20Fournier.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Bruder Jean heiratet Jeanne Fournier
+
+    [→ Details](hochzeit-jean-1760.md)
 
 </div>
 
@@ -40,35 +66,43 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
 <div class="grid cards" markdown>
 
--   :material-ring:{ .lg .middle } **Hochzeit Stettin 1772**
+-   **Hochzeit Stettin 1772**
 
     ---
+
+    ![Hochzeit Stettin](../images/hochzeit-stettin-1772.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Heiratseintrag von Stephan Cabos und Maria Justine Siercken
 
     [→ Details](hochzeit-stettin-1772.md)
 
--   :material-baby-carriage:{ .lg .middle } **Geburten Stettin 1772-1777**
+-   **Geburten Stettin 1772-1777**
 
     ---
+
+    ![Taufe Johann Carl](../images/taufe-johann-carl-1772.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Taufeinträge der vier Kinder Johann Carl, Friedrich Ludwig, Franz Alexander und Henriette
 
     [→ Details](geburten-stettin.md)
 
--   :material-sword:{ .lg .middle } **Militärregister**
+-   **Militärregister**
 
     ---
+
+    ![Militärregister](../images/militaerregister.gif){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Einträge zum Infanterieregiment Nr. 8 (von Hacke)
 
     [→ Details](militaerregister.md)
 
--   :material-passport:{ .lg .middle } **Reisepass 1780**
+-   **Reisepass 1780**
 
     ---
 
-    Ausgestellt von der französisch-reformierten Kirche in Isenburg
+    ![Reisepass](../images/reisepass-1780.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Ausgestellt von der französisch-reformierten Kirche
 
     [→ Details](reisepass-1780.md)
 
@@ -80,7 +114,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
 <div class="grid cards" markdown>
 
--   :material-book-open-variant:{ .lg .middle } **Bürgerbuch Rotterdam**
+-   **Bürgerbuch Rotterdam**
 
     ---
 
@@ -88,7 +122,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     [→ Details](buergerbuch-rotterdam.md)
 
--   :material-cross:{ .lg .middle } **Taufen Rotterdam**
+-   **Taufen Rotterdam**
 
     ---
 
@@ -96,7 +130,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     [→ Details](taufen-rotterdam.md)
 
--   :material-grave-stone:{ .lg .middle } **Begräbnisse Rotterdam**
+-   **Begräbnisse Rotterdam**
 
     ---
 
@@ -104,9 +138,11 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     [→ Details](begraebnisse-rotterdam.md)
 
--   :material-file-document-edit:{ .lg .middle } **Unterhaltsvertrag 1792**
+-   **Unterhaltsvertrag 1792**
 
     ---
+
+    ![Unterhaltsvertrag](../images/unterhaltsvertrag-1792-1.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Vertrag mit dem Konsistorium der lutherischen und wallonischen Kirche
 
@@ -116,37 +152,43 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
 ---
 
-## Berlin (1793-1808)
+## Berlin (1793-1810)
 
 <div class="grid cards" markdown>
 
--   :material-baby-face:{ .lg .middle } **Taufe Berlin 1793**
+-   **Taufe Berlin 1793**
 
     ---
+
+    ![Taufe Berlin](../images/taufe-berlin-1793.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Taufeintrag Charles Emmanuel in der Friedrichstadtkirche
 
     [→ Details](taufe-berlin-1793.md)
 
--   :material-tooth:{ .lg .middle } **Zahnarzt in Halle 1794-1798**
+-   **Zahnarzt in Halle 1794-1798**
 
     ---
 
-    Anzeigen in den Wöchentlichen Hallischen Anzeigen dokumentieren Cabos' Tätigkeit als reisender Zahnarzt
+    Anzeigen in den Wöchentlichen Hallischen Anzeigen
 
     [→ Details](zahnarzt-halle.md)
 
--   :material-grave-stone:{ .lg .middle } **Sterbeurkunde Etienne 1808**
+-   **Sterbeurkunde Etienne 1808**
 
     ---
 
-    Sterbeeintrag Etienne Cabos
+    ![Sterbeurkunde](../images/sterbeurkunde-1808.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Sterbeeintrag Etienne Cabos in Charlottenburg
 
     [→ Details](sterbeurkunde-1808.md)
 
--   :material-grave-stone:{ .lg .middle } **Sterbeurkunde Maria Justine 1810**
+-   **Sterbeurkunde Maria Justine 1810**
 
     ---
+
+    ![Sterbeurkunde Justine](../images/Tod_Justine_Siercken-1811.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Sterbeeintrag in der Luisenkirche Charlottenburg
 
@@ -156,6 +198,18 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
 ---
 
-!!! info "Hinweis zu den Bildern"
+## Sekundärquellen
 
-    Die hier gezeigten Dokumente stammen aus verschiedenen Archiven. Bitte fügen Sie die entsprechenden Bilddateien in den Ordner `docs/images/` ein, um sie in der Dokumentation anzuzeigen.
+<div class="grid cards" markdown>
+
+-   **Bulletin 1907**
+
+    ---
+
+    ![Bulletin 1907](../images/bulletin-1907.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Französischer Bericht über die Hugenottenkolonie in Berlin mit Erwähnung von Etienne Cabos
+
+    [→ Details](bulletin-1907.md)
+
+</div>

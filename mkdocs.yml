@@ -32,6 +32,7 @@ theme:
 nav:
   - Startseite: index.md
   - Zeitleiste: zeitleiste.md
+  - Stammbaum: stammbaum.md
   - Historische Dokumente:
     - Übersicht: dokumente/index.md
     - Historische Karten: dokumente/karte-1777.md
@@ -55,7 +56,11 @@ markdown_extensions:
   - md_in_html
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
@@ -67,6 +72,7 @@ markdown_extensions:
 plugins:
   - search:
       lang: de
+  - glightbox
 
 extra:
   social:

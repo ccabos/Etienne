@@ -1,14 +1,20 @@
-# Hochzeit Jean Cabos und Jeanne Fournier (1760)
+# Jean Cabos - Etiennes Bruder (1760-1796)
 
 ## Die Dokumente
 
-### Ehevertrag (Notar Lacombe)
+### Ehevertrag (Notar Lacombe, 1760)
 
 ![Ehevertrag Jean Cabos 1760](../images/1760-02-03-Jean%20cabos%20jeanne%20Fournier.jpg){ loading=lazy }
 
-### Protestantisches Register Montauban
+### Protestantisches Register Montauban (1760)
 
 ![Protestantisches Register 1760](../images/1760-02-03-Jean%20cabos%20jeanne%20Fournier2.jpg){ loading=lazy }
+
+### Sterbeurkunde (1796)
+
+![Sterbeurkunde Jean Cabos 1796](../images/1796-11-04-Tod%20Jean.jpg){ loading=lazy }
+
+*Sterbeeintrag Jean Cabos, 4. November 1796 (14 Brumaire An V), Commune de Caussade*
 
 ---
 
@@ -16,13 +22,15 @@
 
 | Feld | Wert |
 |------|------|
-| **Dokumenttyp** | Ehevertrag (Notar Lacombe) + Protestantisches Kirchenregister |
+| **Dokumenttyp** | Ehevertrag + Protestantisches Register + Sterbeurkunde |
 | **Datum Ehevertrag** | 3. Februar 1760 |
 | **Datum Trauung** | 8. Februar 1760 (protestantisches Register Montauban) |
 | **Bräutigam** | Jean Cabos, Sohn von Laurent Cabos |
 | **Braut** | Jeanne Fournier |
 | **Ort** | Caussade |
 | **Trauung durch** | Pastor Lafond (im Untergrund/"au Désert") |
+| **Todesdatum** | 4. November 1796 (14 Brumaire An V) |
+| **Sterbeort** | Caussade |
 
 ---
 
@@ -93,32 +101,31 @@ In dem von Notar Lacombe erhaltenen Ehevertrag entlässt **Laurent Cabos** seine
 
 ---
 
-## Könnte Jean der hingerichtete Bruder sein?
+## Jean war NICHT der hingerichtete Bruder
 
-Das [Bulletin von 1907](bulletin-1907.md) behauptet, Etiennes **"älterer Bruder"** sei in Caussade **hingerichtet** worden. Könnte Jean dieser Bruder sein?
+!!! success "Neue Erkenntnis: Sterbeurkunde 1796"
+    Die Entdeckung der Sterbeurkunde vom **4. November 1796** beweist, dass Jean Cabos **nicht** hingerichtet wurde. Er lebte 36 Jahre nach seiner Hochzeit und starb friedlich in Caussade während der Französischen Revolution.
 
-### Argumente dafür
+Das [Bulletin von 1907](bulletin-1907.md) behauptet, Etiennes **"älterer Bruder"** sei in Caussade **hingerichtet** worden. Jean kann dieser Bruder **nicht** gewesen sein.
 
-1. **Jean existierte** - Dieses Dokument beweist, dass Etienne einen Bruder Jean hatte
-2. **Zeitliche Nähe** - Jean heiratete im Februar 1760, die Rochette-Affäre begann im September 1761
-3. **Protestantische Aktivität** - Jean ließ sich von einem illegalen protestantischen Pastor trauen - ein Akt des Widerstands
-4. **Verbindung zu Thuet** - Unter den Zeugen war **Antoine Thuet** - im Bulletin 1907 werden die Familien Thuet und Cabos mehrfach zusammen erwähnt
-5. **Verschwinden** - Nach 1760 gibt es keine weiteren Informationen über Jean
+### Jeans Lebensdaten
 
-### Argumente dagegen
+| Ereignis | Datum | Alter (geschätzt) |
+|----------|-------|-------------------|
+| Hochzeit | 3./8. Februar 1760 | ca. 25-30 Jahre |
+| Tod | 4. November 1796 | ca. 60-65 Jahre |
 
-1. **Kein direkter Beweis** - Keine Quelle nennt einen "Jean Cabos" unter den Hingerichteten
-2. **Grenier, nicht Cabos** - Die bekannten Hingerichteten der Rochette-Affäre waren die Grenier-Brüder
-3. **"Älterer" Bruder** - Das Bulletin spricht vom "älteren" Bruder - war Jean älter als Etienne (geb. 1737)?
-4. **Andere Vergehen** - Das Bulletin erwähnt ein "unbekanntes Vergehen", nicht religiöse Verfolgung
+Jean lebte also noch **34 Jahre** nach der Affäre Rochette (1762) und starb erst während der Französischen Revolution - vermutlich eines natürlichen Todes.
 
-### Offene Fragen
+### Konsequenz für die Forschung
 
-!!! question "Forschungsbedarf"
-    - **Geburtsdatum Jean**: War Jean älter oder jünger als Etienne?
-    - **Was geschah nach 1760?**: Gibt es Einträge über Jean nach seiner Hochzeit?
-    - **Gerichtsakten**: Gibt es in den Archives du Parlement de Toulouse Akten zu einem "Cabos"?
-    - **Andere Brüder**: Hatte Etienne weitere Brüder außer Jean?
+Wenn das Bulletin 1907 recht hat und ein Bruder Etiennes hingerichtet wurde, dann muss es sich um einen **dritten Bruder** handeln - weder Etienne noch Jean.
+
+!!! question "Offene Fragen"
+    - **Dritter Bruder?**: Hatte die Familie Cabos noch weitere Söhne außer Etienne und Jean?
+    - **Geburtsdatum Jean**: Wann wurde Jean geboren? War er älter oder jünger als Etienne (geb. 1737)?
+    - **Sterbeurkunde-Details**: Was verrät die Sterbeurkunde über Jeans Leben und Familie?
+    - **Gerichtsakten**: Gibt es in den Archives du Parlement de Toulouse Akten zu einem anderen "Cabos"?
 
 ---
 
@@ -128,13 +135,13 @@ Dieses Dokument erweitert unser Bild der Familie Cabos erheblich:
 
 ### Bekannte Familienmitglieder
 
-| Person | Rolle | Quelle |
-|--------|-------|--------|
-| **Laurent Cabos** | Vater | Hochzeit 1729, Ehevertrag Jean 1760 |
-| **Marie Rey** | Mutter | Hochzeit 1729 |
-| **Etienne Cabos** | Sohn (geb. 1737) | Taufe 1737 |
-| **Jean Cabos** | Sohn | Hochzeit 1760 |
-| **??? Cabos** | "Älterer Bruder" (hingerichtet?) | Bulletin 1907 |
+| Person | Rolle | Lebensdaten | Quelle |
+|--------|-------|-------------|--------|
+| **Laurent Cabos** | Vater | ? - ? | Hochzeit 1729, Ehevertrag Jean 1760 |
+| **Marie Rey** | Mutter | ? - ? | Hochzeit 1729 |
+| **Etienne Cabos** | Sohn | 1737-1808 | Taufe 1737, Tod Berlin 1808 |
+| **Jean Cabos** | Sohn | ca. 1730? - 1796 | Hochzeit 1760, Tod Caussade 1796 |
+| **??? Cabos** | "Älterer Bruder" (hingerichtet?) | ? - ? | Bulletin 1907 (nicht Jean!) |
 
 ### Soziales Netzwerk
 

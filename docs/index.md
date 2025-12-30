@@ -224,9 +224,9 @@ Seine Frau Maria Justine überlebte ihn um zwei Jahre. Am 10. September 1810 sta
 
 <div class="grid cards" markdown>
 
--   :material-grave-stone:{ .lg .middle } **Sterbeurkunde 1808**
+-   [![Sterbeurkunde 1808](images/sterbeurkunde-1808.jpg){ width="200" }](dokumente/sterbeurkunde-1808.md)
 
-    ---
+    **Sterbeurkunde 1808**
 
     Sterbeeintrag Etienne Cabos in Berlin
 

@@ -126,7 +126,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     ---
 
-    ![Taufe Elisabeth](../images/Taufe_Elisabeth-25-09-1785.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+    ![Taufe Justine](../images/Taufe_Justine-13-09-1780.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Taufeinträge der Kinder Justine, Etienne und Elisabeth
 

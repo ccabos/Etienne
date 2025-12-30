@@ -154,6 +154,14 @@ Die wirtschaftliche Lage der Familie verschlechterte sich offenbar zunehmend. Am
 
 Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Gulden -, um die Reise nach Deutschland zu finanzieren. Dies entsprach etwa **10 Monaten Arbeit eines ungelernten Arbeiters** oder fast einem **Jahresgehalt eines einfachen Handwerkers** - eine substanzielle Summe für eine sechsköpfige Familie, aber keineswegs ein Vermögen. Im Gegenzug verpflichteten sich Etienne und seine Frau, *"nie wieder Anspruch auf Unterhalt von beiden Diakonien [...] zu erheben"* und *"die Summe von 250 Gulden sobald es uns möglich ist"* zurückzuzahlen.
 
+### Europa am Vorabend des Krieges
+
+Das Datum des Vertrags - der **18. April 1792** - ist bemerkenswert: Nur **zwei Tage später**, am 20. April 1792, erklärte Frankreich Österreich den Krieg. Im Februar 1793 folgte die Kriegserklärung an Holland und England, und im Winter 1794/95 marschierten französische Truppen über die zugefrorenen Flüsse in die Niederlande ein.
+
+In Holland standen sich zwei politische Lager feindlich gegenüber: Die **"Patriotten"**, die mit den Idealen der Französischen Revolution sympathisierten, und die **Orangisten**, Anhänger des Statthalters Wilhelm V. Bereits 1787 hatte die preußische Armee die Patriotten-Bewegung gewaltsam niedergeschlagen. Nun warteten viele auf die französische Revolutionsarmee als Befreier.
+
+Für Etienne Cabos - einen gebürtigen Franzosen mit preußischer Militärvergangenheit - war die Lage besonders heikel. Als Hugenotte war er in einer komplexen Position: Die Hugenotten waren vor dem katholischen Frankreich geflohen, aber das revolutionäre Frankreich verfolgte nun auch protestantische Geistliche. Mit dem drohenden Krieg zwischen Frankreich und den mit Preußen verbündeten Niederlanden war seine Loyalität möglicherweise fragwürdig. Die Zeichen standen auf Sturm, und für eine Familie mit französischen Wurzeln und preußischer Vergangenheit war Deutschland der sicherste Hafen.
+
 <div class="grid cards" markdown>
 
 -   :material-cross:{ .lg .middle } **Taufen Rotterdam**

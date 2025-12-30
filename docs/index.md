@@ -152,7 +152,7 @@ Die wirtschaftliche Lage der Familie verschlechterte sich offenbar zunehmend. Am
 
 > *"Wir, die unterschreibenden Etienne Cabos und Justine Maria Siercken [...] bestätigen hiermit, dass wir und unsere Kinder seit einigen Jahren Unterhalt bezogen, sowohl durch die ehrenwerten Herren Diakone von den Wallonen, als auch von der hiesigen lutherischen Gemeinde. Vor kurzem sind wir [...] informiert worden, dass wir die Genehmigung haben nach Deutschland zu übersiedeln um bei unserer Familie, welche uns eingeladen hat, zu wohnen."*
 
-Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Gulden -, um die Reise nach Deutschland zu finanzieren. Im Gegenzug verpflichteten sich Etienne und seine Frau, *"nie wieder Anspruch auf Unterhalt von beiden Diakonien [...] zu erheben"* und *"die Summe von 250 Gulden sobald es uns möglich ist"* zurückzuzahlen.
+Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Gulden -, um die Reise nach Deutschland zu finanzieren. Dies entsprach etwa **10 Monaten Arbeit eines ungelernten Arbeiters** oder fast einem **Jahresgehalt eines einfachen Handwerkers** - eine substanzielle Summe für eine sechsköpfige Familie, aber keineswegs ein Vermögen. Im Gegenzug verpflichteten sich Etienne und seine Frau, *"nie wieder Anspruch auf Unterhalt von beiden Diakonien [...] zu erheben"* und *"die Summe von 250 Gulden sobald es uns möglich ist"* zurückzuzahlen.
 
 <div class="grid cards" markdown>
 

@@ -89,6 +89,49 @@ Dennoch ist diese Quelle wertvoll, weil sie:
 
 ---
 
+## Historischer Kontext: Die Affäre Rochette (1761-1762)
+
+!!! info "Hinrichtungen in Caussade zur Zeit Etiennes"
+    Obwohl keine direkte Verbindung zur Familie Cabos nachgewiesen werden konnte, gab es in Caussade genau zur Lebenszeit Etiennes eine berühmte Hinrichtungsaffäre, die die protestantische Gemeinde erschütterte.
+
+### Die Verhaftung in Caussade
+
+Am **14. September 1761** wurde der protestantische Pastor **François Rochette** in Caussade verhaftet. Er hatte als Wanderprediger "im Désert" (im Untergrund) illegale reformierte Gottesdienste in der Region um Montauban gehalten. Etienne Cabos war zu diesem Zeitpunkt **24 Jahre alt** und lebte vermutlich noch in Caussade.
+
+Am nächsten Tag versuchten drei protestantische Adlige - die Brüder **Henri, Jean und Joachim de Grenier** - den Pastor zu befreien und wurden ebenfalls verhaftet.
+
+### Die Hinrichtung in Toulouse
+
+Am **19. Februar 1762** wurden alle vier vom Parlement de Toulouse hingerichtet:
+
+| Person | Alter | Hinrichtungsart |
+|--------|-------|-----------------|
+| François Rochette (Pastor) | 26 | Erhängt |
+| Henri de Grenier | 44 | Enthauptet |
+| Jean de Grenier | 32 | Enthauptet |
+| Joachim de Grenier | 22 | Enthauptet |
+
+Diese Hinrichtung war eine der letzten religiösen Verfolgungen unter dem Ancien Régime. Nur wenige Wochen später, am 10. März 1762, wurde Jean Calas in Toulouse hingerichtet - ein Fall, der durch Voltaires Intervention europaweit Aufsehen erregte.
+
+### Mögliche Verbindung zur Behauptung im Bulletin
+
+Die Behauptung über den "hingerichteten Bruder" könnte verschiedene Erklärungen haben:
+
+1. **Verwechslung**: Der Autor von 1907 könnte Informationen über die Grenier-Brüder mit der Familie Cabos verwechselt haben
+2. **"Glaubensbruder"**: "Bruder" könnte metaphorisch einen Glaubensbruder der protestantischen Gemeinde meinen
+3. **Tatsächlicher Cabos**: Es könnte einen unbekannten Cabos gegeben haben, der in dieser turbulenten Zeit hingerichtet wurde
+4. **Fluchtgrund**: Die Verfolgungen könnten Etienne zur Flucht nach Preußen bewogen haben - auch ohne direkten familiären Bezug
+
+!!! warning "Forschungsbedarf"
+    Eine Suche in den [Archives du Parlement de Toulouse](https://archives.haute-garonne.fr/n/les-sacs-a-proces-du-parlement-de-toulouse/n:110) (sacs à procès) und den [Archives départementales de Tarn-et-Garonne](https://archivesdepartementales.ledepartement82.fr/) könnte weitere Hinweise liefern.
+
+**Quellen:**
+
+- [L'affaire Rochette - Musée protestant](https://museeprotestant.org/notice/laffaire-rochette/)
+- [François Rochette - Wikipedia](https://fr.wikipedia.org/wiki/François_Rochette)
+
+---
+
 ## Friedrich der Große und die französische Kolonie
 
 Das Bulletin enthält auch einen bemerkenswerten Brief Friedrichs des Großen von 1781, in dem er die Privilegien der französischen Kolonie verteidigt:

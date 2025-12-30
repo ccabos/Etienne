@@ -14,10 +14,18 @@
 |------|------|
 | **Dokumenttyp** | Historische Zeitschrift |
 | **Titel** | Bulletin archéologique et historique de la Société archéologique de Tarn-et-Garonne |
+| **Band** | Tome 35 |
 | **Jahr** | 1907 |
-| **Autor** | Unbekannt (basierend auf Briefen der Familie Palmié/Humbert) |
+| **Herausgeber** | Société archéologique et historique de Tarn-et-Garonne |
+| **Verlag** | Imp. et lith. Forestié, Montauban |
 | **Thema** | Korrespondenz französischer Hugenotten in Berlin |
-| **Quelle** | [Bibliothèque nationale de France (Gallica)](https://gallica.bnf.fr/) |
+| **Digitalisiert von** | Bibliothèque nationale de France |
+| **ARK-Identifikator** | ark:/12148/bpt6k5663511j |
+| **Online-Quelle** | [Gallica (BnF)](https://gallica.bnf.fr/ark:/12148/bpt6k5663511j) |
+| **Lokale Kopie** | `sources/Bulletin_archéologique_et_historique_de_[...]Société_archéologique_bpt6k5663511j.pdf` |
+
+!!! info "Über die Société archéologique de Tarn-et-Garonne"
+    Die [Société archéologique et historique de Tarn-et-Garonne](https://sahtg.fr/) wurde 1866 von Chanoine Ferdinand Pottier gegründet. Ihr erstes Bulletin erschien 1869, ab 1877 jährlich. Das Département Tarn-et-Garonne umfasst die Region um Montauban - nur etwa 30 km von Caussade entfernt, dem Geburtsort von Etienne Cabos.
 
 ---
 

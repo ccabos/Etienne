@@ -102,6 +102,13 @@
 Sohn von Laurens Cabos (Kaufmann) und Marie Rey
 </div>
 
+<div class="timeline-item right" style="margin-top: 10px;">
+<div class="timeline-year">vor 1772</div>
+<div class="timeline-event">⚠️ Familientragödie?</div>
+<div class="timeline-location">Caussade</div>
+Laut <a href="dokumente/bulletin-1907.md">Bulletin 1907</a>: Älterer Bruder hingerichtet (Grund unbekannt)
+</div>
+
 <div class="timeline-section" style="margin-top: 50px;">🇩🇪 PREUSSEN - STETTIN (1772-1780)</div>
 
 <div class="timeline-item right" style="margin-top: 49px;">
@@ -216,7 +223,22 @@ Französische Revolution destabilisiert Europa. "Patriotten" vs. Orangisten in H
 Letztes Kind. Vater als "Dentiste" bezeichnet
 </div>
 
-<div class="timeline-item left" style="margin-top: 20px;">
+<div class="timeline-item left" style="margin-top: 10px;">
+<div class="timeline-year">1794-1798</div>
+<div class="timeline-event">🦷 Zahnarzt in Halle</div>
+<div class="timeline-location">Halle (Saale)</div>
+Anzeigen in den Hallischen Anzeigen.<br>
+Laut <a href="dokumente/bulletin-1907.md">Bulletin 1907</a> auch Friseur und Parfümeur
+</div>
+
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1802</div>
+<div class="timeline-event">🏥 Krankenhaus?</div>
+<div class="timeline-location">Berlin</div>
+Laut <a href="dokumente/bulletin-1907.md">Bulletin 1907</a>: Familie ins Krankenhaus eingewiesen
+</div>
+
+<div class="timeline-item left" style="margin-top: 10px;">
 <div class="timeline-year">1807</div>
 <div class="timeline-event">💒 Hochzeit Elisabeth</div>
 <div class="timeline-location">16. August - Charlottenburg</div>
@@ -248,6 +270,7 @@ Gestorben an der Ruhr, 56 Jahre alt.<br>
 | Jahr | Alter | Ereignis | Ort |
 |------|-------|----------|-----|
 | 1737 | 0 | Geburt & Taufe | Caussade, Frankreich |
+| vor 1772 | ? | Bruder hingerichtet? (Bulletin 1907) | Caussade |
 | 1772 | 35 | Hochzeit mit Maria Justine Siercken | Stettin, Preußen |
 | 1772-1777 | 35-40 | Vier Kinder geboren | Stettin |
 | 1778-1779 | 41-42 | Kartoffelkrieg | Böhmen |
@@ -256,6 +279,8 @@ Gestorben an der Ruhr, 56 Jahre alt.<br>
 | 1782, 1784 | 45, 47 | Tod von Justine und Marie Christine | Rotterdam |
 | 1792 | 55 | Politische Krise - Flucht nach Berlin | Rotterdam → Berlin |
 | 1793 | 56 | Letztes Kind Charles Emmanuel | Berlin |
+| 1794-1798 | 57-61 | Zahnarzt in Halle | Berlin/Halle |
+| 1802 | 65 | Familie im Krankenhaus? (Bulletin 1907) | Berlin |
 | 1808 | 71 | Tod | Charlottenburg |
 
 ---

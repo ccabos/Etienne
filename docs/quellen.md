@@ -46,7 +46,7 @@
 
 | Quelle | Beschreibung | Jahr |
 |--------|--------------|------|
-| [Bulletin archéologique et historique de la Société archéologique de Tarn-et-Garonne](dokumente/bulletin-1907.md) | Französischer Bericht über die Hugenottenkolonie in Berlin, enthält Korrespondenz der Familien Palmié und Humbert. **Erwähnt Etienne Cabos namentlich.** | 1907 |
+| [Bulletin archéologique et historique de la Société archéologique de Tarn-et-Garonne, Tome 35](dokumente/bulletin-1907.md) | Französischer Bericht über die Hugenottenkolonie in Berlin, enthält Korrespondenz der Familien Palmié und Humbert. **Erwähnt Etienne Cabos namentlich.** Herausgeber: Société archéologique de Tarn-et-Garonne, Montauban. [Online bei Gallica (BnF)](https://gallica.bnf.fr/ark:/12148/bpt6k5663511j) | 1907 |
 
 ### Hugenotten-Geschichte
 

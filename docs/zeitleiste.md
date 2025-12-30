@@ -194,9 +194,17 @@ Gestorben mit 5¼ Jahren
 
 <div class="timeline-item left" style="margin-top: 10px;">
 <div class="timeline-year">1792</div>
-<div class="timeline-event">📋 Unterhaltsvertrag</div>
+<div class="timeline-event">⚠️ Politische Krise</div>
+<div class="timeline-location">Europa</div>
+Französische Revolution destabilisiert Europa. "Patriotten" vs. Orangisten in Holland. Krieg droht.
+</div>
+
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1792</div>
+<div class="timeline-event">📋 <a href="dokumente/unterhaltsvertrag-1792.md">Unterhaltsvertrag</a></div>
 <div class="timeline-location">18. April - Rotterdam</div>
-250 Gulden Reisegeld für Umzug nach Deutschland
+250 Gulden Reisegeld für Umzug nach Deutschland.<br>
+<em>Zwei Tage später erklärt Frankreich Österreich den Krieg!</em>
 </div>
 
 <div class="timeline-section" style="margin-top: 20px;">🇩🇪 PREUSSEN - BERLIN (1792-1808)</div>
@@ -246,7 +254,7 @@ Gestorben an der Ruhr, 56 Jahre alt.<br>
 | 1780 | 43 | Umzug nach Rotterdam, Bürgerrecht | Rotterdam, Niederlande |
 | 1780-1785 | 43-48 | Vier weitere Kinder geboren | Rotterdam |
 | 1782, 1784 | 45, 47 | Tod von Justine und Marie Christine | Rotterdam |
-| 1792 | 55 | Umzug nach Berlin | Berlin, Preußen |
+| 1792 | 55 | Politische Krise - Flucht nach Berlin | Rotterdam → Berlin |
 | 1793 | 56 | Letztes Kind Charles Emmanuel | Berlin |
 | 1808 | 71 | Tod | Charlottenburg |
 

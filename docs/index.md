@@ -194,9 +194,9 @@ Dass Etienne tatsächlich als Zahnarzt praktizierte, belegen Anzeigen in den **W
 
 <div class="grid cards" markdown>
 
--   :material-baby-face:{ .lg .middle } **Taufe Berlin 1793**
+-   [![Taufe Berlin 1793](images/taufe-berlin-1793.jpg){ width="200" }](dokumente/taufe-berlin-1793.md)
 
-    ---
+    **Taufe Berlin 1793**
 
     Taufeintrag Charles Emmanuel in der Friedrichstadtkirche
 

@@ -2,12 +2,9 @@
 
 ## Begräbnis Justine (1782)
 
-![Begräbnis Justine 1782](../images/begraebnis-justine-1782.jpg){ loading=lazy }
+![Begräbnis Justine 1782](../images/begraebnis-justine-12-09-1782.jpg){ loading=lazy }
 
-*12.9.1782 Begräbnis Justine*
-
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `begraebnis-justine-1782.jpg` in den Ordner `docs/images/` ein.
+*12. September 1782 - Begräbnis Justine*
 
 ---
 

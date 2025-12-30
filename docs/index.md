@@ -184,17 +184,17 @@ Für Etienne Cabos - einen gebürtigen Franzosen mit preußischer Militärvergan
 
 <div class="grid cards" markdown>
 
--   :material-cross:{ .lg .middle } **Taufen Rotterdam**
+-   [![Taufen Rotterdam](images/Taufe_Justine-13-09-1780.jpg){ width="200" }](dokumente/taufen-rotterdam.md)
 
-    ---
+    **Taufen Rotterdam**
 
     Taufeinträge der Kinder Justine, Etienne und Elisabeth
 
     [→ Zu den Dokumenten](dokumente/taufen-rotterdam.md)
 
--   :material-grave-stone:{ .lg .middle } **Begräbnisse Rotterdam**
+-   [![Begräbnisse Rotterdam](images/Begraebnis_Christine-11-06-1784.jpg){ width="200" }](dokumente/begraebnisse-rotterdam.md)
 
-    ---
+    **Begräbnisse Rotterdam**
 
     Begräbniseinträge für Justine und Marie Christine
 

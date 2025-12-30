@@ -32,9 +32,6 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 
 ![Taufe Friedrich Ludwig](../images/taufe-friedrich-ludwig-1774.jpg){ loading=lazy }
 
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `taufe-friedrich-ludwig-1774.jpg` in den Ordner `docs/images/` ein.
-
 ### Dokumentinformationen
 
 | Feld | Wert |
@@ -77,9 +74,6 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 ## Henriette Charlotte Sophie (1777)
 
 ![Taufe Henriette Charlotte](../images/taufe-henriette-1777.jpg){ loading=lazy }
-
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `taufe-henriette-1777.jpg` in den Ordner `docs/images/` ein.
 
 ### Dokumentinformationen
 

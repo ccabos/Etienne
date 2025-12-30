@@ -14,7 +14,7 @@ graph TD
     H1 --> C["👤 Etienne Cabos<br/>1737-1808<br/>⭐ Caussade 🪦 Berlin"]
 
     C --> H2["💒 Hochzeit<br/>16. Juli 1772<br/>Stettin"]
-    D["👩 Maria Justine Siercken<br/>1754-?<br/>⭐ Templin"] --> H2
+    D["👩 Maria Justine Siercken<br/>1754-1810<br/>⭐ Templin 🪦 Charlottenburg"] --> H2
 
     H2 --> E1["👦 Johann Carl Abraham<br/>1772<br/>⭐ Stettin"]
     H2 --> E2["👦 Friedrich Ludwig<br/>1774<br/>⭐ Stettin<br/>später Hamburg & Königsberg"]
@@ -22,9 +22,9 @@ graph TD
     H2 --> E4["👧 Henriette Charlotte<br/>1777<br/>⭐ Stettin"]
     H2 --> E5["👧 Marie Christine<br/>~1779-1784 †<br/>⭐ Stettin 🪦 Rotterdam"]
     H2 --> E6["👧 Justine<br/>1780-1782 †<br/>⭐🪦 Rotterdam"]
-    H2 --> E7["👦 Etienne<br/>1783<br/>⭐ Le Havre → Rotterdam"]
-    H2 --> E8["👧 Elisabeth<br/>1785<br/>⭐ Rotterdam"]
-    H2 --> E9["👦 Charles Emmanuel<br/>1793<br/>⭐ Berlin"]
+    H2 --> E7["👦 Etienne<br/>1783-1852<br/>⭐ Le Havre 🪦 Anklam"]
+    H2 --> E8["👧 Elisabeth<br/>1785-1866<br/>⭐ Rotterdam 🪦 Groß Jehser"]
+    H2 --> E9["👦 Charles Emmanuel<br/>1793-1852<br/>⭐ Berlin 🪦 Lippehne"]
 
     E8 --> H3["💒 Hochzeit<br/>1807<br/>Charlottenburg"]
     F["👨 August Friedrich<br/>Ferdinand Pohle<br/>Stadtchirurg"] --> H3
@@ -77,7 +77,7 @@ graph TD
 #### 👤 Etienne Cabos (1737-1808)
 - **Geburt:** 9. Juli 1737 in Caussade, Frankreich
 - **Taufe:** 10. Juli 1737
-- **Tod:** 29. Mai 1808 in Berlin, Preußen (Schlaganfall, 71 Jahre)
+- **Tod:** 14. September 1808 in Charlottenburg (Schlaganfall, 71 Jahre)
 - **Hochzeit:** 16. Juli 1772 in Stettin mit Maria Justine Siercken
 - **Beruf:** Soldat (Grenadier-Bataillon von Arnim), später Galanteriwarenhändler, dann Zahnarzt
 - **Lebensstationen:**
@@ -94,14 +94,16 @@ graph TD
 
 [→ Taufurkunde 1737](dokumente/taufe-etienne-1737.md) | [→ Sterbeurkunde 1808](dokumente/sterbeurkunde-1808.md)
 
-#### 👩 Maria Justine Siercken (1754-?)
+#### 👩 Maria Justine Siercken (1754-1810)
 - **Geburt:** 28. Januar 1754 in Templin, Preußen
+- **Tod:** 10. September 1810 in Charlottenburg (Ruhr, 56 Jahre)
 - **Vater:** Stadtmusiker in Templin
 - **Hochzeit:** 16. Juli 1772 (mit 18 Jahren)
 - **Kinder:** 9 Kinder (1772-1793)
-- **Lebensstationen:** Templin → Stettin → Rotterdam → Berlin
+- **Lebensstationen:** Templin → Stettin → Rotterdam → Berlin/Charlottenburg
+- **Besonderheit:** Im Sterbeeintrag als "separirte" (getrennt lebend) bezeichnet
 
-[→ Hochzeitsurkunde 1772](dokumente/hochzeit-stettin-1772.md)
+[→ Hochzeitsurkunde 1772](dokumente/hochzeit-stettin-1772.md) | [→ Sterbeurkunde 1810](dokumente/sterbeurkunde-justine-1810.md)
 
 ---
 
@@ -158,18 +160,20 @@ graph TD
 
 [→ Taufe](dokumente/taufen-rotterdam.md#taufe-justine-1780) | [→ Begräbnis](dokumente/begraebnisse-rotterdam.md#begrabnis-justine-1782)
 
-##### 👦 Etienne (1783)
+##### 👦 Etienne (1783-1852)
 - **Geburt:** 19. April 1783 auf einer Reise von Le Havre nach Rotterdam
 - **Taufe:** 26. April 1783 in Rotterdam
+- **Tod:** 17. Mai 1852 in Anklam
 - **Besonderheit:** Namensgeber des Vaters, außergewöhnlicher Geburtsort
 
 [→ Zum Dokument](dokumente/taufen-rotterdam.md#taufe-etienne-1783)
 
-##### 👧 Elisabeth (1785)
+##### 👧 Elisabeth (Anne) (1785-1866)
 - **Geburt:** 12. September 1785
 - **Taufe:** 25. September 1785 (wallonische Kirche)
 - **Hochzeit:** 1807 in Charlottenburg
 - **Ehemann:** August Friedrich Ferdinand Pohle (Stadtchirurg)
+- **Tod:** 21. Dezember 1866 in Groß Jehser, Brandenburg
 - **Besonderheit:** Letztes in Rotterdam geborenes Kind
 
 [→ Zum Dokument](dokumente/taufen-rotterdam.md#taufe-elisabeth-1785)
@@ -178,9 +182,10 @@ graph TD
 
 #### In Berlin geboren (1793)
 
-##### 👦 Charles Emmanuel (1793)
+##### 👦 Charles Emmanuel (1793-1852)
 - **Geburt:** 24. Januar 1793 in Berlin
 - **Taufe:** 1. Februar 1793 (Französisch-reformierte Friedrichstadtkirche)
+- **Tod:** 23. Januar 1852 in Lippehne
 - **Paten:**
     - Charles Emanuel Baron de Hoffstaedt (Geheimer Rat)
     - Agnes Louise Amelie Palmie (geb. Rauch)

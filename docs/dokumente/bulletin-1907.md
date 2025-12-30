@@ -67,7 +67,7 @@ Diese Passage wirft ein völlig neues Licht auf Etienne Cabos:
 | Behauptung | Bewertung | Anmerkung |
 |------------|-----------|-----------|
 | **"Deserteur"** | ⚠️ Unklar | War Etienne ein Deserteur aus der französischen Armee? Oder bezieht sich dies auf sein Verlassen Preußens? |
-| **Bruder hingerichtet** | ❓ Nicht verifiziert | Keine andere Quelle erwähnt dies. Wäre eine sensationelle Entdeckung! |
+| **Bruder hingerichtet** | ⚠️ Möglicherweise Jean | Etienne hatte einen Bruder **[Jean Cabos](hochzeit-jean-1760.md)**, der 1760 heiratete und danach aus den Quellen verschwindet. Siehe Analyse unten. |
 | **1792 aus Holland vertrieben** | ✅ Bestätigt | Passt zum Unterhaltsvertrag vom April 1792, aber "französische Besatzungsmacht" ist anachronistisch - die Franzosen kamen erst 1795 |
 | **Habseligkeiten verloren** | ⚠️ Möglich | Passt zur finanziellen Notlage der Familie |
 | **Friseur, Zahnarzt, Parfümeur** | ✅ Teilweise bestätigt | Die Tätigkeit als Zahnarzt ist durch die Hallischen Anzeigen belegt |
@@ -155,7 +155,7 @@ Dieses Dokument ist eine der wenigen externen Quellen, die Etienne Cabos namentl
 - Die Härten der preußischen Armee erlebte
 - Trotz aller Widrigkeiten eine Familie gründete und erhielt
 
-Die Frage nach dem hingerichteten Bruder bleibt ein faszinierendes Rätsel für weitere Forschungen.
+Die Entdeckung des Bruders **[Jean Cabos](hochzeit-jean-1760.md)**, der 1760 in Caussade heiratete und danach aus den Quellen verschwindet, gibt der Behauptung über den "hingerichteten Bruder" neue Glaubwürdigkeit. War Jean in die Affäre Rochette verwickelt? Diese Frage bleibt ein faszinierendes Rätsel für weitere Forschungen.
 
 ---
 

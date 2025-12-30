@@ -103,10 +103,27 @@ Sohn von Laurens Cabos (Kaufmann) und Marie Rey
 </div>
 
 <div class="timeline-item right" style="margin-top: 10px;">
-<div class="timeline-year">vor 1772</div>
-<div class="timeline-event">⚠️ Familientragödie?</div>
-<div class="timeline-location">Caussade</div>
-Laut <a href="dokumente/bulletin-1907.md">Bulletin 1907</a>: Älterer Bruder hingerichtet (Grund unbekannt)
+<div class="timeline-year">1760</div>
+<div class="timeline-event">💒 <a href="dokumente/hochzeit-jean-1760.md">Hochzeit Jean Cabos</a></div>
+<div class="timeline-location">3./8. Februar - Caussade</div>
+Bruder Jean heiratet Jeanne Fournier.<br>
+Trauung durch Pastor Lafond (im Untergrund)
+</div>
+
+<div class="timeline-item left" style="margin-top: 3px;">
+<div class="timeline-year">1761</div>
+<div class="timeline-event">⛪ Affäre Rochette</div>
+<div class="timeline-location">14. September - Caussade</div>
+Pastor Rochette in Caussade verhaftet.<br>
+Grenier-Brüder bei Befreiungsversuch gefasst
+</div>
+
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1762</div>
+<div class="timeline-event">⚠️ Hinrichtungen Toulouse</div>
+<div class="timeline-location">19. Februar - Toulouse</div>
+Rochette + 3 Grenier-Brüder hingerichtet.<br>
+<em>War Jean Cabos auch beteiligt?</em>
 </div>
 
 <div class="timeline-section" style="margin-top: 50px;">🇩🇪 PREUSSEN - STETTIN (1772-1780)</div>
@@ -270,7 +287,8 @@ Gestorben an der Ruhr, 56 Jahre alt.<br>
 | Jahr | Alter | Ereignis | Ort |
 |------|-------|----------|-----|
 | 1737 | 0 | Geburt & Taufe | Caussade, Frankreich |
-| vor 1772 | ? | Bruder hingerichtet? (Bulletin 1907) | Caussade |
+| 1760 | 23 | Bruder Jean heiratet Jeanne Fournier | Caussade |
+| 1761-62 | 24-25 | Affäre Rochette - Hinrichtungen | Caussade/Toulouse |
 | 1772 | 35 | Hochzeit mit Maria Justine Siercken | Stettin, Preußen |
 | 1772-1777 | 35-40 | Vier Kinder geboren | Stettin |
 | 1778-1779 | 41-42 | Kartoffelkrieg | Böhmen |

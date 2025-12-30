@@ -36,6 +36,8 @@ Etiennes Vater, **Laurens Cabos**, war Kaufmann und hatte am 14. Juli 1729 **Mar
 
 Am Tag nach seiner Geburt, dem 10. Juli 1737, wurde der kleine Etienne getauft. Sein Pate war Etienne Prunet, ein Meisterchirurg, seine Patin Claire St. Genies - beides Namen, die auf das gebildete Bürgertum der Region hindeuten.
 
+Etienne hatte mindestens einen Bruder: **Jean Cabos**, der am 3. Februar 1760 in Caussade **Jeanne Fournier** heiratete. Die Trauung wurde vom protestantischen Pastor Lafond "im Désert" (im Untergrund) vollzogen - ein Akt des religiösen Widerstands in einer Zeit, als der Protestantismus verboten war.
+
 <div class="grid cards" markdown>
 
 -   [![Hochzeit 1729](images/hochzeit-laurens-1729.jpg){ width="200" }](dokumente/hochzeit-laurens-1729.md)
@@ -54,13 +56,21 @@ Am Tag nach seiner Geburt, dem 10. Juli 1737, wurde der kleine Etienne getauft. 
 
     [→ Zum Dokument](dokumente/taufe-etienne-1737.md)
 
+-   [![Hochzeit Jean 1760](images/1760-02-03-Jean%20cabos%20jeanne%20Fournier.jpg){ width="200" }](dokumente/hochzeit-jean-1760.md)
+
+    **Hochzeit Jean 1760**
+
+    Ehevertrag Jean Cabos und Jeanne Fournier
+
+    [→ Zum Dokument](dokumente/hochzeit-jean-1760.md)
+
 </div>
 
 ---
 
 ## Der Weg nach Preußen
 
-Die genauen Umstände, die Etienne aus seiner südfranzösischen Heimat nach Norddeutschland führten, liegen im Dunkel der Geschichte. Ein [französischer Bericht aus dem Jahr 1907](dokumente/bulletin-1907.md) erwähnt jedoch, dass sein **älterer Bruder in Caussade hingerichtet** worden sei - wegen eines unbekannten Vergehens. Ob dieses familiäre Drama Etienne zur Flucht aus Frankreich trieb, bleibt Spekulation, doch es würde erklären, warum er seine Heimat für immer verließ.
+Die genauen Umstände, die Etienne aus seiner südfranzösischen Heimat nach Norddeutschland führten, liegen im Dunkel der Geschichte. Ein [französischer Bericht aus dem Jahr 1907](dokumente/bulletin-1907.md) erwähnt jedoch, dass sein **älterer Bruder in Caussade hingerichtet** worden sei - wegen eines unbekannten Vergehens. Könnte dies **Jean Cabos** gewesen sein, der 1760 noch in Caussade heiratete und danach aus den Quellen verschwindet? Im September 1761 wurde in Caussade der protestantische Pastor Rochette verhaftet - die darauf folgende [Affäre Rochette](dokumente/bulletin-1907.md#historischer-kontext-die-affare-rochette-1761-1762) erschütterte die protestantische Gemeinde. Ob dieses familiäre Drama Etienne zur Flucht aus Frankreich trieb, bleibt Spekulation, doch es würde erklären, warum er seine Heimat für immer verließ.
 
 Fest steht, dass er in den frühen 1770er Jahren in Stettin auftaucht - nicht als Kaufmann wie sein Vater, sondern als Soldat im preußischen Heer. Der gleiche Bericht bezeichnet ihn als "Deserteur" und erwähnt, dass er "zahlreiche Schläge erhielt, um die preußische Exerzierkunst zu erlernen" - ein Hinweis auf die berüchtigte Härte der preußischen Militärdisziplin.
 

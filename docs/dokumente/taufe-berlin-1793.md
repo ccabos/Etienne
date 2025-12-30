@@ -2,7 +2,12 @@
 
 ![Taufe Berlin 1793](../images/taufe-berlin-1793.jpg){ loading=lazy }
 
-*Am 24. Januar 1793 wird der Sohn Charles Emmanuel in Berlin geboren und am 1. Februar in der Friedrichstadtkirche getauft.*
+> *"Le 1er de Fevrier 1793. M Calmié Ministre du ... Evangile a batisé en chambre Charles Emanuel né le 24 de Janvier à 1 heure du matin, fils d'Etienne Cabos, Dentiste, natif de Caussade en Querci, & de Justine Sierwken sa femme, native de Templin en Pomeranie. Il a été présenté par Charles Emanuel Baron de Hoffstädt Conseiller privé, & par Agnés Louise Amélie Palmie née Rauch, ses P[arain] & M[araine]"*
+
+*Am 1. Februar 1793 hat Herr Calmié, Pfarrer des ... Evangeliums, in der Kammer getauft Charles Emanuel, geboren am 24. Januar um 1 Uhr morgens, Sohn von Etienne Cabos, Zahnarzt, gebürtig aus Caussade in Quercy, und von Justine Siercken, seiner Ehefrau, gebürtig aus Templin in Pommern. Er wurde vorgestellt von Charles Emanuel Baron de Hoffstädt, Geheimer Rat, und von Agnes Louise Amélie Palmie, geborene Rauch, seinen Paten.*
+
+!!! note "Quelle"
+    Kirchenbuch der französisch-reformierten Friedrichstadtkirche, Berlin
 
 ---
 
@@ -19,12 +24,6 @@
 | **Mutter** | Maria Justine Siercken |
 | **Pate** | Charles Emanuel Baron de Hoffstaedt, Geheimer Rat |
 | **Patin** | Agnes Louise Amelie Palmie, geb. Rauch |
-
----
-
-## Transkription
-
-*[Transkription des Originaleintrags hier einfügen]*
 
 ---
 

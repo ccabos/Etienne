@@ -272,9 +272,9 @@ Laut <a href="dokumente/bulletin-1907.md">Bulletin 1907</a>: Familie ins Kranken
 
 <div class="timeline-item left" style="margin-top: 10px;">
 <div class="timeline-year">1807</div>
-<div class="timeline-event">💒 Hochzeit Elisabeth</div>
+<div class="timeline-event">💒 <a href="dokumente/hochzeit-elisabeth-1807.md">Hochzeit Elisabeth</a></div>
 <div class="timeline-location">16. August - Charlottenburg</div>
-Tochter heiratet Stadtchirurg Pohle
+Tochter Anne Elisabeth heiratet Stadtchirurg Pohle
 </div>
 
 <div class="timeline-item right" style="margin-top: 1px;">
@@ -291,6 +291,16 @@ Beerdigt auf dem Friedhof am Oranienburger Tor
 <div class="timeline-location">10. September - Charlottenburg</div>
 Gestorben an der Ruhr, 56 Jahre alt.<br>
 "separirte" - getrennt lebend
+</div>
+
+<div class="timeline-section" style="margin-top: 50px;">NACHKOMMEN</div>
+
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1866</div>
+<div class="timeline-event">✝️ <a href="dokumente/hochzeit-elisabeth-1807.md">Tod Anne Elisabeth</a></div>
+<div class="timeline-location">21. Dezember - Groß Jehser</div>
+Tochter stirbt mit 81 Jahren.<br>
+Begräbnis am 24. Dezember 1866
 </div>
 
 </div>
@@ -316,7 +326,15 @@ Gestorben an der Ruhr, 56 Jahre alt.<br>
 | 1794-1798 | 57-61 | Zahnarzt in Halle | Berlin/Halle |
 | 1796 | 59 | Bruder Jean stirbt (nicht hingerichtet!) | Caussade |
 | 1802 | 65 | Familie im Krankenhaus? (Bulletin 1907) | Berlin |
-| 1808 | 71 | Tod | Charlottenburg |
+| 1807 | 70 | Tochter Elisabeth heiratet Pohle | Charlottenburg |
+| 1808 | 71 | Tod Etienne Cabos | Charlottenburg |
+
+### Nachkommen
+
+| Jahr | Ereignis | Ort |
+|------|----------|-----|
+| 1810 | Tod Maria Justine Siercken (56 J.) | Charlottenburg |
+| 1866 | Tod Anne Elisabeth Pohle, geb. Cabos (81 J.) | Groß Jehser |
 
 ---
 

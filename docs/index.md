@@ -252,13 +252,21 @@ Etienne war ein Mann vieler Berufe. Der [französische Bericht von 1907](dokumen
 
 ## Die letzten Jahre
 
-Über Etiennes letzte Lebensjahre wissen wir wenig. Am 16. August 1807 heiratete seine Tochter Anne Elisabeth in der Luisenkirche in Charlottenburg den Stadtchirurgen August Friedrich Ferdinand Pohle. Der Kirchenbucheintrag bezeichnet Etienne als "Kaufmann zu Rotterdam" - ein Titel, der wohl auf seine Rotterdamer Jahre verwies.
+Über Etiennes letzte Lebensjahre wissen wir wenig. Am **16. August 1807** heiratete seine Tochter **Anne Elisabeth** in der Luisenkirche in Charlottenburg den Stadtchirurgen **August Friedrich Ferdinand Pohle**. Der Kirchenbucheintrag bezeichnet Etienne als "Kaufmann zu Rotterdam" - ein Titel, der wohl auf seine Rotterdamer Jahre verwies. Elisabeth erreichte ein hohes Alter und starb am 21. Dezember 1866 in Groß Jehser (Brandenburg).
 
 Am **14. September 1808**, morgens um ein Uhr, starb Etienne Cabos im Alter von 71 Jahren im Charlottenburger Krankenhaus an einem Schlaganfall. Der Kirchenbucheintrag der französisch-reformierten Friedrichstadtkirche vermerkt seinen Tod und seine Beerdigung am 16. September auf dem *"cimetière de la porte d'Orange"* - dem Friedhof am Oranienburger Tor, dem Friedhof der französischen Kolonie.
 
 Seine Frau Maria Justine überlebte ihn um zwei Jahre. Am 10. September 1810 starb sie abends um neun Uhr an der Ruhr. Der Kirchenbucheintrag der **Luisenkirche in Charlottenburg** bezeichnet sie als "separirte" - getrennt lebend -, ein Hinweis darauf, dass die Ehe in den letzten Jahren zerbrochen war. Sie hinterließ *"1 major: Tochter und 3 Söhne davon 2 major: sind, und 1 Sohn von dem man seit 20 Jahren nichts weiß"* - ein erwachsenes Kind und drei Söhne, von denen zwei volljährig waren, und einen Sohn, von dem man seit 20 Jahren nichts gehört hatte.
 
 <div class="grid cards" markdown>
+
+-   [![Hochzeit Elisabeth 1807](images/Heirat_Anne_elisabeth_Charlottenburg_1807_08_16.jpg){ width="200" }](dokumente/hochzeit-elisabeth-1807.md)
+
+    **Hochzeit Elisabeth 1807**
+
+    Heiratseintrag Anne Elisabeth und August Pohle
+
+    [→ Zum Dokument](dokumente/hochzeit-elisabeth-1807.md)
 
 -   [![Sterbeurkunde Etienne 1808](images/sterbeurkunde-1808.jpg){ width="200" }](dokumente/sterbeurkunde-1808.md)
 
@@ -275,6 +283,14 @@ Seine Frau Maria Justine überlebte ihn um zwei Jahre. Am 10. September 1810 sta
     Sterbeeintrag in der Luisenkirche Charlottenburg
 
     [→ Zum Dokument](dokumente/sterbeurkunde-justine-1810.md)
+
+-   [![Tod Elisabeth 1866](images/Tod_Anne_Elisabeth.jpg){ width="200" }](dokumente/hochzeit-elisabeth-1807.md)
+
+    **Tod Elisabeth 1866**
+
+    Sterbeeintrag Anne Elisabeth Pohle, geb. Cabos
+
+    [→ Zum Dokument](dokumente/hochzeit-elisabeth-1807.md)
 
 </div>
 

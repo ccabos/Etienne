@@ -63,12 +63,9 @@ Die Taufe fand am 26. April 1783 in Rotterdam statt - das Kind erhielt den Namen
 
 ## Taufe Elisabeth (1785)
 
-![Taufe Elisabeth 1785](../images/taufe-elisabeth-1785.jpg){ loading=lazy }
+![Taufe Elisabeth 1785](../images/Taufe_Elisabeth-25-09-1785.jpg){ loading=lazy }
 
-*Am 12. Sept. 1785 wird ihre Tochter Elisabeth geboren, am 25. Sept. wird sie getauft. Eintrag zur Taufe von Elisabeth 25.9.1785 im DTB Rotterdam Doop Waals.*
-
-!!! info "Bildhinweis"
-    Bitte fügen Sie das Bild `taufe-elisabeth-1785.jpg` in den Ordner `docs/images/` ein.
+*Am 12. Sept. 1785 wird ihre Tochter Anne Elisabeth geboren, am 25. Sept. wird sie getauft. Eintrag zur Taufe von Elisabeth 25.9.1785 im DTB Rotterdam Doop Waals.*
 
 ---
 
@@ -79,14 +76,16 @@ Die Taufe fand am 26. April 1783 in Rotterdam statt - das Kind erhielt den Namen
 | **Dokumenttyp** | DTB Rotterdam Doop Waals |
 | **Geburtsdatum** | 12. September 1785 |
 | **Taufdatum** | 25. September 1785 |
-| **Täufling** | Elisabeth |
+| **Täufling** | Anne Elisabeth |
 | **Eltern** | Etienne Cabos und Maria Justine Siercken |
 
 ### Beschreibung
 
-Am 12. September 1785 wurde die Tochter **Elisabeth** geboren und am 25. September getauft. Sie war das letzte Kind, das in Rotterdam zur Welt kam.
+Am 12. September 1785 wurde die Tochter **Anne Elisabeth** geboren und am 25. September getauft. Sie war das letzte Kind, das in Rotterdam zur Welt kam.
 
-Elisabeth überlebte als eine der wenigen Kinder und heiratete später (1807) in Charlottenburg den Stadtchirurgen August Friedrich Ferdinand Pohle.
+Elisabeth überlebte als eine der wenigen Kinder und heiratete am **16. August 1807** in Charlottenburg den Stadtchirurgen **August Friedrich Ferdinand Pohle**. Sie starb am **21. Dezember 1866** in Groß Jehser (Brandenburg) und wurde am 24. Dezember 1866 beerdigt.
+
+[→ Hochzeit Elisabeth 1807](hochzeit-elisabeth-1807.md)
 
 ---
 

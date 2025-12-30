@@ -126,6 +126,8 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     ---
 
+    ![Taufe Elisabeth](../images/Taufe_Elisabeth-25-09-1785.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
     Taufeinträge der Kinder Justine, Etienne und Elisabeth
 
     [→ Details](taufen-rotterdam.md)
@@ -174,6 +176,16 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
     [→ Details](zahnarzt-halle.md)
 
+-   **Hochzeit Elisabeth 1807**
+
+    ---
+
+    ![Hochzeit Elisabeth](../images/Heirat_Anne_elisabeth_Charlottenburg_1807_08_16.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Heiratseintrag Anne Elisabeth und August Pohle
+
+    [→ Details](hochzeit-elisabeth-1807.md)
+
 -   **Sterbeurkunde Etienne 1808**
 
     ---
@@ -193,6 +205,16 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
     Sterbeeintrag in der Luisenkirche Charlottenburg
 
     [→ Details](sterbeurkunde-justine-1810.md)
+
+-   **Tod Elisabeth 1866**
+
+    ---
+
+    ![Tod Elisabeth](../images/Tod_Anne_Elisabeth.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Sterbeeintrag Anne Elisabeth Pohle, geb. Cabos
+
+    [→ Details](hochzeit-elisabeth-1807.md)
 
 </div>
 

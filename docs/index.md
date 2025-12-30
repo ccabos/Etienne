@@ -2,6 +2,10 @@
 
 ## Ein Leben zwischen Frankreich, Preußen und den Niederlanden
 
+![Karte der Lebensstationen](images/karte-stationen.png)
+
+*Die Lebensstationen von Etienne Cabos: Von Caussade in Südfrankreich über Stettin und Rotterdam bis nach Berlin.*
+
 ---
 
 ## Eine Welt im Umbruch

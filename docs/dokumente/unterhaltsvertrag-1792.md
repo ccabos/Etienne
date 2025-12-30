@@ -75,6 +75,37 @@ Der Vertrag regelte Folgendes:
 | **Verpflichtung** | Kein erneuter Anspruch auf Unterstützung |
 | **Rückzahlung** | "sobald es möglich ist" |
 
+### Die Bedeutung von 250 Gulden
+
+250 Gulden waren im späten 18. Jahrhundert eine erhebliche Summe Geld. Um dies in Perspektive zu setzen:
+
+**Im Verhältnis zu Arbeiterlöhnen:**
+
+- Ein **ungelernter Arbeiter** verdiente etwa **300 Gulden pro Jahr**[^1]
+- Ein **Handwerker** (Maurer, Tischler) verdiente etwa **250-600 Gulden pro Jahr**[^2]
+- Ein **Meister-Tischler** konnte etwa **1 Gulden pro Tag** verdienen (ca. 300 Gulden/Jahr bei 300 Arbeitstagen)[^3]
+- Professionelle **Maler** verdienten bis zu **3 Gulden pro Tag**[^3]
+
+**Das bedeutet konkret:**
+
+Die 250 Gulden entsprachen:
+- **10 Monaten Arbeit** eines ungelernten Arbeiters
+- **6-12 Monaten Arbeit** eines durchschnittlichen Handwerkers
+- **Fast einem Jahresgehalt** für einfache Arbeiter
+
+**Kaufkraft:**
+
+Arme Familien gaben bis zu **50% ihres Einkommens für Brot** aus.[^4] Die 250 Gulden mussten nicht nur die Reisekosten decken, sondern auch den Neuanfang in Deutschland ermöglichen - Unterkunft, Verpflegung und möglicherweise die Etablierung einer neuen Existenz.
+
+Für eine Familie mit sechs überlebenden Kindern (Johann Carl, Friedrich Ludwig, Franz Alexander, Henriette, Etienne jr. und Elisabeth) war dies zwar eine substanzielle Unterstützung, aber keineswegs ein Vermögen. Es war gerade genug, um die Reise zu finanzieren und einige Wochen oder Monate zu überbrücken.
+
+**Zum Vergleich:** Der Maler Vermeer hatte im 17. Jahrhundert eine Brotschuld von 617 Gulden angehäuft - was mehreren Jahren Brotversorgung für eine Familie entsprach.[^3] Dies verdeutlicht, wie schnell auch größere Summen aufgebraucht werden konnten.
+
+[^1]: [What was a guilder worth? | Lens on Leeuwenhoek](https://lensonleeuwenhoek.net/content/what-was-guilder-worth) - Angaben zu Löhnen ungelernter Arbeiter in Delft
+[^2]: [Historical Value of the Guilder: Measuring Vermeer's Prices](https://www.essentialvermeer.com/references/vermeer-economy.html) - Jahresgehälter von Handwerkern
+[^3]: [Historical Value of the Guilder: Measuring Vermeer's Prices](https://www.essentialvermeer.com/references/vermeer-economy.html) - Tägliche Löhne und Preisvergleiche
+[^4]: [Food in Seventeenth-Century Netherlands](https://www.essentialvermeer.com/dutch-painters/netherlands/food-in-the-netherlands.html) - Ausgaben für Grundnahrungsmittel
+
 ### Die Einladung nach Deutschland
 
 Die Familie wurde von Verwandten nach Deutschland eingeladen. Wer diese Verwandten waren, ist nicht dokumentiert - möglicherweise Kontakte aus der Stettiner Zeit oder andere hugenottische Familien in Berlin.

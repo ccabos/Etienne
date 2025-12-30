@@ -10,7 +10,7 @@
 
 ## Karte von 1777 - Blatt Montauban
 
-![Karte Montauban 1777](../images/karte-montauban-1777.jpg){ loading=lazy }
+![Karte Montauban 1777](../images/Karte%20Montauban%201777.png){ loading=lazy }
 
 *(Carte de France levée par ordre du Roy). No. 37 (Montauban). Aldring sculp. et Bourgoin scrip. (1777)*
 

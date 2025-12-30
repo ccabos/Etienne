@@ -42,6 +42,12 @@
 
 ## Sekundärliteratur und Online-Quellen
 
+### Historische Publikationen
+
+| Quelle | Beschreibung | Jahr |
+|--------|--------------|------|
+| [Bulletin archéologique et historique de la Société archéologique de Tarn-et-Garonne](dokumente/bulletin-1907.md) | Französischer Bericht über die Hugenottenkolonie in Berlin, enthält Korrespondenz der Familien Palmié und Humbert. **Erwähnt Etienne Cabos namentlich.** | 1907 |
+
 ### Hugenotten-Geschichte
 
 - **Wikipedia: "Hugenotten"** - Geschichte der französischen Protestanten und ihrer Verfolgung

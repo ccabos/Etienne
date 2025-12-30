@@ -112,15 +112,50 @@ Die Familie wurde von Verwandten nach Deutschland eingeladen. Wer diese Verwandt
 
 ---
 
-## Historischer Kontext: Das Jahr 1792
+## Historischer Kontext: Die politische Lage in Holland 1792
 
-1792 war ein turbulentes Jahr in Europa:
+### Europa am Vorabend des Krieges
 
-- Die Französische Revolution war in vollem Gange
-- Frankreich erklärte Österreich den Krieg
-- Die Niederlande wurden zunehmend instabil
+1792 war ein turbulentes Jahr in Europa. Die Französische Revolution war in vollem Gange, und die europäischen Mächte bereiteten sich auf einen Konflikt vor. Das Datum des Vertrags - der **18. April 1792** - ist bemerkenswert: Nur **zwei Tage später**, am 20. April 1792, erklärte Frankreich Österreich den Krieg.
 
-Für eine Familie mit französischen Wurzeln und preußischer Vergangenheit war Deutschland vielleicht der sicherste Hafen.
+### Zeitliche Einordnung
+
+| Datum | Ereignis |
+|-------|----------|
+| **1787** | Preußische Armee unterdrückt die niederländische "Patriotten"-Bewegung und stellt die Oranier-Herrschaft wieder her |
+| **April 1789** | Beginn der Französischen Revolution |
+| **20. April 1792** | Frankreich erklärt Österreich den Krieg |
+| **18. April 1792** | Etiennes Unterhaltsvertrag mit der Kirche in Rotterdam |
+| **1. Februar 1793** | Frankreich erklärt Holland und England den Krieg |
+| **Winter 1794/95** | Französische Invasion über die zugefrorenen Flüsse |
+| **19. Januar 1795** | Batavische Republik wird ausgerufen |
+
+### Die "Patriotten" und die Oranier
+
+In den Niederlanden standen sich zwei politische Lager feindlich gegenüber:
+
+- Die **"Patriotten"** - eine reformorientierte Bewegung, die mit den Idealen der Französischen Revolution sympathisierte
+- Die **Orangisten** - Anhänger des Statthalters Wilhelm V.
+
+1787 hatte die preußische Armee die Patriotten-Bewegung gewaltsam niedergeschlagen und die Oranier-Herrschaft wiederhergestellt. Viele Patriotten warteten auf eine Gelegenheit zur Revanche - und sahen in der französischen Revolutionsarmee ihre Befreier.[^5]
+
+### Mögliche Gründe für die Abreise
+
+Für Etienne Cabos, einen gebürtigen Franzosen mit preußischer Militärvergangenheit, war die Lage besonders heikel:
+
+1. **Kriegsgefahr war absehbar** - Im April 1792 war klar, dass ein Krieg zwischen Frankreich und Holland bevorstand. Als gebürtiger Franzose wäre Etiennes Position in Holland schwierig geworden.
+
+2. **Politische Spannungen** - Die Patriotten (pro-französisch) und Orangisten standen sich feindlich gegenüber. Als Hugenotte war Etienne in einer komplexen Lage: Die Hugenotten waren vor dem katholischen Frankreich geflohen, aber das revolutionäre Frankreich war anti-klerikal und verfolgte nun auch protestantische Geistliche.
+
+3. **Wirtschaftliche Not** - Der Vertrag zeigt, dass die Familie bereits von kirchlicher Wohlfahrt abhängig war.
+
+4. **Preußische Verbindungen** - Etienne hatte Jahre in der preußischen Armee gedient. Mit dem drohenden Krieg zwischen Frankreich und den mit Preußen verbündeten Niederlanden war seine Loyalität möglicherweise fragwürdig.
+
+5. **Familie in Deutschland** - Der Vertrag erwähnt ausdrücklich eine Einladung von Familie in Deutschland - möglicherweise Kontakte aus der Stettiner Zeit oder andere hugenottische Familien in Berlin.
+
+Das Timing ist auffällig: Der Vertrag wurde nur **zwei Tage vor** der französischen Kriegserklärung an Österreich unterschrieben. Die Zeichen standen auf Sturm, und für eine Familie mit französischen Wurzeln und preußischer Vergangenheit war Deutschland der sicherste Hafen.
+
+[^5]: [Batavian Revolution - Wikipedia](https://en.wikipedia.org/wiki/Batavian_revolution) und [Batavian Republic - Wikipedia](https://en.wikipedia.org/wiki/Batavian_Republic)
 
 ---
 

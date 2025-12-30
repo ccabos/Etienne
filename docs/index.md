@@ -238,9 +238,9 @@ Etienne war ein Mann vieler Berufe. Der [französische Bericht von 1907](dokumen
 
     [→ Zum Dokument](dokumente/zahnarzt-halle.md)
 
--   :material-book-open-variant:{ .lg .middle } **Bulletin 1907**
+-   [![Bulletin 1907](images/bulletin-1907.jpg){ width="200" }](dokumente/bulletin-1907.md)
 
-    ---
+    **Bulletin 1907**
 
     Französischer Bericht über die Hugenottenkolonie - erwähnt Etienne Cabos namentlich
 

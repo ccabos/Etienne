@@ -58,6 +58,9 @@ Dieser Eintrag ist das **Geburtsdokument** von Etienne Cabos und belegt:
 - Die bürgerliche Stellung seiner Familie
 - Die Verbindungen zu medizinischen Berufskreisen (Pate war Chirurg)
 
+!!! info "Vollständige Registerseite"
+    Dieser Taufeintrag ist Teil einer kompletten Kirchenregister-Seite mit mehreren Einträgen aus dem Juni/Juli 1737. Die vollständige Transkription aller Einträge und eine Analyse des sozialen Kontexts (insbesondere der weit verbreiteten Analphabetismus) finden Sie auf der [Detailseite zum Kirchenregister Caussade Juli 1737](kirchenregister-caussade-juli-1737.md).
+
 ---
 
-[← Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md) | [→ Vollständiges Kirchenregister Juli 1737](kirchenregister-caussade-juli-1737.md)

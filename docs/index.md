@@ -114,6 +114,14 @@ Etienne diente als Soldat im **Infanterieregiment Nr. 8 (von Hacke)**, in der Ko
 
     [→ Zu den Dokumenten](dokumente/geburten-stettin.md)
 
+-   [![Kriegsende 1779](images/1779-kriegsende.jpg){ width="200" }](dokumente/kriegsende-1779.md)
+
+    **Kirchenbuch Kriegsende 1779**
+
+    Einträge zum Ende des Bayerischen Erbfolgekrieges (Kartoffelkrieg)
+
+    [→ Zum Dokument](dokumente/kriegsende-1779.md)
+
 </div>
 
 ---
@@ -124,9 +132,13 @@ Die Jahre in Stettin waren fruchtbar für die junge Familie. Am 29. November 177
 
 Im Sommer 1778 wurde Europa erneut von Kriegstreibern erschüttert. Nach dem Aussterben der bayerischen Wittelsbacher-Linie erhob Kaiser Joseph II. Anspruch auf Niederbayern und die Oberpfalz. Friedrich der Große, entschlossen, eine Stärkung Österreichs zu verhindern, mobilisierte seine Truppen.
 
-Am **5. Juli 1778** marschierten 80.000 preußische und sächsische Soldaten in Böhmen ein - unter ihnen Etienne Cabos. Das Infanterieregiment Nr. 8 gehörte zu den Einheiten, die nach Böhmen verlegt wurden. Doch was als Feldzug begann, entwickelte sich zu einem eigenartigen Nicht-Krieg: Auf beiden Seiten kam es zu schweren logistischen Problemen. Die Soldaten mussten sich hauptsächlich von beschlagnahmten Kartoffeln ernähren, weshalb dieser Konflikt spöttisch als **"Kartoffelkrieg"** in die Geschichte einging - in Österreich wurde er als "Zwetschgenrummel" verspottet.
+Am **5. Juli 1778** marschierten 80.000 preußische und sächsische Soldaten in Böhmen ein - **vermutlich unter ihnen auch Etienne Cabos**. Obwohl kein direkter militärischer Nachweis seiner Teilnahme am Feldzug erhalten ist, spricht alles dafür: Sein Regiment, das Infanterieregiment Nr. 8, gehörte zu den Einheiten, die nach Böhmen verlegt wurden. Als aktiver Soldat in diesem Regiment wäre es höchst ungewöhnlich gewesen, wenn er nicht am Feldzug teilgenommen hätte.
 
-Die Kirchenbücher der Garnisonskirche in Stettin vermerken lakonisch: *"Getaufte während der Campagne im Jahre 1778 u 1779"* - ein Hinweis darauf, dass die Familien der Soldaten während des Feldzugs in der Garnison zurückblieben. Am **13. Mai 1779** beendete der Frieden von Teschen den seltsamen Krieg, und die Regimenter kehrten in ihre Garnisonen zurück. Der Kirchenbucheintrag feierte: *"Nach Gott sey Lob und Ehre glücklich wieder hergestelltem Frieden und Zurückkunft der Regimenter."*
+Doch was als Feldzug begann, entwickelte sich zu einem eigenartigen Nicht-Krieg: Auf beiden Seiten kam es zu schweren logistischen Problemen. Die Soldaten mussten sich hauptsächlich von beschlagnahmten Kartoffeln ernähren, weshalb dieser Konflikt spöttisch als **"Kartoffelkrieg"** in die Geschichte einging - in Österreich wurde er als "Zwetschgenrummel" verspottet.
+
+Die Kirchenbücher der Garnisonskirche in Stettin vermerken lakonisch: *"Getaufte während der Campagne im Jahre 1778 u 1779"* - ein Hinweis darauf, dass die Familien der Soldaten während des Feldzugs in der Garnison zurückblieben. Am **13. Mai 1779** beendete der Frieden von Teschen den seltsamen Krieg, und die Regimenter kehrten in ihre Garnisonen zurück.
+
+Das [Kirchenbuch zum Kriegsende 1779](dokumente/kriegsende-1779.md) dokumentiert die Nachkriegszeit mit Einträgen "zum ende des Krieges zu Sept. 1779" - die administrativen Nacharbeiten und die Rückkehr der Soldaten zu ihren Familien zogen sich bis in den September hinein.
 
 ---
 

@@ -161,6 +161,9 @@ graph TD
 - **Taufe:** 3. Dezember 1772
 - **Besonderheit:** Erstes Kind, nur 4 Monate nach der Hochzeit
 
+!!! note "Namensabweichung in den Kirchenbüchern"
+    Im Taufeintrag wird die Mutter als "Christine Siegrigen" bezeichnet. Dies ist höchstwahrscheinlich eine Verschreibung von **"Justine Siercken"** (Maria Justine Siercken). Solche phonetischen Verschreibungen waren in handschriftlichen Kirchenbüchern üblich, besonders bei ungewöhnlichen Namen. Der zeitliche Kontext (4 Monate nach der Hochzeit von Etienne und Maria Justine) und die Tatsache, dass alle späteren Kinder eindeutig als Kinder von Maria Justine Siercken dokumentiert sind, bestätigen die Identität.
+
 [→ Zum Dokument](dokumente/geburten-stettin.md#johann-carl-abraham-1772)
 
 ##### 👦 Friedrich Ludwig Abraham Isaac (1774)
@@ -295,6 +298,16 @@ Die Taufpaten der Kinder zeigen die bemerkenswerte soziale Stellung der Familie:
 - Agnes Louise Amelie Palmie (geb. Rauch)
 
 Trotz einfacher Herkunft als Soldat und Händler gelang es Etienne Cabos, Verbindungen zu Adel und höheren Gesellschaftskreisen aufzubauen.
+
+---
+
+## Nachkommen-Übersicht (PDF)
+
+Eine vollständige grafische Darstellung der Nachkommen von Etienne Cabos steht als PDF-Dokument zur Verfügung:
+
+**[📄 Nachkommen von Etienne Cabos (1737-1808)](dokumente/etienne1737_compact.pdf)** *(PDF)*
+
+Dieses Dokument zeigt die vollständige Nachkommenschaft von Etienne Cabos und Maria Justine Siercken über mehrere Generationen hinweg in kompakter Form.
 
 ---
 

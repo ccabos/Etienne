@@ -26,6 +26,9 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 
 **Johann Carl Abraham** war das erste Kind von Stephan und Maria Justine Cabos. Er wurde nur wenige Monate nach der Hochzeit seiner Eltern am 16. Juli 1772 geboren.
 
+!!! note "Namensabweichungen in den Kirchenbüchern"
+    In verschiedenen Stettiner Taufeinträgen erscheint der Name der Mutter in unterschiedlichen Schreibweisen, darunter auch als **"Christine Siegrigen"** (siehe Friedrich Ludwig, 1774). Dies sind phonetische Verschreibungen von **"Justine Siercken"** bzw. **"Maria Justine Siercken"**. Solche Variationen waren in handschriftlichen Kirchenbüchern des 18. Jahrhunderts üblich, besonders bei ungewöhnlichen oder fremdländischen Namen. Die Identität der Mutter ist durch die Hochzeitsurkunde von 1772 und spätere Dokumente eindeutig als Maria Justine Siercken belegt.
+
 ---
 
 ## Friedrich Ludwig Abraham Isaac (1774)
@@ -34,7 +37,7 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 
 > *"Pat: Stephan Cabos, S. von H. Maj. v Arnim — Mat: Christine Siegrigen — Pathen: 1. H. Major v. Wrangel, 2. H. Major v. Arnim, 3. Die Fräulein v. Zarkow"*
 
-*Vater: Stephan Cabos, Soldat unter Herrn Major von Arnim. Mutter: Christine Siercken. Paten: 1. Herr Major von Wrangel, 2. Herr Major von Arnim, 3. Fräulein von Zarkow.*
+*Vater: Stephan Cabos, Soldat unter Herrn Major von Arnim. Mutter: Christine Siegrigen [= Justine Siercken]. Paten: 1. Herr Major von Wrangel, 2. Herr Major von Arnim, 3. Fräulein von Zarkow.*
 
 ### Dokumentinformationen
 

@@ -5,7 +5,6 @@ site_url: https://ccabos.github.io/Etienne/
 theme:
   name: material
   custom_dir: overrides
-  language: de
   palette:
     - scheme: default
       primary: brown
@@ -31,26 +30,26 @@ theme:
     code: Roboto Mono
 
 nav:
-  - Startseite: index.md
-  - Zeitleiste: zeitleiste.md
-  - Stammbaum: stammbaum.md
+  - Startseite: index.de.md
+  - Zeitleiste: zeitleiste.de.md
+  - Stammbaum: stammbaum.de.md
   - Historische Dokumente:
-    - Übersicht: dokumente/index.md
-    - Historische Karten: dokumente/karte-1777.md
-    - Hochzeit Laurens Cabos 1729: dokumente/hochzeit-laurens-1729.md
-    - Taufe Etienne 1737: dokumente/taufe-etienne-1737.md
-    - Hochzeit Stettin 1772: dokumente/hochzeit-stettin-1772.md
-    - Geburten Stettin 1772-1777: dokumente/geburten-stettin.md
-    - Militärregister: dokumente/militaerregister.md
-    - Reisepass 1780: dokumente/reisepass-1780.md
-    - Bürgerbuch Rotterdam: dokumente/buergerbuch-rotterdam.md
-    - Taufen Rotterdam: dokumente/taufen-rotterdam.md
-    - Begräbnisse Rotterdam: dokumente/begraebnisse-rotterdam.md
-    - Unterhaltsvertrag 1792: dokumente/unterhaltsvertrag-1792.md
-    - Taufe Berlin 1793: dokumente/taufe-berlin-1793.md
-    - Zahnarzt in Halle 1794-1798: dokumente/zahnarzt-halle.md
-    - Sterbeurkunde 1808: dokumente/sterbeurkunde-1808.md
-  - Quellen: quellen.md
+    - Übersicht: dokumente/index.de.md
+    - Historische Karten: dokumente/karte-1777.de.md
+    - Hochzeit Laurens Cabos 1729: dokumente/hochzeit-laurens-1729.de.md
+    - Taufe Etienne 1737: dokumente/taufe-etienne-1737.de.md
+    - Hochzeit Stettin 1772: dokumente/hochzeit-stettin-1772.de.md
+    - Geburten Stettin 1772-1777: dokumente/geburten-stettin.de.md
+    - Militärregister: dokumente/militaerregister.de.md
+    - Reisepass 1780: dokumente/reisepass-1780.de.md
+    - Bürgerbuch Rotterdam: dokumente/buergerbuch-rotterdam.de.md
+    - Taufen Rotterdam: dokumente/taufen-rotterdam.de.md
+    - Begräbnisse Rotterdam: dokumente/begraebnisse-rotterdam.de.md
+    - Unterhaltsvertrag 1792: dokumente/unterhaltsvertrag-1792.de.md
+    - Taufe Berlin 1793: dokumente/taufe-berlin-1793.de.md
+    - Zahnarzt in Halle 1794-1798: dokumente/zahnarzt-halle.de.md
+    - Sterbeurkunde 1808: dokumente/sterbeurkunde-1808.de.md
+  - Quellen: quellen.de.md
 
 markdown_extensions:
   - attr_list
@@ -72,7 +71,43 @@ markdown_extensions:
 
 plugins:
   - search:
-      lang: de
+      lang:
+        - de
+        - en
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: de
+          default: true
+          name: Deutsch
+          build: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            Startseite: Home
+            Zeitleiste: Timeline
+            Stammbaum: Family Tree
+            Historische Dokumente: Historical Documents
+            Übersicht: Overview
+            Historische Karten: Historical Maps
+            Hochzeit Laurens Cabos 1729: Marriage Laurens Cabos 1729
+            Taufe Etienne 1737: Baptism Etienne 1737
+            Hochzeit Stettin 1772: Marriage Stettin 1772
+            Geburten Stettin 1772-1777: Births Stettin 1772-1777
+            Militärregister: Military Register
+            Reisepass 1780: Passport 1780
+            Bürgerbuch Rotterdam: Citizen Book Rotterdam
+            Taufen Rotterdam: Baptisms Rotterdam
+            Begräbnisse Rotterdam: Burials Rotterdam
+            Unterhaltsvertrag 1792: Maintenance Contract 1792
+            Taufe Berlin 1793: Baptism Berlin 1793
+            Zahnarzt in Halle 1794-1798: Dentist in Halle 1794-1798
+            Sterbeurkunde 1808: Death Certificate 1808
+            Quellen: Sources
   - glightbox
 
 extra:

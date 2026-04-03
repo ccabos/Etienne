@@ -29,7 +29,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-material mkdocs-glightbox
+          pip install mkdocs mkdocs-material mkdocs-glightbox mkdocs-static-i18n
 
       - name: Build site
         run: mkdocs build

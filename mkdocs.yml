@@ -5,7 +5,6 @@ site_url: https://ccabos.github.io/Etienne/
 theme:
   name: material
   custom_dir: overrides
-  language: de
   palette:
     - scheme: default
       primary: brown
@@ -31,33 +30,33 @@ theme:
     code: Roboto Mono
 
 nav:
-  - Startseite: index.md
-  - Zeitleiste: zeitleiste.md
-  - Stammbaum: stammbaum.md
+  - Startseite: index.de.md
+  - Zeitleiste: zeitleiste.de.md
+  - Stammbaum: stammbaum.de.md
   - Historische Dokumente:
-    - Übersicht: dokumente/index.md
-    - Historische Karten: dokumente/karte-1777.md
-    - Hochzeit Laurens Cabos 1729: dokumente/hochzeit-laurens-1729.md
-    - Taufe Etienne 1737: dokumente/taufe-etienne-1737.md
-    - Kirchenregister Caussade Juli 1737: dokumente/kirchenregister-caussade-juli-1737.md
-    - Taufe Pierre 1740: dokumente/taufe-pierre-1740.md
-    - Hochzeit Jean Cabos 1760: dokumente/hochzeit-jean-1760.md
-    - Hochzeit Stettin 1772: dokumente/hochzeit-stettin-1772.md
-    - Geburten Stettin 1772-1777: dokumente/geburten-stettin.md
-    - Kirchenbuch Kriegsende 1779: dokumente/kriegsende-1779.md
-    - Militärregister: dokumente/militaerregister.md
-    - Reisepass 1780: dokumente/reisepass-1780.md
-    - Bürgerbuch Rotterdam: dokumente/buergerbuch-rotterdam.md
-    - Taufen Rotterdam: dokumente/taufen-rotterdam.md
-    - Begräbnisse Rotterdam: dokumente/begraebnisse-rotterdam.md
-    - Unterhaltsvertrag 1792: dokumente/unterhaltsvertrag-1792.md
-    - Taufe Berlin 1793: dokumente/taufe-berlin-1793.md
-    - Zahnarzt in Halle 1794-1798: dokumente/zahnarzt-halle.md
-    - Hochzeit Elisabeth 1807: dokumente/hochzeit-elisabeth-1807.md
-    - Sterbeurkunde Etienne 1808: dokumente/sterbeurkunde-1808.md
-    - Sterbeurkunde Maria Justine 1810: dokumente/sterbeurkunde-justine-1810.md
-    - Bulletin 1907 (Sekundärquelle): dokumente/bulletin-1907.md
-  - Quellen: quellen.md
+    - Übersicht: dokumente/index.de.md
+    - Historische Karten: dokumente/karte-1777.de.md
+    - Hochzeit Laurens Cabos 1729: dokumente/hochzeit-laurens-1729.de.md
+    - Taufe Etienne 1737: dokumente/taufe-etienne-1737.de.md
+    - Kirchenregister Caussade Juli 1737: dokumente/kirchenregister-caussade-juli-1737.de.md
+    - Taufe Pierre 1740: dokumente/taufe-pierre-1740.de.md
+    - Hochzeit Jean Cabos 1760: dokumente/hochzeit-jean-1760.de.md
+    - Hochzeit Stettin 1772: dokumente/hochzeit-stettin-1772.de.md
+    - Geburten Stettin 1772-1777: dokumente/geburten-stettin.de.md
+    - Kirchenbuch Kriegsende 1779: dokumente/kriegsende-1779.de.md
+    - Militärregister: dokumente/militaerregister.de.md
+    - Reisepass 1780: dokumente/reisepass-1780.de.md
+    - Bürgerbuch Rotterdam: dokumente/buergerbuch-rotterdam.de.md
+    - Taufen Rotterdam: dokumente/taufen-rotterdam.de.md
+    - Begräbnisse Rotterdam: dokumente/begraebnisse-rotterdam.de.md
+    - Unterhaltsvertrag 1792: dokumente/unterhaltsvertrag-1792.de.md
+    - Taufe Berlin 1793: dokumente/taufe-berlin-1793.de.md
+    - Zahnarzt in Halle 1794-1798: dokumente/zahnarzt-halle.de.md
+    - Hochzeit Elisabeth 1807: dokumente/hochzeit-elisabeth-1807.de.md
+    - Sterbeurkunde Etienne 1808: dokumente/sterbeurkunde-1808.de.md
+    - Sterbeurkunde Maria Justine 1810: dokumente/sterbeurkunde-justine-1810.de.md
+    - Bulletin 1907 (Sekundärquelle): dokumente/bulletin-1907.de.md
+  - Quellen: quellen.de.md
 
 markdown_extensions:
   - attr_list
@@ -79,7 +78,50 @@ markdown_extensions:
 
 plugins:
   - search:
-      lang: de
+      lang:
+        - de
+        - en
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: de
+          default: true
+          name: Deutsch
+          build: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            Startseite: Home
+            Zeitleiste: Timeline
+            Stammbaum: Family Tree
+            Historische Dokumente: Historical Documents
+            Übersicht: Overview
+            Historische Karten: Historical Maps
+            Hochzeit Laurens Cabos 1729: Marriage Laurens Cabos 1729
+            Taufe Etienne 1737: Baptism Etienne 1737
+            Kirchenregister Caussade Juli 1737: Church Register Caussade July 1737
+            Taufe Pierre 1740: Baptism Pierre 1740
+            Hochzeit Jean Cabos 1760: Marriage Jean Cabos 1760
+            Hochzeit Stettin 1772: Marriage Stettin 1772
+            Geburten Stettin 1772-1777: Births Stettin 1772-1777
+            Kirchenbuch Kriegsende 1779: Church Record End of War 1779
+            Militärregister: Military Register
+            Reisepass 1780: Passport 1780
+            Bürgerbuch Rotterdam: Citizen Book Rotterdam
+            Taufen Rotterdam: Baptisms Rotterdam
+            Begräbnisse Rotterdam: Burials Rotterdam
+            Unterhaltsvertrag 1792: Maintenance Contract 1792
+            Taufe Berlin 1793: Baptism Berlin 1793
+            Zahnarzt in Halle 1794-1798: Dentist in Halle 1794-1798
+            Hochzeit Elisabeth 1807: Marriage Elisabeth 1807
+            Sterbeurkunde Etienne 1808: Death Certificate Etienne 1808
+            Sterbeurkunde Maria Justine 1810: Death Certificate Maria Justine 1810
+            Bulletin 1907 (Sekundärquelle): Bulletin 1907 (Secondary Source)
+            Quellen: Sources
   - glightbox
 
 extra:

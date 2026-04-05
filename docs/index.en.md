@@ -36,6 +36,8 @@ Etienne's father, **Laurens Cabos**, was a merchant and had married **Marie Rey*
 
 The day after his birth, on July 10, 1737, little Etienne was baptized. His godfather was Etienne Prunet, a master surgeon, his godmother Claire St. Genies - both names that point to the educated bourgeoisie of the region.
 
+Etienne had at least two brothers: **Jean Cabos**, who married **Jeanne Fournier** in Caussade on February 3, 1760, and died in Caussade on November 4, 1796, as well as **Pierre Cabos**, who was baptized on November 1, 1740 - three years after Etienne. Jean's wedding was performed by Protestant pastor Lafond "in the Désert" (underground) - an act of religious resistance at a time when Protestantism was forbidden.
+
 <div class="grid cards" markdown>
 
 -   [![Wedding 1729](images/hochzeit-laurens-1729.jpg){ width="200" }](dokumente/hochzeit-laurens-1729.md)
@@ -54,13 +56,31 @@ The day after his birth, on July 10, 1737, little Etienne was baptized. His godf
 
     [→ To the document](dokumente/taufe-etienne-1737.md)
 
+-   [![Baptism Pierre 1740](images/1740-11-01-Geburt%20Pierre.jpg){ width="200" }](dokumente/taufe-pierre-1740.md)
+
+    **Baptism Pierre 1740**
+
+    Baptismal entry of Pierre Cabos (younger brother)
+
+    [→ To the document](dokumente/taufe-pierre-1740.md)
+
+-   [![Wedding Jean 1760](images/1760-02-03-Jean%20cabos%20jeanne%20Fournier.jpg){ width="200" }](dokumente/hochzeit-jean-1760.md)
+
+    **Wedding Jean 1760**
+
+    Marriage contract of Jean Cabos and Jeanne Fournier
+
+    [→ To the document](dokumente/hochzeit-jean-1760.md)
+
 </div>
 
 ---
 
 ## The Path to Prussia
 
-The exact circumstances that led Etienne from his southern French homeland to northern Germany lie in the darkness of history. What is certain, however, is that he appears in Stettin in the early 1770s - not as a merchant like his father, but as a soldier in the Prussian army.
+The exact circumstances that led Etienne from his southern French homeland to northern Germany lie in the darkness of history. A [French report from 1907](dokumente/bulletin-1907.md) mentions, however, that his **older brother was executed in Caussade** - for an unknown offense. It was neither Jean (†1796 in Caussade) nor Pierre (born 1740, thus younger than Etienne). If the claim is true, there must have been a **fourth, older brother**. In September 1761, the Protestant pastor Rochette was arrested in Caussade - the subsequent [Rochette Affair](dokumente/bulletin-1907.md#historischer-kontext-die-affare-rochette-1761-1762) shook the Protestant community. Whether a family tragedy drove Etienne to flee France remains speculation, but it would explain why he left his homeland forever.
+
+What is certain is that he appears in Stettin in the early 1770s - not as a merchant like his father, but as a soldier in the Prussian army. The same report describes him as a "deserter" and mentions that he "received numerous blows to learn the Prussian art of drilling" - a reference to the notorious harshness of Prussian military discipline.
 
 Prussia under Frederick the Great was a refuge for French Protestants. The Edict of Potsdam of 1685 had granted the persecuted Huguenots admission and special privileges. About 18,000 to 20,000 Huguenots found a new home in Brandenburg-Prussia and brought over 40 new professions with them, founded the first manufactories and gained access to high positions in the military, science and administration. French became the language of the educated elites, and the Reformed confession connected the Huguenots with the Brandenburg ruling house.
 
@@ -94,6 +114,14 @@ Etienne served as a soldier in **Infantry Regiment No. 8 (von Hacke)**, in the c
 
     [→ To the documents](dokumente/geburten-stettin.md)
 
+-   [![War's End 1779](images/1779-kriegsende.jpg){ width="200" }](dokumente/kriegsende-1779.md)
+
+    **Church Register War's End 1779**
+
+    Entries on the end of the War of the Bavarian Succession (Potato War)
+
+    [→ To the document](dokumente/kriegsende-1779.md)
+
 </div>
 
 ---
@@ -104,9 +132,13 @@ The years in Stettin were fruitful for the young family. On November 29, 1772, t
 
 In the summer of 1778, Europe was once again shaken by warmongers. After the extinction of the Bavarian Wittelsbach line, Emperor Joseph II laid claim to Lower Bavaria and the Upper Palatinate. Frederick the Great, determined to prevent a strengthening of Austria, mobilized his troops.
 
-On **July 5, 1778**, 80,000 Prussian and Saxon soldiers marched into Bohemia - among them Etienne Cabos. Infantry Regiment No. 8 was among the units transferred to Bohemia. But what began as a campaign developed into a peculiar non-war: both sides experienced severe logistical problems. The soldiers had to live mainly on requisitioned potatoes, which is why this conflict mockingly entered history as the **"Potato War"** - in Austria it was ridiculed as "Zwetschgenrummel" (Plum Rumble).
+On **July 5, 1778**, 80,000 Prussian and Saxon soldiers marched into Bohemia - **presumably including Etienne Cabos**. Although no direct military proof of his participation in the campaign has been preserved, everything points to it: His regiment, Infantry Regiment No. 8, was among the units transferred to Bohemia. As an active soldier in this regiment, it would have been highly unusual if he had not participated in the campaign.
 
-The church registers of the garrison church in Stettin note laconically: *"Getaufte während der Campagne im Jahre 1778 u 1779"* - an indication that the families of the soldiers remained in the garrison during the campaign. On **May 13, 1779**, the Peace of Teschen ended the strange war, and the regiments returned to their garrisons. The church register entry celebrated: *"Nach Gott sey Lob und Ehre glücklich wieder hergestelltem Frieden und Zurückkunft der Regimenter."*
+But what began as a campaign developed into a peculiar non-war: both sides experienced severe logistical problems. The soldiers had to live mainly on requisitioned potatoes, which is why this conflict mockingly entered history as the **"Potato War"** - in Austria it was ridiculed as "Zwetschgenrummel" (Plum Rumble).
+
+The church registers of the garrison church in Stettin note laconically: *"Getaufte während der Campagne im Jahre 1778 u 1779"* - an indication that the families of the soldiers remained in the garrison during the campaign. On **May 13, 1779**, the Peace of Teschen ended the strange war, and the regiments returned to their garrisons.
+
+The [church register on the war's end 1779](dokumente/kriegsende-1779.md) documents the post-war period with entries "zum ende des Krieges zu Sept. 1779" - the administrative aftermath and the return of the soldiers to their families continued into September.
 
 ---
 
@@ -154,19 +186,27 @@ The family's economic situation apparently deteriorated increasingly. On **April
 
 The two churches each granted the family 125 guilders - together 250 guilders - to finance the journey to Germany. This corresponded to about **10 months of work for an unskilled laborer** or almost **one year's salary for a simple craftsman** - a substantial sum for a six-member family, but by no means a fortune. In return, Etienne and his wife pledged to *"nie wieder Anspruch auf Unterhalt von beiden Diakonien [...] zu erheben"* and *"die Summe von 250 Gulden sobald es uns möglich ist"* to repay.
 
+### Europe on the Eve of War
+
+The date of the contract - **April 18, 1792** - is remarkable: **only two days later**, on April 20, 1792, France declared war on Austria. In February 1793, the declaration of war on Holland and England followed, and in the winter of 1794/95, French troops marched across the frozen rivers into the Netherlands.
+
+In Holland, two political camps were hostile to each other: The **"Patriots"**, who sympathized with the ideals of the French Revolution, and the Orangists, supporters of Stadholder William V. As early as 1787, the Prussian army had violently suppressed the Patriot movement. Now many waited for the French revolutionary army as liberators.
+
+For Etienne Cabos - a native Frenchman with a Prussian military background - the situation was particularly delicate. As a Huguenot, he was in a complex position: The Huguenots had fled from Catholic France, but revolutionary France was now also persecuting Protestant clergy. With the impending war between France and the Netherlands allied with Prussia, his loyalty was potentially questionable. The signs pointed to storm, and for a family with French roots and a Prussian past, Germany was the safest haven.
+
 <div class="grid cards" markdown>
 
--   :material-cross:{ .lg .middle } **Baptisms Rotterdam**
+-   [![Baptisms Rotterdam](images/Taufe_Justine-13-09-1780.jpg){ width="200" }](dokumente/taufen-rotterdam.md)
 
-    ---
+    **Baptisms Rotterdam**
 
     Baptismal entries of the children Justine, Etienne and Elisabeth
 
     [→ To the documents](dokumente/taufen-rotterdam.md)
 
--   :material-grave-stone:{ .lg .middle } **Burials Rotterdam**
+-   [![Burials Rotterdam](images/Begraebnis_Christine-11-06-1784.jpg){ width="200" }](dokumente/begraebnisse-rotterdam.md)
 
-    ---
+    **Burials Rotterdam**
 
     Burial entries for Justine and Marie Christine
 
@@ -190,13 +230,13 @@ The Cabos family traveled to Berlin in 1792 - to a city that had housed a signif
 
 On **January 24, 1793**, the last son of the family was born in Berlin: **Charles Emmanuel**. The church register entry of the French Reformed Friedrichstadtkirche notes that the father was described as *"Dentiste, natif de Caussade en Querci"* - as a dentist, native of Caussade in Quercy. The godparents of the child were high-ranking: Charles Emanuel Baron de Hoffstaedt, Privy Councillor, and Agnes Louise Amelie Palmie, née Rauch.
 
-That Etienne actually practiced as a dentist is documented by advertisements in the **Wöchentliche Hallische Anzeigen** from **1794 and 1798**. From Berlin he traveled to Halle to treat patients there. He offered the full spectrum of contemporary dentistry: tooth extraction, prostheses, fillings, teeth cleaning and self-produced mouthwash. In his advertisements, he praised dental prostheses *"welche so fest an dem Gaumen halten, als die besten natürlichen Zähne"*, and in 1798 even promised to insert teeth *"wie sie die Natur giebt"*. As a traveling dentist, Cabos was among the few who visited Halle multiple times.
+Etienne was a man of many professions. The [French report from 1907](dokumente/bulletin-1907.md) describes him as an "adventurer" who was successively **hairdresser, dentist and perfumer**. That he actually practiced as a dentist is documented by advertisements in the **Wöchentliche Hallische Anzeigen** from **1794 and 1798**. From Berlin he traveled to Halle to treat patients there. He offered the full spectrum of contemporary dentistry: tooth extraction, prostheses, fillings, teeth cleaning and self-produced mouthwash. In his advertisements, he praised dental prostheses *"welche so fest an dem Gaumen halten, als die besten natürlichen Zähne"*, and in 1798 even promised to insert teeth *"wie sie die Natur giebt"*. As a traveling dentist, Cabos was among the few who visited Halle multiple times.
 
 <div class="grid cards" markdown>
 
--   :material-baby-face:{ .lg .middle } **Baptism Berlin 1793**
+-   [![Baptism Berlin 1793](images/taufe-berlin-1793.jpg){ width="200" }](dokumente/taufe-berlin-1793.md)
 
-    ---
+    **Baptism Berlin 1793**
 
     Baptismal entry of Charles Emmanuel at the Friedrichstadtkirche
 
@@ -210,27 +250,59 @@ That Etienne actually practiced as a dentist is documented by advertisements in 
 
     [→ To the document](dokumente/zahnarzt-halle.md)
 
+-   [![Bulletin 1907](images/bulletin-1907.jpg){ width="200" }](dokumente/bulletin-1907.md)
+
+    **Bulletin 1907**
+
+    French report on the Huguenot colony - mentions Etienne Cabos by name
+
+    [→ To the document](dokumente/bulletin-1907.md)
+
 </div>
 
 ---
 
 ## The Final Years
 
-We know little about Etienne's last years of life. On August 16, 1807, his daughter Anne Elisabeth married the town surgeon August Friedrich Ferdinand Pohle at the Luisenkirche in Charlottenburg. The church register entry describes Etienne as "Merchant in Rotterdam" - a title that probably referred to his Rotterdam years.
+We know little about Etienne's last years of life. On **August 16, 1807**, his daughter **Anne Elisabeth** married the town surgeon **August Friedrich Ferdinand Pohle** at the Luisenkirche in Charlottenburg. The church register entry describes Etienne as "Merchant in Rotterdam" - a title that probably referred to his Rotterdam years. Elisabeth reached a great age and died on December 21, 1866 in Groß Jehser (Brandenburg).
 
 On **September 14, 1808**, at one o'clock in the morning, Etienne Cabos died at the age of 71 in the Charlottenburg hospital from a stroke. The church register entry of the French Reformed Friedrichstadtkirche records his death and his burial on September 16 at the *"cimetière de la porte d'Orange"* - the cemetery at the Oranienburger Tor, the cemetery of the French colony.
 
-His wife Maria Justine survived him by two years. On September 10, 1810, she died at nine o'clock in the evening from dysentery. The church register entry describes her as "separirte" - living separately - an indication that the marriage may not have been happy in its final years. She left behind *"1 major: Tochter und 3 Söhne davon 2 major: sind, und 1 Sohn von dem man seit 20 Jahren nichts weiß"* - one adult daughter and three sons, two of whom were of age, and one son who had not been heard from in 20 years.
+His wife Maria Justine survived him by two years. On September 10, 1810, she died at nine o'clock in the evening from dysentery. The church register entry of the **Luisenkirche in Charlottenburg** describes her as "separirte" - living separately - an indication that the marriage had broken down in its final years. She left behind *"1 major: Tochter und 3 Söhne davon 2 major: sind, und 1 Sohn von dem man seit 20 Jahren nichts weiß"* - one adult daughter and three sons, two of whom were of age, and one son who had not been heard from in 20 years.
 
 <div class="grid cards" markdown>
 
--   [![Death certificate 1808](images/sterbeurkunde-1808.jpg){ width="200" }](dokumente/sterbeurkunde-1808.md)
+-   [![Wedding Elisabeth 1807](images/Heirat_Anne_elisabeth_Charlottenburg_1807_08_16.jpg){ width="200" }](dokumente/hochzeit-elisabeth-1807.md)
 
-    **Death Certificate 1808**
+    **Wedding Elisabeth 1807**
+
+    Marriage entry of Anne Elisabeth and August Pohle
+
+    [→ To the document](dokumente/hochzeit-elisabeth-1807.md)
+
+-   [![Death certificate Etienne 1808](images/sterbeurkunde-1808.jpg){ width="200" }](dokumente/sterbeurkunde-1808.md)
+
+    **Death Certificate Etienne 1808**
 
     Death entry of Etienne Cabos in Berlin
 
     [→ To the document](dokumente/sterbeurkunde-1808.md)
+
+-   [![Death certificate Maria Justine 1810](images/Tod_Justine_Siercken-1811.jpg){ width="200" }](dokumente/sterbeurkunde-justine-1810.md)
+
+    **Death Certificate Maria Justine 1810**
+
+    Death entry at the Luisenkirche Charlottenburg
+
+    [→ To the document](dokumente/sterbeurkunde-justine-1810.md)
+
+-   [![Death Elisabeth 1866](images/Tod_Anne_Elisabeth.jpg){ width="200" }](dokumente/hochzeit-elisabeth-1807.md)
+
+    **Death Elisabeth 1866**
+
+    Death entry of Anne Elisabeth Pohle, née Cabos
+
+    [→ To the document](dokumente/hochzeit-elisabeth-1807.md)
 
 </div>
 
@@ -248,7 +320,7 @@ His son Friedrich Ludwig later went to Hamburg and then to Königsberg, his youn
 
 ## The Next Generation: Frédéric Louis
 
-Frédéric Louis came to Hamburg around 1794 and became a citizen on March 28, 1806. On May 4 of the same year, he married **Anna Monica Jacobsen** there at the Hamburg Michel. He now called himself **Friedrich Ludwig Abraham Isaak**. Later he went to Königsberg.
+Frédéric Louis came to Hamburg around 1794 and became a citizen on March 28, 1806. On May 4 of the same year, he married **Anna Monica Jacobsen** at the Hamburg Michel. He now called himself **Friedrich Ludwig Abraham Isaak**. Later he went to Königsberg.
 
 ---
 

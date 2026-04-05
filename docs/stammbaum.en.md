@@ -11,10 +11,13 @@ graph TD
     A["👨 Laurens Cabos<br/>Kaufmann<br/>Caussade"] --> H1["💒 Hochzeit<br/>14. Juli 1729<br/>Caussade"]
     B["👩 Marie Rey<br/>Caussade"] --> H1
 
+    H1 --> S0["👤 ??? Cabos<br/>vor 1737-?<br/>älterer Bruder?"]
     H1 --> C["👤 Etienne Cabos<br/>1737-1808<br/>⭐ Caussade 🪦 Berlin"]
+    H1 --> S1["👦 Jean Cabos<br/>~1730-1796<br/>⭐🪦 Caussade"]
+    H1 --> S2["👦 Pierre Cabos<br/>1740-?<br/>⭐ Caussade"]
 
     C --> H2["💒 Hochzeit<br/>16. Juli 1772<br/>Stettin"]
-    D["👩 Maria Justine Siercken<br/>1754-?<br/>⭐ Templin"] --> H2
+    D["👩 Maria Justine Siercken<br/>1754-1810<br/>⭐ Templin 🪦 Charlottenburg"] --> H2
 
     H2 --> E1["👦 Johann Carl Abraham<br/>1772<br/>⭐ Stettin"]
     H2 --> E2["👦 Friedrich Ludwig<br/>1774<br/>⭐ Stettin<br/>später Hamburg & Königsberg"]
@@ -22,14 +25,17 @@ graph TD
     H2 --> E4["👧 Henriette Charlotte<br/>1777<br/>⭐ Stettin"]
     H2 --> E5["👧 Marie Christine<br/>~1779-1784 †<br/>⭐ Stettin 🪦 Rotterdam"]
     H2 --> E6["👧 Justine<br/>1780-1782 †<br/>⭐🪦 Rotterdam"]
-    H2 --> E7["👦 Etienne<br/>1783<br/>⭐ Le Havre → Rotterdam"]
-    H2 --> E8["👧 Elisabeth<br/>1785<br/>⭐ Rotterdam"]
-    H2 --> E9["👦 Charles Emmanuel<br/>1793<br/>⭐ Berlin"]
+    H2 --> E7["👦 Etienne<br/>1783-1852<br/>⭐ Le Havre 🪦 Anklam"]
+    H2 --> E8["👧 Anne Elisabeth<br/>1785-1866<br/>⭐ Rotterdam 🪦 Groß Jehser"]
+    H2 --> E9["👦 Charles Emmanuel<br/>1793-1852<br/>⭐ Berlin 🪦 Lippehne"]
 
     E8 --> H3["💒 Hochzeit<br/>1807<br/>Charlottenburg"]
     F["👨 August Friedrich<br/>Ferdinand Pohle<br/>Stadtchirurg"] --> H3
 
     style C fill:#8d6e63,stroke:#5d4037,stroke-width:3px,color:#fff
+    style S0 fill:#9e9e9e,stroke:#616161,stroke-width:2px,stroke-dasharray:5,color:#fff
+    style S1 fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
+    style S2 fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
     style E5 fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
     style E6 fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
     style H1 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
@@ -37,6 +43,8 @@ graph TD
     style H3 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
 
     classDef mainPerson fill:#8d6e63,stroke:#5d4037,stroke-width:3px,color:#fff
+    classDef sibling fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
+    classDef unknown fill:#9e9e9e,stroke:#616161,stroke-width:2px,stroke-dasharray:5,color:#fff
     classDef deceased fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
     classDef marriage fill:#ffd54f,stroke:#f9a825,stroke-width:2px
 ```
@@ -47,6 +55,8 @@ graph TD
 - 💒 = Marriage (separate node)
 - † = died young
 - <span style="background-color:#8d6e63; color:white; padding:2px 8px; border-radius:3px;">Brown</span> = Etienne Cabos (main person)
+- <span style="background-color:#7986cb; color:white; padding:2px 8px; border-radius:3px;">Blue</span> = Siblings of Etienne
+- <span style="background-color:#9e9e9e; color:white; padding:2px 8px; border-radius:3px;">Gray dashed</span> = Unconfirmed/presumed
 - <span style="background-color:#ef5350; color:white; padding:2px 8px; border-radius:3px;">Red</span> = Died in childhood
 - <span style="background-color:#ffd54f; color:black; padding:2px 8px; border-radius:3px;">Yellow</span> = Marriage nodes
 
@@ -72,7 +82,15 @@ graph TD
 
 ---
 
-### Generation II: Etienne Cabos
+### Generation II: The Sons of Laurens and Marie
+
+#### 👤 ??? Cabos (before 1737 - ?)
+- **Birth:** before 1737 (presumably)
+- **Status:** Unconfirmed
+- **Note:** The [Bulletin 1907](dokumente/bulletin-1907.md) claims Etienne's "older brother" was executed in Caussade. Neither Jean nor Pierre can be this brother. If the claim is true, there must have been a fourth, older brother.
+
+!!! warning "Research Needed"
+    The existence of this brother is not documented by primary sources.
 
 #### 👤 Etienne Cabos (1737-1808)
 - **Birth:** July 9, 1737 in Caussade, France
@@ -94,14 +112,43 @@ graph TD
 
 [→ Baptism certificate 1737](dokumente/taufe-etienne-1737.md) | [→ Death certificate 1808](dokumente/sterbeurkunde-1808.md)
 
-#### 👩 Maria Justine Siercken (1754-?)
+#### 👦 Jean Cabos (~1730-1796)
+- **Birth:** ca. 1730 (estimated)
+- **Death:** November 4, 1796 in Caussade
+- **Marriage:** February 3/8, 1760 with Jeanne Fournier
+- **Religion:** Protestant (wedding "au Désert" by Pastor Lafond)
+- **Special Note:** Remained in Caussade, died there peacefully during the French Revolution
+
+!!! success "Not the Executed Brother"
+    The death certificate from 1796 proves that Jean was not executed.
+
+[→ Marriage document 1760](dokumente/hochzeit-jean-1760.md)
+
+#### 👦 Pierre Cabos (1740-?)
+- **Birth:** November 1, 1740 in Caussade
+- **Baptism:** November 1, 1740
+- **Parents:** Laurens Cabos and Marie Rey
+- **Special Note:** Younger brother of Etienne (3 years younger)
+
+!!! info "Not the Older Brother"
+    Pierre was born in 1740, so 3 years after Etienne - he cannot be the "older executed brother" from the Bulletin 1907.
+
+[→ Baptism document 1740](dokumente/taufe-pierre-1740.md)
+
+---
+
+### Etienne and Maria Justine
+
+#### 👩 Maria Justine Siercken (1754-1810)
 - **Birth:** January 28, 1754 in Templin, Prussia
+- **Death:** September 10, 1810 in Charlottenburg (dysentery, 56 years)
 - **Father:** Town musician in Templin
 - **Marriage:** July 16, 1772 (at 18 years old)
 - **Children:** 9 children (1772-1793)
-- **Life Stations:** Templin → Stettin → Rotterdam → Berlin
+- **Life Stations:** Templin → Stettin → Rotterdam → Berlin/Charlottenburg
+- **Special Note:** In death entry described as "separirte" (living separately)
 
-[→ Marriage certificate 1772](dokumente/hochzeit-stettin-1772.md)
+[→ Marriage certificate 1772](dokumente/hochzeit-stettin-1772.md) | [→ Death certificate 1810](dokumente/sterbeurkunde-justine-1810.md)
 
 ---
 
@@ -113,6 +160,9 @@ graph TD
 - **Birth:** November 29, 1772
 - **Baptism:** December 3, 1772
 - **Special Note:** First child, only 4 months after the wedding
+
+!!! note "Name Discrepancy in Church Records"
+    In the baptism entry, the mother is referred to as "Christine Siegrigen". This is most likely a misspelling of **"Justine Siercken"** (Maria Justine Siercken). Such phonetic misspellings were common in handwritten church records, especially with unusual names. The temporal context (4 months after the marriage of Etienne and Maria Justine) and the fact that all later children are clearly documented as children of Maria Justine Siercken confirm the identity.
 
 [→ To document](dokumente/geburten-stettin.md#johann-carl-abraham-1772)
 
@@ -158,29 +208,33 @@ graph TD
 
 [→ Baptism](dokumente/taufen-rotterdam.md#taufe-justine-1780) | [→ Burial](dokumente/begraebnisse-rotterdam.md#begrabnis-justine-1782)
 
-##### 👦 Etienne (1783)
+##### 👦 Etienne (1783-1852)
 - **Birth:** April 19, 1783 on a journey from Le Havre to Rotterdam
 - **Baptism:** April 26, 1783 in Rotterdam
+- **Death:** May 17, 1852 in Anklam
 - **Special Note:** Named after the father, extraordinary place of birth
 
 [→ To document](dokumente/taufen-rotterdam.md#taufe-etienne-1783)
 
-##### 👧 Elisabeth (1785)
+##### 👧 Anne Elisabeth (1785-1866)
 - **Birth:** September 12, 1785
 - **Baptism:** September 25, 1785 (Walloon church)
-- **Marriage:** 1807 in Charlottenburg
+- **Marriage:** August 16, 1807 in Charlottenburg
 - **Husband:** August Friedrich Ferdinand Pohle (town surgeon)
-- **Special Note:** Last child born in Rotterdam
+- **Death:** December 21, 1866 in Groß Jehser, Brandenburg
+- **Burial:** December 24, 1866
+- **Special Note:** Last child born in Rotterdam, only child with complete documentation
 
-[→ To document](dokumente/taufen-rotterdam.md#taufe-elisabeth-1785)
+[→ Baptism Rotterdam](dokumente/taufen-rotterdam.md#taufe-elisabeth-1785) | [→ Marriage & Death](dokumente/hochzeit-elisabeth-1807.md)
 
 ---
 
 #### Born in Berlin (1793)
 
-##### 👦 Charles Emmanuel (1793)
+##### 👦 Charles Emmanuel (1793-1852)
 - **Birth:** January 24, 1793 in Berlin
 - **Baptism:** February 1, 1793 (French Reformed Friedrichstadt Church)
+- **Death:** January 23, 1852 in Lippehne
 - **Godparents:**
     - Charles Emanuel Baron de Hoffstaedt (Privy Councillor)
     - Agnes Louise Amelie Palmie (née Rauch)
@@ -244,6 +298,16 @@ The godparents of the children demonstrate the family's remarkable social standi
 - Agnes Louise Amelie Palmie (née Rauch)
 
 Despite humble origins as a soldier and merchant, Etienne Cabos succeeded in building connections to nobility and higher social circles.
+
+---
+
+## Descendants Overview (PDF)
+
+A complete graphical representation of the descendants of Etienne Cabos is available as a PDF document:
+
+**[📄 Descendants of Etienne Cabos (1737-1808)](dokumente/etienne1737_compact.pdf)** *(PDF)*
+
+This document shows the complete descendancy of Etienne Cabos and Maria Justine Siercken across multiple generations in compact form.
 
 ---
 

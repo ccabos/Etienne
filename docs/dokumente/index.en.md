@@ -4,33 +4,59 @@ This page provides an overview of all historical original documents that chronic
 
 ---
 
-## France (1729-1737)
+## France (1729-1760)
 
 <div class="grid cards" markdown>
 
--   :material-map:{ .lg .middle } **Map from 1777**
+-   **Map from 1777**
 
     ---
 
-    Carte de France, Montauban sheet - showing the Quercy region, homeland of the Cabos family
+    ![Map Montauban](../images/Karte%20Montauban%201777.png){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Carte de France, Montauban sheet - showing the Quercy region
 
     [→ Details](karte-1777.md)
 
--   :material-church:{ .lg .middle } **Marriage Laurens Cabos 1729**
+-   **Marriage Laurens Cabos 1729**
 
     ---
+
+    ![Wedding 1729](../images/hochzeit-laurens-1729.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Marriage record of Etienne's parents
 
     [→ Details](hochzeit-laurens-1729.md)
 
--   :material-baby-carriage:{ .lg .middle } **Baptism Etienne 1737**
+-   **Baptism Etienne 1737**
 
     ---
+
+    ![Baptism 1737](../images/taufe-etienne-1737.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Baptismal record of newborn Etienne in Caussade
 
     [→ Details](taufe-etienne-1737.md)
+
+-   **Baptism Pierre 1740**
+
+    ---
+
+    ![Baptism Pierre 1740](../images/1740-11-01-Geburt%20Pierre.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Baptismal record of younger brother Pierre
+
+    [→ Details](taufe-pierre-1740.md)
+
+-   **Wedding Jean Cabos 1760**
+
+    ---
+
+    ![Wedding Jean 1760](../images/1760-02-03-Jean%20cabos%20jeanne%20Fournier.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Brother Jean marries Jeanne Fournier
+
+    [→ Details](hochzeit-jean-1760.md)
 
 </div>
 
@@ -40,35 +66,53 @@ This page provides an overview of all historical original documents that chronic
 
 <div class="grid cards" markdown>
 
--   :material-ring:{ .lg .middle } **Marriage Stettin 1772**
+-   **Marriage Stettin 1772**
 
     ---
+
+    ![Wedding Stettin](../images/hochzeit-stettin-1772.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Marriage record of Stephan Cabos and Maria Justine Siercken
 
     [→ Details](hochzeit-stettin-1772.md)
 
--   :material-baby-carriage:{ .lg .middle } **Births Stettin 1772-1777**
+-   **Births Stettin 1772-1777**
 
     ---
+
+    ![Baptism Johann Carl](../images/taufe-johann-carl-1772.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Baptismal records of the four children Johann Carl, Friedrich Ludwig, Franz Alexander, and Henriette
 
     [→ Details](geburten-stettin.md)
 
--   :material-sword:{ .lg .middle } **Military Register**
+-   **Military Register**
 
     ---
+
+    ![Military Register](../images/militaerregister.gif){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Entries for Infantry Regiment No. 8 (von Hacke)
 
     [→ Details](militaerregister.md)
 
--   :material-passport:{ .lg .middle } **Passport 1780**
+-   **War's End 1779**
 
     ---
 
-    Issued by the French Reformed Church in Isenburg
+    ![War's End 1779](../images/1779-kriegsende.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Church register entries on the end of the War of the Bavarian Succession (Potato War)
+
+    [→ Details](kriegsende-1779.md)
+
+-   **Passport 1780**
+
+    ---
+
+    ![Passport](../images/reisepass-1780.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Issued by the French Reformed Church
 
     [→ Details](reisepass-1780.md)
 
@@ -80,7 +124,7 @@ This page provides an overview of all historical original documents that chronic
 
 <div class="grid cards" markdown>
 
--   :material-book-open-variant:{ .lg .middle } **Citizen Book Rotterdam**
+-   **Citizen Book Rotterdam**
 
     ---
 
@@ -88,25 +132,31 @@ This page provides an overview of all historical original documents that chronic
 
     [→ Details](buergerbuch-rotterdam.md)
 
--   :material-cross:{ .lg .middle } **Baptisms Rotterdam**
+-   **Baptisms Rotterdam**
 
     ---
+
+    ![Baptism Justine](../images/Taufe_Justine-13-09-1780.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Baptismal records of the children Justine, Etienne, and Elisabeth
 
     [→ Details](taufen-rotterdam.md)
 
--   :material-grave-stone:{ .lg .middle } **Burials Rotterdam**
+-   **Burials Rotterdam**
 
     ---
+
+    ![Burial Christine](../images/Begraebnis_Christine-11-06-1784.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Burial records for Justine and Marie Christine
 
     [→ Details](begraebnisse-rotterdam.md)
 
--   :material-file-document-edit:{ .lg .middle } **Maintenance Contract 1792**
+-   **Maintenance Contract 1792**
 
     ---
+
+    ![Maintenance Contract](../images/unterhaltsvertrag-1792-1.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Contract with the Consistory of the Lutheran and Walloon Church
 
@@ -116,38 +166,84 @@ This page provides an overview of all historical original documents that chronic
 
 ---
 
-## Berlin (1793-1808)
+## Berlin (1793-1810)
 
 <div class="grid cards" markdown>
 
--   :material-baby-face:{ .lg .middle } **Baptism Berlin 1793**
+-   **Baptism Berlin 1793**
 
     ---
+
+    ![Baptism Berlin](../images/taufe-berlin-1793.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
 
     Baptismal record of Charles Emmanuel in Friedrichstadt Church
 
     [→ Details](taufe-berlin-1793.md)
 
--   :material-tooth:{ .lg .middle } **Dentist in Halle 1794-1798**
+-   **Dentist in Halle 1794-1798**
 
     ---
 
-    Advertisements in Wöchentliche Hallische Anzeigen document Cabos' work as a traveling dentist
+    Advertisements in Wöchentliche Hallische Anzeigen
 
     [→ Details](zahnarzt-halle.md)
 
--   :material-grave-stone:{ .lg .middle } **Death Certificate 1808**
+-   **Wedding Elisabeth 1807**
 
     ---
 
-    Death record of Etienne Cabos
+    ![Wedding Elisabeth](../images/Heirat_Anne_elisabeth_Charlottenburg_1807_08_16.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Marriage record of Anne Elisabeth and August Pohle
+
+    [→ Details](hochzeit-elisabeth-1807.md)
+
+-   **Death Certificate Etienne 1808**
+
+    ---
+
+    ![Death Certificate](../images/sterbeurkunde-1808.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Death record of Etienne Cabos in Charlottenburg
 
     [→ Details](sterbeurkunde-1808.md)
+
+-   **Death Certificate Maria Justine 1810**
+
+    ---
+
+    ![Death Certificate Justine](../images/Tod_Justine_Siercken-1811.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Death record in Luisenkirche Charlottenburg
+
+    [→ Details](sterbeurkunde-justine-1810.md)
+
+-   **Death Elisabeth 1866**
+
+    ---
+
+    ![Death Elisabeth](../images/Tod_Anne_Elisabeth.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Death record of Anne Elisabeth Pohle, née Cabos
+
+    [→ Details](hochzeit-elisabeth-1807.md)
 
 </div>
 
 ---
 
-!!! info "Note on Images"
+## Secondary Sources
 
-    The documents shown here are from various archives. Please add the corresponding image files to the `docs/images/` folder to display them in the documentation.
+<div class="grid cards" markdown>
+
+-   **Bulletin 1907**
+
+    ---
+
+    ![Bulletin 1907](../images/bulletin-1907.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    French report on the Huguenot colony in Berlin with mention of Etienne Cabos
+
+    [→ Details](bulletin-1907.md)
+
+</div>

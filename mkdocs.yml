@@ -29,33 +29,33 @@ theme:
     code: Roboto Mono
 
 nav:
-  - Startseite: index.de.md
-  - Zeitleiste: zeitleiste.de.md
-  - Stammbaum: stammbaum.de.md
+  - Startseite: index.md
+  - Zeitleiste: zeitleiste.md
+  - Stammbaum: stammbaum.md
   - Historische Dokumente:
-    - Übersicht: dokumente/index.de.md
-    - Historische Karten: dokumente/karte-1777.de.md
-    - Hochzeit Laurens Cabos 1729: dokumente/hochzeit-laurens-1729.de.md
-    - Taufe Etienne 1737: dokumente/taufe-etienne-1737.de.md
-    - Kirchenregister Caussade Juli 1737: dokumente/kirchenregister-caussade-juli-1737.de.md
-    - Taufe Pierre 1740: dokumente/taufe-pierre-1740.de.md
-    - Hochzeit Jean Cabos 1760: dokumente/hochzeit-jean-1760.de.md
-    - Hochzeit Stettin 1772: dokumente/hochzeit-stettin-1772.de.md
-    - Geburten Stettin 1772-1777: dokumente/geburten-stettin.de.md
-    - Kirchenbuch Kriegsende 1779: dokumente/kriegsende-1779.de.md
-    - Militärregister: dokumente/militaerregister.de.md
-    - Reisepass 1780: dokumente/reisepass-1780.de.md
-    - Bürgerbuch Rotterdam: dokumente/buergerbuch-rotterdam.de.md
-    - Taufen Rotterdam: dokumente/taufen-rotterdam.de.md
-    - Begräbnisse Rotterdam: dokumente/begraebnisse-rotterdam.de.md
-    - Unterhaltsvertrag 1792: dokumente/unterhaltsvertrag-1792.de.md
-    - Taufe Berlin 1793: dokumente/taufe-berlin-1793.de.md
-    - Zahnarzt in Halle 1794-1798: dokumente/zahnarzt-halle.de.md
-    - Hochzeit Elisabeth 1807: dokumente/hochzeit-elisabeth-1807.de.md
-    - Sterbeurkunde Etienne 1808: dokumente/sterbeurkunde-1808.de.md
-    - Sterbeurkunde Maria Justine 1810: dokumente/sterbeurkunde-justine-1810.de.md
-    - Bulletin 1907 (Sekundärquelle): dokumente/bulletin-1907.de.md
-  - Quellen: quellen.de.md
+    - Übersicht: dokumente/index.md
+    - Historische Karten: dokumente/karte-1777.md
+    - Hochzeit Laurens Cabos 1729: dokumente/hochzeit-laurens-1729.md
+    - Taufe Etienne 1737: dokumente/taufe-etienne-1737.md
+    - Kirchenregister Caussade Juli 1737: dokumente/kirchenregister-caussade-juli-1737.md
+    - Taufe Pierre 1740: dokumente/taufe-pierre-1740.md
+    - Hochzeit Jean Cabos 1760: dokumente/hochzeit-jean-1760.md
+    - Hochzeit Stettin 1772: dokumente/hochzeit-stettin-1772.md
+    - Geburten Stettin 1772-1777: dokumente/geburten-stettin.md
+    - Kirchenbuch Kriegsende 1779: dokumente/kriegsende-1779.md
+    - Militärregister: dokumente/militaerregister.md
+    - Reisepass 1780: dokumente/reisepass-1780.md
+    - Bürgerbuch Rotterdam: dokumente/buergerbuch-rotterdam.md
+    - Taufen Rotterdam: dokumente/taufen-rotterdam.md
+    - Begräbnisse Rotterdam: dokumente/begraebnisse-rotterdam.md
+    - Unterhaltsvertrag 1792: dokumente/unterhaltsvertrag-1792.md
+    - Taufe Berlin 1793: dokumente/taufe-berlin-1793.md
+    - Zahnarzt in Halle 1794-1798: dokumente/zahnarzt-halle.md
+    - Hochzeit Elisabeth 1807: dokumente/hochzeit-elisabeth-1807.md
+    - Sterbeurkunde Etienne 1808: dokumente/sterbeurkunde-1808.md
+    - Sterbeurkunde Maria Justine 1810: dokumente/sterbeurkunde-justine-1810.md
+    - Bulletin 1907 (Sekundärquelle): dokumente/bulletin-1907.md
+  - Quellen: quellen.md
 
 markdown_extensions:
   - attr_list

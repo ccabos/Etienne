@@ -19,7 +19,6 @@ theme:
         icon: material/brightness-4
         name: Hellmodus aktivieren
   features:
-    - navigation.instant
     - navigation.tracking
     - navigation.sections
     - navigation.expand

@@ -42,6 +42,12 @@
 
 ## Secondary Literature and Online Sources
 
+### Historical Publications
+
+| Source | Description | Year |
+|--------|-------------|------|
+| [Bulletin archéologique et historique de la Société archéologique de Tarn-et-Garonne, Tome 35](dokumente/bulletin-1907.md) | French report on the Huguenot colony in Berlin, contains correspondence of the Palmié and Humbert families. **Mentions Etienne Cabos by name.** Publisher: Société archéologique de Tarn-et-Garonne, Montauban. [Online at Gallica (BnF)](https://gallica.bnf.fr/ark:/12148/bpt6k5663511j) | 1907 |
+
 ### Huguenot History
 
 - **Wikipedia: "Hugenotten"** - History of the French Protestants and their persecution

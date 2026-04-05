@@ -112,15 +112,50 @@ The family was invited to Germany by relatives. Who these relatives were is not 
 
 ---
 
-## Historical Context: The Year 1792
+## Historical Context: The Political Situation in Holland 1792
 
-1792 was a turbulent year in Europe:
+### Europe on the Eve of War
 
-- The French Revolution was in full swing
-- France declared war on Austria
-- The Netherlands was becoming increasingly unstable
+1792 was a turbulent year in Europe. The French Revolution was in full swing, and the European powers were preparing for conflict. The date of the contract - **April 18, 1792** - is remarkable: **Only two days later**, on April 20, 1792, France declared war on Austria.
 
-For a family with French roots and a Prussian past, Germany was perhaps the safest haven.
+### Timeline
+
+| Date | Event |
+|-------|----------|
+| **1787** | Prussian army suppresses the Dutch "Patriot" movement and restores Orange rule |
+| **April 1789** | Beginning of the French Revolution |
+| **April 18, 1792** | Etienne's maintenance contract with the church in Rotterdam |
+| **April 20, 1792** | France declares war on Austria |
+| **February 1, 1793** | France declares war on Holland and England |
+| **Winter 1794/95** | French invasion across the frozen rivers |
+| **January 19, 1795** | Batavian Republic is proclaimed |
+
+### The "Patriots" and the Orangists
+
+In the Netherlands, two political camps were hostile to each other:
+
+- The **"Patriots"** - a reform-oriented movement that sympathized with the ideals of the French Revolution
+- The **Orangists** - supporters of Stadholder William V
+
+In 1787, the Prussian army had violently suppressed the Patriot movement and restored Orange rule. Many Patriots were waiting for an opportunity for revenge - and saw the French revolutionary army as their liberators.[^5]
+
+### Possible Reasons for Departure
+
+For Etienne Cabos, a native Frenchman with a Prussian military background, the situation was particularly delicate:
+
+1. **War danger was foreseeable** - In April 1792, it was clear that a war between France and Holland was imminent. As a native Frenchman, Etienne's position in Holland would have become difficult.
+
+2. **Political tensions** - The Patriots (pro-French) and Orangists were hostile to each other. As a Huguenot, Etienne was in a complex position: The Huguenots had fled from Catholic France, but revolutionary France was anti-clerical and was now also persecuting Protestant clergy.
+
+3. **Economic hardship** - The contract shows that the family was already dependent on ecclesiastical welfare.
+
+4. **Prussian connections** - Etienne had served for years in the Prussian army. With the impending war between France and the Netherlands allied with Prussia, his loyalty was potentially questionable.
+
+5. **Family in Germany** - The contract explicitly mentions an invitation from family in Germany - possibly contacts from the Stettin period or other Huguenot families in Berlin.
+
+The timing is striking: The contract was signed only **two days before** the French declaration of war on Austria. The signs pointed to storm, and for a family with French roots and a Prussian past, Germany was the safest haven.
+
+[^5]: [Batavian Revolution - Wikipedia](https://en.wikipedia.org/wiki/Batavian_revolution) and [Batavian Republic - Wikipedia](https://en.wikipedia.org/wiki/Batavian_Republic)
 
 ---
 

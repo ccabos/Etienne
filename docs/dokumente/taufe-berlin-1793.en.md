@@ -2,10 +2,12 @@
 
 ![Taufe Berlin 1793](../images/taufe-berlin-1793.jpg){ loading=lazy }
 
-*On January 24, 1793, their son Charles Emmanuel was born in Berlin.*
+> *"Le 1er de Fevrier 1793. M Calmié Ministre du ... Evangile a batisé en chambre Charles Emanuel né le 24 de Janvier à 1 heure du matin, fils d'Etienne Cabos, Dentiste, natif de Caussade en Querci, & de Justine Sierwken sa femme, native de Templin en Pomeranie. Il a été présenté par Charles Emanuel Baron de Hoffstädt Conseiller privé, & par Agnés Louise Amélie Palmie née Rauch, ses P[arain] & M[araine]"*
 
-!!! info "Image Note"
-    Please add the image `taufe-berlin-1793.jpg` to the `docs/images/` folder.
+*On February 1, 1793, Mr. Calmié, Minister of the ... Gospel, baptized in chamber Charles Emanuel, born on January 24 at 1 o'clock in the morning, son of Etienne Cabos, Dentist, native of Caussade in Quercy, and of Justine Siercken, his wife, native of Templin in Pomerania. He was presented by Charles Emanuel Baron de Hoffstädt, Privy Councilor, and by Agnes Louise Amélie Palmie, née Rauch, his godparents.*
+
+!!! note "Source"
+    Church register of the French Reformed Friedrichstadt Church, Berlin
 
 ---
 

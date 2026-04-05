@@ -102,6 +102,45 @@
 Son of Laurens Cabos (merchant) and Marie Rey
 </div>
 
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1740</div>
+<div class="timeline-event">👶 <a href="dokumente/taufe-pierre-1740.md">Baptism Pierre Cabos</a></div>
+<div class="timeline-location">November 1 - Caussade</div>
+Younger brother of Etienne
+</div>
+
+<div class="timeline-item left" style="margin-top: 10px;">
+<div class="timeline-year">1760</div>
+<div class="timeline-event">💒 <a href="dokumente/hochzeit-jean-1760.md">Wedding Jean Cabos</a></div>
+<div class="timeline-location">February 3/8 - Caussade</div>
+Brother Jean marries Jeanne Fournier.<br>
+Ceremony by Pastor Lafond (underground)
+</div>
+
+<div class="timeline-item left" style="margin-top: 3px;">
+<div class="timeline-year">1761</div>
+<div class="timeline-event">⛪ Rochette Affair</div>
+<div class="timeline-location">September 14 - Caussade</div>
+Pastor Rochette arrested in Caussade.<br>
+Grenier brothers captured during rescue attempt
+</div>
+
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1762</div>
+<div class="timeline-event">⚠️ Executions Toulouse</div>
+<div class="timeline-location">February 19 - Toulouse</div>
+Rochette + 3 Grenier brothers executed.<br>
+<em>Jean was not among them (†1796)</em>
+</div>
+
+<div class="timeline-item left" style="margin-top: 3px;">
+<div class="timeline-year">1796</div>
+<div class="timeline-event">✝️ Death Jean Cabos</div>
+<div class="timeline-location">November 4 - Caussade</div>
+Brother Jean dies in Caussade.<br>
+<em>Thus not the "executed brother"</em>
+</div>
+
 <div class="timeline-section" style="margin-top: 50px;">🇩🇪 PRUSSIA - STETTIN (1772-1780)</div>
 
 <div class="timeline-item right" style="margin-top: 49px;">
@@ -194,9 +233,17 @@ Died at 5¼ years old
 
 <div class="timeline-item left" style="margin-top: 10px;">
 <div class="timeline-year">1792</div>
-<div class="timeline-event">📋 Maintenance Agreement</div>
+<div class="timeline-event">⚠️ Political Crisis</div>
+<div class="timeline-location">Europe</div>
+French Revolution destabilizes Europe. "Patriots" vs. Orangists in Holland. War threatens.
+</div>
+
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1792</div>
+<div class="timeline-event">📋 <a href="dokumente/unterhaltsvertrag-1792.md">Maintenance Agreement</a></div>
 <div class="timeline-location">April 18 - Rotterdam</div>
-250 Guilders travel money for move to Germany
+250 Guilders travel money for move to Germany.<br>
+<em>Two days later France declares war on Austria!</em>
 </div>
 
 <div class="timeline-section" style="margin-top: 20px;">🇩🇪 PRUSSIA - BERLIN (1792-1808)</div>
@@ -208,11 +255,26 @@ Died at 5¼ years old
 Last child. Father designated as "Dentiste"
 </div>
 
-<div class="timeline-item left" style="margin-top: 20px;">
+<div class="timeline-item left" style="margin-top: 10px;">
+<div class="timeline-year">1794-1798</div>
+<div class="timeline-event">🦷 Dentist in Halle</div>
+<div class="timeline-location">Halle (Saale)</div>
+Advertisements in the Hallische Anzeigen.<br>
+According to <a href="dokumente/bulletin-1907.md">Bulletin 1907</a> also hairdresser and perfumer
+</div>
+
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1802</div>
+<div class="timeline-event">🏥 Hospital?</div>
+<div class="timeline-location">Berlin</div>
+According to <a href="dokumente/bulletin-1907.md">Bulletin 1907</a>: Family admitted to hospital
+</div>
+
+<div class="timeline-item left" style="margin-top: 10px;">
 <div class="timeline-year">1807</div>
-<div class="timeline-event">💒 Wedding of Elisabeth</div>
+<div class="timeline-event">💒 <a href="dokumente/hochzeit-elisabeth-1807.md">Wedding Elisabeth</a></div>
 <div class="timeline-location">August 16 - Charlottenburg</div>
-Daughter marries city surgeon Pohle
+Daughter Anne Elisabeth marries city surgeon Pohle
 </div>
 
 <div class="timeline-item right" style="margin-top: 1px;">
@@ -225,9 +287,20 @@ Buried at the cemetery at Oranienburger Tor
 
 <div class="timeline-item left" style="margin-top: 3px;">
 <div class="timeline-year">1810</div>
-<div class="timeline-event">✝️ Death of Maria Justine</div>
-<div class="timeline-location">September 10 - Berlin</div>
-Died of dysentery
+<div class="timeline-event">✝️ <a href="dokumente/sterbeurkunde-justine-1810.md">Death of Maria Justine</a></div>
+<div class="timeline-location">September 10 - Charlottenburg</div>
+Died of dysentery, 56 years old.<br>
+"separirte" - living separately
+</div>
+
+<div class="timeline-section" style="margin-top: 50px;">DESCENDANTS</div>
+
+<div class="timeline-item right" style="margin-top: 3px;">
+<div class="timeline-year">1866</div>
+<div class="timeline-event">✝️ <a href="dokumente/hochzeit-elisabeth-1807.md">Death Anne Elisabeth</a></div>
+<div class="timeline-location">December 21 - Groß Jehser</div>
+Daughter dies at 81 years old.<br>
+Burial on December 24, 1866
 </div>
 
 </div>
@@ -239,15 +312,29 @@ Died of dysentery
 | Year | Age | Event | Place |
 |------|-------|----------|-----|
 | 1737 | 0 | Birth & Baptism | Caussade, France |
+| 1740 | 3 | Brother Pierre born | Caussade |
+| 1760 | 23 | Brother Jean marries Jeanne Fournier | Caussade |
+| 1761-62 | 24-25 | Rochette Affair - Executions | Caussade/Toulouse |
 | 1772 | 35 | Marriage to Maria Justine Siercken | Stettin, Prussia |
 | 1772-1777 | 35-40 | Four children born | Stettin |
 | 1778-1779 | 41-42 | Potato War | Bohemia |
 | 1780 | 43 | Move to Rotterdam, citizenship | Rotterdam, Netherlands |
 | 1780-1785 | 43-48 | Four more children born | Rotterdam |
 | 1782, 1784 | 45, 47 | Death of Justine and Marie Christine | Rotterdam |
-| 1792 | 55 | Move to Berlin | Berlin, Prussia |
+| 1792 | 55 | Political Crisis - Flight to Berlin | Rotterdam → Berlin |
 | 1793 | 56 | Last child Charles Emmanuel | Berlin |
-| 1808 | 71 | Death | Charlottenburg |
+| 1794-1798 | 57-61 | Dentist in Halle | Berlin/Halle |
+| 1796 | 59 | Brother Jean dies (not executed!) | Caussade |
+| 1802 | 65 | Family in hospital? (Bulletin 1907) | Berlin |
+| 1807 | 70 | Daughter Elisabeth marries Pohle | Charlottenburg |
+| 1808 | 71 | Death Etienne Cabos | Charlottenburg |
+
+### Descendants
+
+| Year | Event | Place |
+|------|----------|-----|
+| 1810 | Death Maria Justine Siercken (56 yrs.) | Charlottenburg |
+| 1866 | Death Anne Elisabeth Pohle, née Cabos (81 yrs.) | Groß Jehser |
 
 ---
 

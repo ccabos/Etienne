@@ -2,12 +2,9 @@
 
 ## Baptism of Justine (1780)
 
-![Baptism Justine 1780](../images/taufe-justine-1780.jpg){ loading=lazy }
+![Baptism Justine 1780](../images/Taufe_Justine-13-09-1780.jpg){ loading=lazy }
 
 *On September 4, 1780, their daughter Justine was born in Rotterdam. She was baptized on September 13.*
-
-!!! info "Image Note"
-    Please add the image `taufe-justine-1780.jpg` to the `docs/images/` folder.
 
 ---
 
@@ -31,14 +28,11 @@ Tragically, little Justine died on September 12, 1782 - not even two years old.
 
 ## Baptism of Etienne (1783)
 
-![Baptism Etienne 1783](../images/taufe-etienne-1783.jpg){ loading=lazy }
+![Baptism Etienne 1783](../images/Taufe_Etienne-26-04-1783.jpg){ loading=lazy }
 
 *The baptism entry of Etienne, April 26, 1783, in the DTB Rotterdam Doop Waals.*
 
 *On April 19, 1783, their son Etienne was born. According to a letter from Pastor Täge of Anklam, he was born during a journey from Le Havre to Rotterdam. He was baptized in Rotterdam on April 26.*
-
-!!! info "Image Note"
-    Please add the image `taufe-etienne-1783.jpg` to the `docs/images/` folder.
 
 ---
 
@@ -63,12 +57,9 @@ The baptism took place on April 26, 1783 in Rotterdam - the child was given his 
 
 ## Baptism of Elisabeth (1785)
 
-![Baptism Elisabeth 1785](../images/taufe-elisabeth-1785.jpg){ loading=lazy }
+![Baptism Elisabeth 1785](../images/Taufe_Elisabeth-25-09-1785.jpg){ loading=lazy }
 
 *On September 12, 1785, their daughter Elisabeth was born; she was baptized on September 25. Baptism entry for Elisabeth, September 25, 1785, in the DTB Rotterdam Doop Waals.*
-
-!!! info "Image Note"
-    Please add the image `taufe-elisabeth-1785.jpg` to the `docs/images/` folder.
 
 ---
 

@@ -37,7 +37,11 @@ We know little about Etienne's final years. One year before his death, on August
 
 The **Cimetière de la porte d'Orange** (Cemetery at the Oranienburger Gate) was the burial ground of the French Reformed congregation in Berlin. Here the members of the Huguenot community found their final resting place.
 
-The cemetery no longer exists today - it was dissolved and built over in the 19th century.
+![Berlin 1810 - Cemetery at the Oranienburger Gate](../images/berlin-1810.jpg){ loading=lazy }
+
+*Map of Berlin around 1810. The cemetery at the Oranienburger Gate (Cimetière de la porte d'Orange) was located north of the city wall.*
+
+The cemetery still exists today as the **French Cemetery** on Chausseestraße in Berlin.
 
 ---
 

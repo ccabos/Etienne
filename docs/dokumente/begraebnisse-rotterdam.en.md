@@ -2,12 +2,9 @@
 
 ## Burial of Justine (1782)
 
-![Burial Justine 1782](../images/begraebnis-justine-1782.jpg){ loading=lazy }
+![Burial Justine 1782](../images/begraebnis-justine-12-09-1782.jpg){ loading=lazy }
 
-*12.9.1782 Burial Justine*
-
-!!! info "Image Note"
-    Please add the image `begraebnis-justine-1782.jpg` to the `docs/images/` folder.
+*September 12, 1782 - Burial of Justine*
 
 ---
 
@@ -29,14 +26,11 @@ On **September 12, 1782**, little Justine was buried - just under two years afte
 
 ## Burial of Marie Christine (1784)
 
-![Burial Marie Christine 1784](../images/begraebnis-christine-1784.jpg){ loading=lazy }
+![Burial Marie Christine 1784](../images/Begraebnis_Christine-11-06-1784.jpg){ loading=lazy }
 
 *"overledene was 5 1/4 jaar; Visserdijk Galanteriwinkel"*
 
-*In June 1784, Marie Christine died in Rotterdam (5 1/4 years old). Entry for Christine in the burial register June 1784, DTB Rotterdam Begraven.*
-
-!!! info "Image Note"
-    Please add the image `begraebnis-christine-1784.jpg` to the `docs/images/` folder.
+*In June 1784, Marie Christine died in Rotterdam (5 1/4 years old). Entry for Christine in the burial register, DTB Rotterdam Begraven.*
 
 ---
 

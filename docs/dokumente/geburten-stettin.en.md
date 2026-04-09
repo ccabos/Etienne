@@ -54,10 +54,9 @@ Between the years 1772 and 1777, four children were born in Stettin to the coupl
 
 ## Franz Alexander George Carl (1776)
 
-![Baptism Franz Alexander](../images/taufe-franz-alexander-1776.jpg){ loading=lazy }
+![Baptism Franz Alexander](../images/1776-Geburt_Frantz.jpg){ loading=lazy }
 
-!!! info "Image Notice"
-    Please add the image `taufe-franz-alexander-1776.jpg` to the folder `docs/images/`.
+*Baptism entry #12 in the church register of the Garrison Church Stettin. Franz Alexander George Carl Cabos, born January 29, 1776.*
 
 ### Document Information
 

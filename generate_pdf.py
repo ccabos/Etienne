@@ -165,6 +165,23 @@ def clean_markdown(text, file_dir):
 
 def md_to_html(md_text):
     html = markdown.markdown(md_text, extensions=['tables'], output_format='html')
+
+    # Style blockquotes as visible text boxes with background color
+    # fpdf2's <blockquote> has no visual styling, so we replace with a styled table
+    def style_blockquote(m):
+        inner = m.group(1).strip()
+        return (
+            '<table width="100%">'
+            '<tr>'
+            f'<td bgcolor="#F0EBE3"><font size="10">{inner}</font></td>'
+            '</tr>'
+            '</table>'
+        )
+    html = re.sub(
+        r'<blockquote>\s*(.*?)\s*</blockquote>',
+        style_blockquote, html, flags=re.DOTALL
+    )
+
     return html
 
 

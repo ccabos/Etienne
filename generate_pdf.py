@@ -166,20 +166,13 @@ def clean_markdown(text, file_dir):
 def md_to_html(md_text):
     html = markdown.markdown(md_text, extensions=['tables'], output_format='html')
 
-    # Style blockquotes as visible text boxes with background color
-    # fpdf2's <blockquote> has no visual styling, so we replace with a styled table
-    def style_blockquote(m):
-        inner = m.group(1).strip()
-        return (
-            '<table width="100%">'
-            '<tr>'
-            f'<td bgcolor="#F0EBE3"><font size="10">{inner}</font></td>'
-            '</tr>'
-            '</table>'
-        )
+    # Replace blockquotes with sentinel markers for custom rendering
+    # fpdf2's write_html has very limited styling support, so we render
+    # blockquotes manually with drawing primitives in render_transcript_box()
     html = re.sub(
         r'<blockquote>\s*(.*?)\s*</blockquote>',
-        style_blockquote, html, flags=re.DOTALL
+        lambda m: '<!--BQ_START-->' + m.group(1).strip() + '<!--BQ_END-->',
+        html, flags=re.DOTALL
     )
 
     return html
@@ -334,6 +327,38 @@ class BookPDF(FPDF):
             print(f"    Image error ({os.path.basename(img_path)}): {e}")
             pass
 
+    def render_transcript_box(self, text):
+        """Render a transcript blockquote as a visually distinct box with background and left border."""
+        self.ln(5)
+
+        box_x = 15  # 5mm indent from page margin (10mm)
+        box_w = 180  # width of the box
+        padding = 3  # mm padding inside the box
+
+        self.set_font('LibSerif', 'I', 10)
+        self.set_text_color(60, 45, 30)
+
+        y_before = self.get_y()
+
+        # Render text with filled background
+        self.set_x(box_x + padding)
+        self.set_fill_color(228, 215, 197)  # Warm tan #E4D7C5
+        self.multi_cell(box_w - 2 * padding, 5.5, text, fill=True,
+                        new_x="LMARGIN", new_y="NEXT")
+
+        y_after = self.get_y()
+
+        # Draw thick brown left border
+        self.set_draw_color(141, 110, 76)  # Brown #8D6E4C
+        self.set_line_width(1.0)
+        self.line(box_x, y_before, box_x, y_after)
+        self.set_line_width(0.2)  # Reset line width
+
+        # Reset colors
+        self.set_text_color(30, 30, 30)
+        self.set_draw_color(0, 0, 0)
+        self.ln(5)
+
     def render_section(self, nav_title, md_content, file_dir, is_document=False):
         """Render a section and return the starting page number."""
         self.add_page()
@@ -364,17 +389,35 @@ class BookPDF(FPDF):
             if not segment.strip():
                 continue
 
-            try:
-                self.set_font('LibSerif', '', 11)
-                self.write_html(segment)
-            except Exception:
-                plain = re.sub(r'<[^>]+>', ' ', segment)
-                plain = re.sub(r'  +', ' ', plain).strip()
-                if plain:
-                    self.set_font('LibSerif', '', 11)
-                    self.set_text_color(30, 30, 30)
-                    self.multi_cell(0, 6, plain)
-                    self.ln(2)
+            # Split by blockquote markers for custom rendering
+            bq_parts = re.split(r'(<!--BQ_START-->.*?<!--BQ_END-->)', segment, flags=re.DOTALL)
+
+            for part in bq_parts:
+                if part.startswith('<!--BQ_START-->'):
+                    # Extract text, strip HTML tags, render as styled box
+                    inner = re.sub(r'<!--/?BQ_(?:START|END)-->', '', part).strip()
+                    plain_text = re.sub(r'<[^>]+>', ' ', inner)
+                    plain_text = re.sub(r'&quot;', '"', plain_text)
+                    plain_text = re.sub(r'&amp;', '&', plain_text)
+                    plain_text = re.sub(r'&lt;', '<', plain_text)
+                    plain_text = re.sub(r'&gt;', '>', plain_text)
+                    plain_text = re.sub(r'  +', ' ', plain_text).strip()
+                    if plain_text:
+                        self.render_transcript_box(plain_text)
+                else:
+                    if not part.strip():
+                        continue
+                    try:
+                        self.set_font('LibSerif', '', 11)
+                        self.write_html(part)
+                    except Exception:
+                        plain = re.sub(r'<[^>]+>', ' ', part)
+                        plain = re.sub(r'  +', ' ', plain).strip()
+                        if plain:
+                            self.set_font('LibSerif', '', 11)
+                            self.set_text_color(30, 30, 30)
+                            self.multi_cell(0, 6, plain)
+                            self.ln(2)
 
         return page_num
 

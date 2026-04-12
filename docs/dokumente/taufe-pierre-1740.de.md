@@ -31,7 +31,7 @@
 
 ### Deutsche Übersetzung
 
-Pierre Cabos, Sohn des Herrn **Laurens Cabos**, Kaufmann, und der Demoiselle **Marie Rey**, aus dieser Stadt [Caussade], geboren am **ersten November siebzehnhundertvierzig** [1. November 1740], wurde am selben Tag getauft. Pate: Jean Delpech (?), Patin: Jeanne Delpech (?).
+> Pierre Cabos, Sohn des Herrn **Laurens Cabos**, Kaufmann, und der Demoiselle **Marie Rey**, aus dieser Stadt [Caussade], geboren am **ersten November siebzehnhundertvierzig** [1. November 1740], wurde am selben Tag getauft. Pate: Jean Delpech (?), Patin: Jeanne Delpech (?).
 
 ---
 

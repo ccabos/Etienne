@@ -84,12 +84,13 @@ The godparents **Jean Delpech** and **Jeanne Delpech** are interesting:
 
 | Person | Role | Life Dates | Source |
 |--------|-------|-------------|--------|
-| **Laurent/Laurens Cabos** | Father | ? - ? | Marriage 1729, Baptisms |
+| **Laurent/Laurens Cabos** | Father | ? - between 1760 and 1771 | Marriage 1729, Baptisms, [Marriage Anne 1771](hochzeit-anne-1771.md) ("feu") |
 | **Marie Rey** | Mother | ? - ? | Marriage 1729, Baptisms |
 | **??? Cabos** | Eldest son? (executed?) | before 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Son | ca. 1730? - 1796 | Marriage 1760, Death 1796 |
 | **Etienne Cabos** | Son | 1737 - 1808 | Baptism 1737, Death Berlin |
 | **Pierre Cabos** | Son | 1740 - ? | Baptism 1740 |
+| **[Anne Cabos](hochzeit-anne-1771.md)** | Daughter | ca. 1742 - ? | Marriage 1771 |
 
 ---
 

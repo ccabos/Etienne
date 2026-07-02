@@ -36,7 +36,7 @@ Etienne's father, **Laurens Cabos**, was a merchant and had married **Marie Rey*
 
 The day after his birth, on July 10, 1737, little Etienne was baptized. His godfather was Etienne Prunet, a master surgeon, his godmother Claire St. Genies - both names that point to the educated bourgeoisie of the region.
 
-Etienne had at least two brothers: **Jean Cabos**, who married **Jeanne Fournier** in Caussade on February 3, 1760, and died in Caussade on November 4, 1796, as well as **Pierre Cabos**, who was baptized on November 1, 1740 - three years after Etienne. Jean's wedding was performed by Protestant pastor Lafond "in the Désert" (underground) - an act of religious resistance at a time when Protestantism was forbidden.
+Etienne had at least two brothers and one sister: **Jean Cabos**, who married **Jeanne Fournier** in Caussade on February 3, 1760, and died in Caussade on November 4, 1796, **Pierre Cabos**, who was baptized on November 1, 1740 - three years after Etienne -, and **Anne Cabos** (born ca. 1742), who married **Pierre Lacombe** on October 2, 1771 in Saint-Jean de Réalville near Caussade. Jean's wedding was performed by Protestant pastor Lafond "in the Désert" (underground) - an act of religious resistance at a time when Protestantism was forbidden. Anne's marriage entry of 1771 also reveals an important detail: the father Laurens is recorded there as *"feu"* (deceased) - **he therefore died between 1760 and 1771**.
 
 <div class="grid cards" markdown>
 
@@ -72,13 +72,23 @@ Etienne had at least two brothers: **Jean Cabos**, who married **Jeanne Fournier
 
     [→ To the document](dokumente/hochzeit-jean-1760.md)
 
+-   [![Wedding Anne 1771](images/hochzeit-anne-1771-1.jpg){ width="200" }](dokumente/hochzeit-anne-1771.md)
+
+    **Wedding Anne 1771**
+
+    Marriage entry of Anne Cabos and Pierre Lacombe
+
+    [→ To the document](dokumente/hochzeit-anne-1771.md)
+
 </div>
 
 ---
 
 ## The Path to Prussia
 
-The exact circumstances that led Etienne from his southern French homeland to northern Germany lie in the darkness of history. A [French report from 1907](dokumente/bulletin-1907.md) mentions, however, that his **older brother was executed in Caussade** - for an unknown offense. It was neither Jean (†1796 in Caussade) nor Pierre (born 1740, thus younger than Etienne). If the claim is true, there must have been a **fourth, older brother**. In September 1761, the Protestant pastor Rochette was arrested in Caussade - the subsequent [Rochette Affair](dokumente/bulletin-1907.md#historischer-kontext-die-affare-rochette-1761-1762) shook the Protestant community. Whether a family tragedy drove Etienne to flee France remains speculation, but it would explain why he left his homeland forever.
+The exact circumstances that led Etienne from his southern French homeland to northern Germany lie in the darkness of history. A [French report from 1907](dokumente/bulletin-1907.md) mentions, however, that his **older brother was executed in Caussade** - for an unknown offense. It was neither Jean (†1796 in Caussade) nor Pierre (born 1740, thus younger than Etienne). If the claim is true, there must have been **another, older brother**. In September 1761, the Protestant pastor Rochette was arrested in Caussade - the subsequent [Rochette Affair](dokumente/bulletin-1907.md#historischer-kontext-die-affare-rochette-1761-1762) shook the Protestant community. Whether a family tragedy drove Etienne to flee France remains speculation, but it would explain why he left his homeland forever.
+
+The temporal proximity to the father's death is also striking: Laurens Cabos died between 1760 and 1771 - at the [wedding of his sister Anne in October 1771](dokumente/hochzeit-anne-1771.md) he is already recorded as deceased. Only nine months later, Etienne married in Stettin. Perhaps the death of the father - and an associated division of the inheritance - gave the final impetus to leave home.
 
 What is certain is that he appears in Stettin in the early 1770s - not as a merchant like his father, but as a soldier in the Prussian army. The same report describes him as a "deserter" and mentions that he "received numerous blows to learn the Prussian art of drilling" - a reference to the notorious harshness of Prussian military discipline.
 
@@ -184,7 +194,7 @@ The family's economic situation apparently deteriorated increasingly. On **April
 
 > *"Wir, die unterschreibenden Etienne Cabos und Justine Maria Siercken [...] bestätigen hiermit, dass wir und unsere Kinder seit einigen Jahren Unterhalt bezogen, sowohl durch die ehrenwerten Herren Diakone von den Wallonen, als auch von der hiesigen lutherischen Gemeinde. Vor kurzem sind wir [...] informiert worden, dass wir die Genehmigung haben nach Deutschland zu übersiedeln um bei unserer Familie, welche uns eingeladen hat, zu wohnen."*
 
-The two churches each granted the family 125 guilders - together 250 guilders - to finance the journey to Germany. This corresponded to about **10 months of work for an unskilled laborer** or almost **one year's salary for a simple craftsman** - a substantial sum for a six-member family, but by no means a fortune. In return, Etienne and his wife pledged to *"nie wieder Anspruch auf Unterhalt von beiden Diakonien [...] zu erheben"* and *"die Summe von 250 Gulden sobald es uns möglich ist"* to repay.
+The two churches each granted the family 125 guilders - together 250 guilders - to finance the journey to Germany. This corresponded to about **10 months of work for an unskilled laborer** or almost **one year's salary for a simple craftsman** - a substantial sum for a large family, but by no means a fortune. In return, Etienne and his wife pledged to *"nie wieder Anspruch auf Unterhalt von beiden Diakonien [...] zu erheben"* and *"die Summe von 250 Gulden sobald es uns möglich ist"* to repay.
 
 ### Europe on the Eve of War
 
@@ -320,7 +330,9 @@ His son Friedrich Ludwig later went to Hamburg and then to Königsberg, his youn
 
 ## The Next Generation: Frédéric Louis
 
-Frédéric Louis came to Hamburg around 1794 and became a citizen on March 28, 1806. On May 4 of the same year, he married **Anna Monica Jacobsen** at the Hamburg Michel. He now called himself **Friedrich Ludwig Abraham Isaak**. Later he went to Königsberg.
+Frédéric Louis came to Hamburg around 1794 - presumably he had accompanied the family on the journey from Rotterdam in 1792 and stayed behind along the way. On March 28, 1806, he became a citizen of Hamburg, and on May 4 of the same year, he married **Anna Monica Jacobsen** at the Hamburg Michel (St. Michaelis). He now called himself **Friedrich Ludwig Abraham Isaak**.
+
+The marriage register of St. Michaelis provides remarkable details: Friedrich Ludwig is listed as *"citizen, born in Stettin"*, his father as *"Stephanus"*, his mother as *"Justine née Siercken"*. His trade is given as **"Mahler"** (painter), his residence as *Neustraße, Neustadt oben No. 288*, and his stay in Hamburg is stated as **12 years** - confirming his arrival around 1794. The bride Anna Monica, born in Hamburg, daughter of Jacob Christian Jacobsen and Anna Margaretha née Stoltzenberg, was the **widow of Johann Friedrich Nettelbroth** (widowed for 1 3/4 years). The wedding was performed by *"Doktor u. Senior Rambach"*. Later, Friedrich Ludwig went to Königsberg.
 
 ---
 

@@ -9,6 +9,9 @@
 !!! note "Place name 'Kochshagen'"
     The clerk noted the place of birth as "Kochshagen" - a phonetic corruption of **Caussade**. The French place name was apparently unfamiliar to the German-speaking church register keeper.
 
+!!! note "Father's name 'Etienne' instead of 'Laurens'"
+    The entry names **"Etienne Cabos"** as the father - yet according to all documents from Caussade (marriage 1729, baptisms 1737 and 1740, marriage contract 1760, marriage of Anne 1771), the father's name was **Laurens (Laurent) Cabos**. The mother **Marie Rey**, however, is given correctly - strong evidence that this is the same family. Presumably the register keeper did not have the father's name and mistakenly repeated the name of the deceased; it is also conceivable that the informant (Etienne died in the hospital, separated from his family) simply did not know the name.
+
 ---
 
 ## Document Information

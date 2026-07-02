@@ -9,6 +9,9 @@
 !!! note "Quelle"
     Kirchenbuch der französisch-reformierten Friedrichstadtkirche, Berlin
 
+!!! note "'Templin en Pomeranie'"
+    Der Eintrag lokalisiert Templin, den Geburtsort der Mutter, irrtümlich "in Pommern" - tatsächlich liegt Templin in der **Uckermark (Brandenburg)**. Solche geografischen Ungenauigkeiten sind in Kirchenbüchern häufig.
+
 ---
 
 ## Dokumentinformationen
@@ -49,6 +52,9 @@ Die Taufpaten zeigen, dass die Familie trotz ihrer schwierigen Vergangenheit Ver
 
 - **Charles Emanuel Baron de Hoffstaedt** - Geheimer Rat
 - **Agnes Louise Amelie Palmie, geb. Rauch** - aus einer angesehenen Familie
+
+!!! info "Die Patin Palmié und das Bulletin von 1907"
+    Die Patin stammt aus der Berliner Hugenottenfamilie **Palmié** - genau jener Familie, deren Briefwechsel das [Bulletin von 1907](bulletin-1907.md) auswertet, in dem Etienne Cabos namentlich erwähnt wird. Die Patenschaft von 1793 erklärt also vermutlich, **warum** Cabos in der Palmié-Korrespondenz auftaucht: Die Familien kannten sich persönlich. Die Korrespondenz verband Berlin zudem mit Etiennes Herkunftsregion - die Palmiés schrieben u.a. an Thomas Thuet, und die Familie Thuet war bereits 1760 beim [Ehevertrag von Etiennes Bruder Jean](hochzeit-jean-1760.md) in Caussade als Verwandtschaft der Braut vertreten.
 
 ---
 

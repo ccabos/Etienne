@@ -40,6 +40,7 @@ nav:
     - Kirchenregister Caussade Juli 1737: dokumente/kirchenregister-caussade-juli-1737.md
     - Taufe Pierre 1740: dokumente/taufe-pierre-1740.md
     - Hochzeit Jean Cabos 1760: dokumente/hochzeit-jean-1760.md
+    - Hochzeit Anne Cabos 1771: dokumente/hochzeit-anne-1771.md
     - Hochzeit Stettin 1772: dokumente/hochzeit-stettin-1772.md
     - Geburten Stettin 1772-1777: dokumente/geburten-stettin.md
     - Kirchenbuch Kriegsende 1779: dokumente/kriegsende-1779.md
@@ -105,6 +106,7 @@ plugins:
             Kirchenregister Caussade Juli 1737: Church Register Caussade July 1737
             Taufe Pierre 1740: Baptism Pierre 1740
             Hochzeit Jean Cabos 1760: Marriage Jean Cabos 1760
+            Hochzeit Anne Cabos 1771: Marriage Anne Cabos 1771
             Hochzeit Stettin 1772: Marriage Stettin 1772
             Geburten Stettin 1772-1777: Births Stettin 1772-1777
             Kirchenbuch Kriegsende 1779: Church Record End of War 1779

@@ -8,6 +8,10 @@
 
 *Heiratseintrag Anne Elisabeth Cabos und August Friedrich Ferdinand Pohle, 16. August 1807, Luisenkirche Charlottenburg.*
 
+> *"No. 14 — Dom. 9. 10 & 11 post Trinitatis — Herr August Friedrich Ferdinand Pohle, Stadt-Chirurgus und Accoucheur hieselbst, mit Jungfer Elisabeth Cabos, des Kaufmanns zu Rotterdam Herrn Stephan Cabos einzige[?] eheliche Tochter. Copuliert den 16ten August"*
+
+*Nr. 14 — Am 9., 10. und 11. Sonntag nach Trinitatis [aufgeboten] — Herr August Friedrich Ferdinand Pohle, Stadtchirurg und Accoucheur (Geburtshelfer) hierselbst, mit Jungfer Elisabeth Cabos, des Kaufmanns zu Rotterdam Herrn Stephan Cabos einzige eheliche Tochter. Getraut am 16. August.*
+
 ### Sterbeurkunde (1866)
 
 ![Sterbeurkunde Anne Elisabeth 1866](../images/Tod_Anne_Elisabeth.jpg){ loading=lazy }
@@ -63,7 +67,11 @@ Die Hochzeit fand **ein Jahr vor dem Tod ihres Vaters** statt:
 - **14. September 1808**: Etienne Cabos stirbt in Charlottenburg
 - **10. September 1810**: Maria Justine Siercken stirbt in Charlottenburg
 
-Elisabeth war zum Zeitpunkt der Hochzeit 21 Jahre alt. Ihr Mann August Friedrich Ferdinand Pohle war Stadtchirurg - ein angesehener Beruf, der zeigt, dass Elisabeth trotz der finanziellen Schwierigkeiten ihrer Familie eine gute Partie machte.
+Elisabeth war zum Zeitpunkt der Hochzeit 21 Jahre alt. Ihr Mann August Friedrich Ferdinand Pohle war Stadtchirurg und **Accoucheur** (Geburtshelfer) - angesehene Berufe, die zeigen, dass Elisabeth trotz der finanziellen Schwierigkeiten ihrer Familie eine gute Partie machte.
+
+### "Einzige eheliche Tochter" - ein wichtiger Hinweis
+
+Der Eintrag bezeichnet Elisabeth als **"einzige eheliche Tochter"** des Stephan Cabos. Das ist genealogisch aufschlussreich: Etienne hatte insgesamt **vier Töchter** - Henriette Charlotte (1777), Marie Christine (~1779), Justine (1780) und Elisabeth (1785). Marie Christine und Justine starben nachweislich als Kleinkinder in Rotterdam. Dass Elisabeth 1807 als *einzige* Tochter gilt, bedeutet: Auch **Henriette Charlotte muss zu diesem Zeitpunkt bereits tot gewesen sein** - ihr Sterbeort und -datum sind bislang unbekannt. Der [Sterbeeintrag der Mutter (1810)](sterbeurkunde-justine-1810.md), der nur eine hinterbliebene Tochter nennt, bestätigt dieses Bild.
 
 ### Die Luisenkirche in Charlottenburg
 

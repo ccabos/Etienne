@@ -48,7 +48,9 @@ Dieses Dokument ist ein faszinierendes Zeugnis der hugenottischen Netzwerke im E
 
 ### Der Ausstellungsort: Isenburg
 
-Die französisch-reformierte Kirche in Isenburg (Ysembourg) lag auf dem Weg von Preußen nach Holland. Sie diente als Zwischenstation für Etienne auf seiner Reise von Stettin nach Rotterdam.
+Bei "Ysembourg" handelt es sich sehr wahrscheinlich um **Neu-Isenburg** bei Frankfurt am Main - eine 1699 vom Grafen von Isenburg eigens für hugenottische Flüchtlinge gegründete Kolonie mit eigener französisch-reformierter Gemeinde.
+
+Bemerkenswert: Neu-Isenburg liegt **nicht** auf dem direkten Weg von Stettin nach Rotterdam, sondern weit südlich davon. Der Pass selbst erklärt den Umweg: Die Familie hatte sich *"für einige Zeit"* in Isenburg niedergelassen, und Etienne ließ Frau und Kinder dort zurück, während ihn seine *"Geschäfte"* auf *"einige Reisen"* führten. Die Familie verließ Stettin also nicht in einem Zug Richtung Holland - zwischen dem Aufbruch aus Stettin und der Ankunft in Rotterdam lag ein längerer Aufenthalt in der hugenottischen Kolonie am Main. Wie lange dieser dauerte und welche Geschäfte Etienne unterwegs verfolgte, ist nicht dokumentiert.
 
 ### Die Funktion des Dokuments
 
@@ -73,9 +75,16 @@ Die hugenottischen Gemeinden in ganz Europa bildeten ein Netzwerk gegenseitiger 
 Dieses Dokument belegt:
 
 - Den Entschluss der Familie, Stettin zu verlassen
+- Einen längeren Zwischenaufenthalt in der Hugenottenkolonie (Neu-)Isenburg
 - Die Absicht, nach Holland zu ziehen
 - Die Zugehörigkeit zur französisch-reformierten Gemeinde
 - Die Nutzung des hugenottischen Netzwerks
+
+---
+
+## Quelle
+
+- Digitalisat bei [FamilySearch](https://familysearch.org/ark:/61903/3:1:3QS7-89QV-ZV7J?i=404&cc=2037907)
 
 ---
 

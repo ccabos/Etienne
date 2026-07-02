@@ -137,12 +137,13 @@ Dieses Dokument erweitert unser Bild der Familie Cabos erheblich:
 
 | Person | Rolle | Lebensdaten | Quelle |
 |--------|-------|-------------|--------|
-| **Laurent Cabos** | Vater | ? - ? | Hochzeit 1729, Ehevertrag Jean 1760 |
+| **Laurent Cabos** | Vater | ? - zwischen 1760 und 1771 | Hochzeit 1729, Ehevertrag Jean 1760, [Heirat Anne 1771](hochzeit-anne-1771.md) ("feu") |
 | **Marie Rey** | Mutter | ? - ? | Hochzeit 1729 |
 | **??? Cabos** | "Älterer Bruder" (hingerichtet?) | vor 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Sohn | ca. 1730? - 1796 | Hochzeit 1760, Tod Caussade 1796 |
 | **Etienne Cabos** | Sohn | 1737-1808 | Taufe 1737, Tod Berlin 1808 |
 | **[Pierre Cabos](taufe-pierre-1740.md)** | Sohn | 1740 - ? | Taufe 1740 |
+| **[Anne Cabos](hochzeit-anne-1771.md)** | Tochter | ca. 1742 - ? | Heirat 1771 |
 
 ### Soziales Netzwerk
 
@@ -154,6 +155,8 @@ Die Zeugen der Hochzeit zeigen ein Netzwerk von Kaufleuten und Bürgern:
 - **Fournier** - Familie der Braut, Bürger
 
 Die Familie **Thuet** ist besonders interessant: Im Bulletin 1907 wird ein **Thomas Thuet** erwähnt, der mit J.-M. Palmié in Berlin korrespondierte!
+
+Auch die Familie **Lacombe** taucht erneut auf: 1771 heiratete Etiennes Schwester **Anne Cabos** einen **Pierre Lacombe** - mit bischöflicher Dispens wegen Blutsverwandtschaft. [→ Zur Hochzeit Anne 1771](hochzeit-anne-1771.md)
 
 ---
 

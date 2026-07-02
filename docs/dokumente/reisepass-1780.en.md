@@ -48,7 +48,9 @@ This document is a fascinating testimony to the Huguenot networks in 18th-centur
 
 ### The Place of Issue: Isenburg
 
-The French Reformed Church in Isenburg (Ysembourg) was located on the route from Prussia to Holland. It served as a way station for Etienne on his journey from Stettin to Rotterdam.
+"Ysembourg" is very likely **Neu-Isenburg** near Frankfurt am Main - a colony founded in 1699 by the Count of Isenburg specifically for Huguenot refugees, with its own French Reformed congregation.
+
+Remarkably, Neu-Isenburg is **not** on the direct route from Stettin to Rotterdam, but far to the south of it. The pass itself explains the detour: the family had settled in Isenburg *"for some time"*, and Etienne left his wife and children there while his *"business affairs"* took him on *"several journeys"*. The family therefore did not leave Stettin in one move towards Holland - between the departure from Stettin and the arrival in Rotterdam lay a longer stay in the Huguenot colony on the Main. How long this lasted and what business Etienne pursued along the way is not documented.
 
 ### The Function of the Document
 
@@ -73,9 +75,16 @@ The Huguenot congregations throughout Europe formed a network of mutual support:
 This document documents:
 
 - The family's decision to leave Stettin
+- A longer intermediate stay in the Huguenot colony of (Neu-)Isenburg
 - The intention to move to Holland
 - Membership in the French Reformed congregation
 - The use of the Huguenot network
+
+---
+
+## Source
+
+- Digitized version at [FamilySearch](https://familysearch.org/ark:/61903/3:1:3QS7-89QV-ZV7J?i=404&cc=2037907)
 
 ---
 

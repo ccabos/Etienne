@@ -36,7 +36,7 @@ Etiennes Vater, **Laurens Cabos**, war Kaufmann und hatte am 14. Juli 1729 **Mar
 
 Am Tag nach seiner Geburt, dem 10. Juli 1737, wurde der kleine Etienne getauft. Sein Pate war Etienne Prunet, ein Meisterchirurg, seine Patin Claire St. Genies - beides Namen, die auf das gebildete Bürgertum der Region hindeuten.
 
-Etienne hatte mindestens zwei Brüder: **Jean Cabos**, der am 3. Februar 1760 in Caussade **Jeanne Fournier** heiratete und am 4. November 1796 in Caussade starb, sowie **Pierre Cabos**, der am 1. November 1740 getauft wurde - drei Jahre nach Etienne. Die Trauung Jeans wurde vom protestantischen Pastor Lafond "im Désert" (im Untergrund) vollzogen - ein Akt des religiösen Widerstands in einer Zeit, als der Protestantismus verboten war.
+Etienne hatte mindestens zwei Brüder und eine Schwester: **Jean Cabos**, der am 3. Februar 1760 in Caussade **Jeanne Fournier** heiratete und am 4. November 1796 in Caussade starb, **Pierre Cabos**, der am 1. November 1740 getauft wurde - drei Jahre nach Etienne -, sowie **Anne Cabos** (geboren um 1742), die am 2. Oktober 1771 in Saint-Jean de Réalville bei Caussade den **Pierre Lacombe** heiratete. Die Trauung Jeans wurde vom protestantischen Pastor Lafond "im Désert" (im Untergrund) vollzogen - ein Akt des religiösen Widerstands in einer Zeit, als der Protestantismus verboten war. Annes Heiratseintrag von 1771 verrät zudem ein wichtiges Detail: Der Vater Laurens wird dort als *"feu"* (verstorben) bezeichnet - **er starb also zwischen 1760 und 1771**.
 
 <div class="grid cards" markdown>
 
@@ -72,13 +72,23 @@ Etienne hatte mindestens zwei Brüder: **Jean Cabos**, der am 3. Februar 1760 in
 
     [→ Zum Dokument](dokumente/hochzeit-jean-1760.md)
 
+-   [![Hochzeit Anne 1771](images/hochzeit-anne-1771-1.jpg){ width="200" }](dokumente/hochzeit-anne-1771.md)
+
+    **Hochzeit Anne 1771**
+
+    Heiratseintrag Anne Cabos und Pierre Lacombe
+
+    [→ Zum Dokument](dokumente/hochzeit-anne-1771.md)
+
 </div>
 
 ---
 
 ## Der Weg nach Preußen
 
-Die genauen Umstände, die Etienne aus seiner südfranzösischen Heimat nach Norddeutschland führten, liegen im Dunkel der Geschichte. Ein [französischer Bericht aus dem Jahr 1907](dokumente/bulletin-1907.md) erwähnt jedoch, dass sein **älterer Bruder in Caussade hingerichtet** worden sei - wegen eines unbekannten Vergehens. Es war weder Jean (†1796 in Caussade) noch Pierre (1740 geboren, also jünger als Etienne). Wenn die Behauptung stimmt, muss es einen **vierten, älteren Bruder** gegeben haben. Im September 1761 wurde in Caussade der protestantische Pastor Rochette verhaftet - die darauf folgende [Affäre Rochette](dokumente/bulletin-1907.md#historischer-kontext-die-affare-rochette-1761-1762) erschütterte die protestantische Gemeinde. Ob ein familiäres Drama Etienne zur Flucht aus Frankreich trieb, bleibt Spekulation, doch es würde erklären, warum er seine Heimat für immer verließ.
+Die genauen Umstände, die Etienne aus seiner südfranzösischen Heimat nach Norddeutschland führten, liegen im Dunkel der Geschichte. Ein [französischer Bericht aus dem Jahr 1907](dokumente/bulletin-1907.md) erwähnt jedoch, dass sein **älterer Bruder in Caussade hingerichtet** worden sei - wegen eines unbekannten Vergehens. Es war weder Jean (†1796 in Caussade) noch Pierre (1740 geboren, also jünger als Etienne). Wenn die Behauptung stimmt, muss es einen **weiteren, älteren Bruder** gegeben haben. Im September 1761 wurde in Caussade der protestantische Pastor Rochette verhaftet - die darauf folgende [Affäre Rochette](dokumente/bulletin-1907.md#historischer-kontext-die-affare-rochette-1761-1762) erschütterte die protestantische Gemeinde. Ob ein familiäres Drama Etienne zur Flucht aus Frankreich trieb, bleibt Spekulation, doch es würde erklären, warum er seine Heimat für immer verließ.
+
+Auffällig ist auch die zeitliche Nähe zum Tod des Vaters: Laurens Cabos starb zwischen 1760 und 1771 - bei der [Hochzeit der Schwester Anne im Oktober 1771](dokumente/hochzeit-anne-1771.md) wird er bereits als verstorben geführt. Nur neun Monate später heiratete Etienne in Stettin. Möglicherweise gab der Tod des Vaters - und eine damit verbundene Erbteilung - den letzten Anstoß, die Heimat zu verlassen.
 
 Fest steht, dass er in den frühen 1770er Jahren in Stettin auftaucht - nicht als Kaufmann wie sein Vater, sondern als Soldat im preußischen Heer. Der gleiche Bericht bezeichnet ihn als "Deserteur" und erwähnt, dass er "zahlreiche Schläge erhielt, um die preußische Exerzierkunst zu erlernen" - ein Hinweis auf die berüchtigte Härte der preußischen Militärdisziplin.
 
@@ -184,7 +194,7 @@ Die wirtschaftliche Lage der Familie verschlechterte sich offenbar zunehmend. Am
 
 > *"Wir, die unterschreibenden Etienne Cabos und Justine Maria Siercken [...] bestätigen hiermit, dass wir und unsere Kinder seit einigen Jahren Unterhalt bezogen, sowohl durch die ehrenwerten Herren Diakone von den Wallonen, als auch von der hiesigen lutherischen Gemeinde. Vor kurzem sind wir [...] informiert worden, dass wir die Genehmigung haben nach Deutschland zu übersiedeln um bei unserer Familie, welche uns eingeladen hat, zu wohnen."*
 
-Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Gulden -, um die Reise nach Deutschland zu finanzieren. Dies entsprach etwa **10 Monaten Arbeit eines ungelernten Arbeiters** oder fast einem **Jahresgehalt eines einfachen Handwerkers** - eine substanzielle Summe für eine sechsköpfige Familie, aber keineswegs ein Vermögen. Im Gegenzug verpflichteten sich Etienne und seine Frau, *"nie wieder Anspruch auf Unterhalt von beiden Diakonien [...] zu erheben"* und *"die Summe von 250 Gulden sobald es uns möglich ist"* zurückzuzahlen.
+Die beiden Kirchen gewährten der Familie jeweils 125 Gulden - zusammen 250 Gulden -, um die Reise nach Deutschland zu finanzieren. Dies entsprach etwa **10 Monaten Arbeit eines ungelernten Arbeiters** oder fast einem **Jahresgehalt eines einfachen Handwerkers** - eine substanzielle Summe für eine vielköpfige Familie, aber keineswegs ein Vermögen. Im Gegenzug verpflichteten sich Etienne und seine Frau, *"nie wieder Anspruch auf Unterhalt von beiden Diakonien [...] zu erheben"* und *"die Summe von 250 Gulden sobald es uns möglich ist"* zurückzuzahlen.
 
 ### Europa am Vorabend des Krieges
 
@@ -320,7 +330,9 @@ Sein Sohn Friedrich Ludwig ging später nach Hamburg und dann nach Königsberg, 
 
 ## Die nächste Generation: Frédéric Louis
 
-Frédéric Louis kam ca. 1794 nach Hamburg und wurde am 28. März 1806 Bürger. Am 4. Mai des gleichen Jahres heiratete er dort **Anna Monica Jacobsen** im Hamburger Michel. Er nannte sich jetzt **Friedrich Ludwig Abraham Isaak**. Später ging er nach Königsberg.
+Frédéric Louis kam ca. 1794 nach Hamburg - vermutlich hatte er die Familie 1792 auf der Reise von Rotterdam begleitet und war unterwegs geblieben. Am 28. März 1806 wurde er Hamburger Bürger, und am 4. Mai des gleichen Jahres heiratete er **Anna Monica Jacobsen** im Hamburger Michel (St. Michaelis). Er nannte sich jetzt **Friedrich Ludwig Abraham Isaak**.
+
+Das Traubuch von St. Michaelis liefert bemerkenswerte Details: Friedrich Ludwig wird als *"Bürger, gebürtig aus Stettin"* geführt, sein Vater als *"Stephanus"*, seine Mutter als *"Justine geb. Siercken"*. Als Gewerbe ist **"Mahler"** (Maler) angegeben, als Wohnung die *Neustraße, Neustadt oben No. 288*, und sein Aufenthalt in Hamburg wird mit **12 Jahren** beziffert - was seine Ankunft um 1794 bestätigt. Die Braut Anna Monica, gebürtige Hamburgerin und Tochter von Jacob Christian Jacobsen und Anna Margaretha geb. Stoltzenberg, war die **Witwe des Johann Friedrich Nettelbroth** (seit 1 3/4 Jahren verwitwet). Die Trauung vollzog *"der Herr Doktor u. Senior Rambach"*. Später ging Friedrich Ludwig nach Königsberg.
 
 ---
 

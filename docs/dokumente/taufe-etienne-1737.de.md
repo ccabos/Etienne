@@ -24,12 +24,6 @@
 
 ---
 
-## Transkription
-
-*[Transkription des Originaleintrags hier einfügen]*
-
----
-
 ## Beschreibung
 
 Am **9. Juli 1737** wurde **Etienne Cabos** als Sohn von Laurens Cabos und Marie Rey in Caussade geboren. Bereits am folgenden Tag, dem 10. Juli, wurde er getauft - eine damals übliche schnelle Taufe aufgrund der hohen Kindersterblichkeit.

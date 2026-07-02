@@ -15,6 +15,10 @@ graph TD
     H1 --> C["👤 Etienne Cabos<br/>1737-1808<br/>⭐ Caussade 🪦 Berlin"]
     H1 --> S1["👦 Jean Cabos<br/>~1730-1796<br/>⭐🪦 Caussade"]
     H1 --> S2["👦 Pierre Cabos<br/>1740-?<br/>⭐ Caussade"]
+    H1 --> S3["👧 Anne Cabos<br/>~1742-?<br/>⭐ Caussade"]
+
+    S3 --> H4["💒 Hochzeit<br/>2. Okt. 1771<br/>Réalville"]
+    G["👨 Pierre Lacombe<br/>~1736-?<br/>Caussade"] --> H4
 
     C --> H2["💒 Hochzeit<br/>16. Juli 1772<br/>Stettin"]
     D["👩 Maria Justine Siercken<br/>1754-1810<br/>⭐ Templin 🪦 Charlottenburg"] --> H2
@@ -36,11 +40,13 @@ graph TD
     style S0 fill:#9e9e9e,stroke:#616161,stroke-width:2px,stroke-dasharray:5,color:#fff
     style S1 fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
     style S2 fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
+    style S3 fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
     style E5 fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
     style E6 fill:#ef5350,stroke:#c62828,stroke-width:2px,color:#fff
     style H1 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
     style H2 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
     style H3 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
+    style H4 fill:#ffd54f,stroke:#f9a825,stroke-width:2px
 
     classDef mainPerson fill:#8d6e63,stroke:#5d4037,stroke-width:3px,color:#fff
     classDef sibling fill:#7986cb,stroke:#3f51b5,stroke-width:2px,color:#fff
@@ -70,6 +76,7 @@ graph TD
 - **Beruf:** Kaufmann
 - **Wohnort:** Caussade, Frankreich (Quercy)
 - **Hochzeit:** 14. Juli 1729 mit Marie Rey
+- **Tod:** zwischen Februar 1760 und Oktober 1771 (im [Heiratseintrag der Tochter Anne 1771](dokumente/hochzeit-anne-1771.md) als "feu"/verstorben bezeichnet)
 - **Religion:** Protestantisch (Hugenotte), katholisch getraut
 - **Sozialstand:** Angesehenes Bürgertum
 
@@ -82,7 +89,7 @@ graph TD
 
 ---
 
-### Generation II: Die Söhne von Laurens und Marie
+### Generation II: Die Kinder von Laurens und Marie
 
 #### 👤 ??? Cabos (vor 1737 - ?)
 - **Geburt:** vor 1737 (vermutlich)
@@ -97,10 +104,10 @@ graph TD
 - **Taufe:** 10. Juli 1737
 - **Tod:** 14. September 1808 in Charlottenburg (Schlaganfall, 71 Jahre)
 - **Hochzeit:** 16. Juli 1772 in Stettin mit Maria Justine Siercken
-- **Beruf:** Soldat (Grenadier-Bataillon von Arnim), später Galanteriwarenhändler, dann Zahnarzt
+- **Beruf:** Soldat im Infanterieregiment Nr. 8 (von Hacke), Kompanie des Majors von Arnim; später Galanteriewarenhändler, dann Zahnarzt
 - **Lebensstationen:**
-    - 1737-1757: Caussade (Kindheit)
-    - 1757-1780: Stettin (Militärdienst, Ehe)
+    - 1737 bis ca. 1771: Caussade (Kindheit und Jugend; der genaue Zeitpunkt der Auswanderung ist unbekannt)
+    - vor 1772 bis 1780: Stettin (Militärdienst, Ehe)
     - 1780-1792: Rotterdam (Händler)
     - 1792-1808: Berlin/Halle (Zahnarzt)
 
@@ -134,6 +141,17 @@ graph TD
     Pierre wurde 1740 geboren, also 3 Jahre nach Etienne - er kann nicht der "ältere hingerichtete Bruder" aus dem Bulletin 1907 sein.
 
 [→ Taufdokument 1740](dokumente/taufe-pierre-1740.md)
+
+#### 👧 Anne Cabos (~1742-?)
+- **Geburt:** ca. 1742 (errechnet aus der Altersangabe "etwa 29 Jahre" im Heiratseintrag)
+- **Hochzeit:** 2. Oktober 1771 in Saint-Jean de Réalville (bei Caussade) mit **Pierre Lacombe**
+- **Ehemann:** Pierre Lacombe (ca. 1736), Sohn von Antoine Lacombe aus Caussade
+- **Besonderheit:** Für die Ehe war eine bischöfliche **Dispens wegen Blutsverwandtschaft im dritten Grad** nötig - die Familien Cabos und Lacombe waren also verwandt
+
+!!! info "Schlüsseldokument für den Vater"
+    Annes Heiratseintrag bezeichnet Laurens Cabos als **"feu" (verstorben)** - der einzige bekannte Beleg, der den Tod des Vaters eingrenzt (zwischen 1760 und 1771).
+
+[→ Heiratsdokument 1771](dokumente/hochzeit-anne-1771.md)
 
 ---
 
@@ -169,9 +187,11 @@ graph TD
 ##### 👦 Friedrich Ludwig Abraham Isaac (1774)
 - **Geburt:** 27. April 1774
 - **Weiterer Lebensweg:**
+    - ca. 1794: Ankunft in Hamburg (laut Traubuch 1806: "Aufenthalt hieselbst 12 Jahr")
     - 28. März 1806: Bürger in Hamburg
-    - 4. Mai 1806: Hochzeit mit Anna Monica Jacobsen (Hamburger Michel)
+    - 4. Mai 1806: Hochzeit mit Anna Monica Jacobsen, verwitwete Nettelbroth (Hamburger Michel, St. Michaelis)
     - Später Umzug nach Königsberg
+- **Beruf:** Maler ("Mahler" laut Traubuch St. Michaelis)
 - **Paten:** Major von Wrangel, Major von Arnim, Fräulein von Zarkow
 
 [→ Zum Dokument](dokumente/geburten-stettin.md#friedrich-ludwig-abraham-isaac-1774)
@@ -185,6 +205,9 @@ graph TD
 - **Geburt:** 29. Dezember 1777
 - **Besonderheit:** Erste Tochter
 - **Paten:** Frau Lieutenant von Braunschweig (geb. von Wedel), Frau Hauptmann von Schwerin
+
+!!! warning "Schicksal unbekannt - vermutlich vor 1807 gestorben"
+    Nach ihrer Taufe verliert sich Henriettes Spur. Zwei spätere Dokumente sprechen dafür, dass sie früh starb: Der [Heiratseintrag ihrer Schwester Elisabeth 1807](dokumente/hochzeit-elisabeth-1807.md) bezeichnet diese als **"einzige eheliche Tochter"** des Kaufmanns Cabos, und der [Sterbeeintrag der Mutter 1810](dokumente/sterbeurkunde-justine-1810.md) nennt nur **eine** hinterbliebene Tochter. Wo und wann Henriette starb - in Stettin, Rotterdam oder unterwegs - ist nicht dokumentiert.
 
 [→ Zum Dokument](dokumente/geburten-stettin.md#henriette-charlotte-sophie-1777)
 
@@ -253,12 +276,14 @@ pie title Geburten nach Ort
     "Berlin" : 1
 ```
 
-| Ort | Zeitraum | Anzahl Kinder | Überlebende |
+| Ort | Zeitraum | Anzahl Kinder | Überlebten die Kindheit |
 |-----|----------|---------------|-------------|
 | **Stettin** | 1772-1779 | 5 | 4 (Marie Christine † 1784) |
-| **Rotterdam** | 1780-1785 | 3 | 1 (Justine † 1782) |
+| **Rotterdam** | 1780-1785 | 3 | 2 (Justine † 1782) |
 | **Berlin** | 1793 | 1 | 1 |
-| **Gesamt** | | **9** | **mindestens 6** |
+| **Gesamt** | | **9** | **7** |
+
+*Anmerkung: Etienne jr. (1783) wurde streng genommen nicht in Rotterdam geboren, sondern auf einer Reise von Le Havre nach Rotterdam; getauft wurde er in Rotterdam. Von den 7 Kindern, die die Kindheit überlebten, sind 1810 nur noch 5 nachweisbar (siehe [Bilanz von 1810](#die-bilanz-von-1810-was-wurde-aus-den-kindern)).*
 
 ---
 
@@ -272,6 +297,31 @@ Von den neun Kindern der Familie Cabos starben mindestens zwei im Kindesalter:
 | **Marie Christine** | Stettin | Rotterdam | 5 1/4 Jahre |
 
 Die Kindersterblichkeitsrate in der Familie Cabos (22% nachweislich) entsprach etwa dem Durchschnitt der damaligen Zeit, in der etwa ein Drittel aller Kinder vor dem fünften Lebensjahr starb.
+
+---
+
+## Die Bilanz von 1810: Was wurde aus den Kindern?
+
+Der [Sterbeeintrag von Maria Justine (1810)](dokumente/sterbeurkunde-justine-1810.md) erlaubt eine Bestandsaufnahme. Er nennt als Hinterbliebene: *"1 major: Tochter und 3 Söhne davon 2 major: sind, und 1 Sohn von dem man seit 20 Jahren nichts weiß"* - also **eine volljährige Tochter, drei Söhne (davon zwei volljährig) und einen verschollenen Sohn**.
+
+Gleicht man diese Angaben mit den neun dokumentierten Kindern ab, ergibt sich folgendes Bild:
+
+| Kind | Geboren | Status 1810 |
+|------|---------|-------------|
+| Johann Carl Abraham | 1772 | ❓ Verschollen **oder** vor 1810 gestorben |
+| Friedrich Ludwig | 1774 | ✅ Lebt (Bürger in Hamburg, volljährig) |
+| Franz Alexander | 1776 | ❓ Verschollen **oder** vor 1810 gestorben |
+| Henriette Charlotte | 1777 | ✝️ Vermutlich vor 1807 gestorben (1807 ist Elisabeth "einzige eheliche Tochter") |
+| Marie Christine | ~1779 | ✝️ 1784 in Rotterdam gestorben |
+| Justine | 1780 | ✝️ 1782 in Rotterdam gestorben |
+| Etienne jr. | 1783 | ✅ Lebt (†1852 in Anklam, volljährig) |
+| Anne Elisabeth | 1785 | ✅ Lebt (verheiratete Pohle - die "1 major: Tochter") |
+| Charles Emmanuel | 1793 | ✅ Lebt (†1852 in Lippehne; 1810 erst 17, der minderjährige Sohn) |
+
+**Die Rechnung geht auf:** Die drei 1810 genannten Söhne sind Friedrich Ludwig, Etienne jr. (beide volljährig) und Charles Emmanuel (minderjährig). Der **verschollene Sohn** - seit ca. 1790, also noch aus der Rotterdamer Zeit - muss **Johann Carl Abraham oder Franz Alexander** gewesen sein. Der jeweils andere der beiden ist demnach vor 1810 gestorben, ohne dass bisher ein Dokument darüber gefunden wurde. Johann Carl wäre 1790 etwa 18 Jahre alt gewesen - alt genug, um zur See zu fahren, Soldat zu werden oder auf andere Weise den Kontakt zur Familie zu verlieren.
+
+!!! warning "Forschungsbedarf"
+    Das Schicksal von **Johann Carl Abraham**, **Franz Alexander** und **Henriette Charlotte** ist ungeklärt. Sterbe- oder Begräbniseinträge könnten in Rotterdam (bis 1792), Berlin/Charlottenburg (ab 1792) oder - im Fall des Verschollenen - ganz woanders liegen.
 
 ---
 

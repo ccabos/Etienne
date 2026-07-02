@@ -84,12 +84,13 @@ Die Paten **Jean Delpech** und **Jeanne Delpech** sind interessant:
 
 | Person | Rolle | Lebensdaten | Quelle |
 |--------|-------|-------------|--------|
-| **Laurent/Laurens Cabos** | Vater | ? - ? | Hochzeit 1729, Taufen |
+| **Laurent/Laurens Cabos** | Vater | ? - zwischen 1760 und 1771 | Hochzeit 1729, Taufen, [Heirat Anne 1771](hochzeit-anne-1771.md) ("feu") |
 | **Marie Rey** | Mutter | ? - ? | Hochzeit 1729, Taufen |
 | **??? Cabos** | Ältester Sohn? (hingerichtet?) | vor 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Sohn | ca. 1730? - 1796 | Hochzeit 1760, Tod 1796 |
 | **Etienne Cabos** | Sohn | 1737 - 1808 | Taufe 1737, Tod Berlin |
 | **Pierre Cabos** | Sohn | 1740 - ? | Taufe 1740 |
+| **[Anne Cabos](hochzeit-anne-1771.md)** | Tochter | ca. 1742 - ? | Heirat 1771 |
 
 ---
 

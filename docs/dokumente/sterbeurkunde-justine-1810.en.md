@@ -44,7 +44,14 @@ The entry provides a poignant insight into the fate of the family:
 | **2 Sons** | Adults |
 | **1 Son** | Missing for 20 years |
 
-The missing son - probably one of the older sons from the Stettin period - had disappeared around 1790, during the Rotterdam years. What became of him remains a mystery in the family history.
+The missing son had disappeared around 1790 - still during the Rotterdam years. Comparing the entry with the nine documented children, it can be resolved with surprising precision:
+
+- The **"1 major: Tochter"** (adult daughter) is **Elisabeth** (married Pohle) - Henriette Charlotte, the only other daughter who survived childhood, must have been dead by this time (as early as 1807, Elisabeth is described as the ["only legitimate daughter"](hochzeit-elisabeth-1807.md))
+- The **two adult sons** are **Friedrich Ludwig** (36, citizen of Hamburg) and **Etienne jr.** (27, †1852 in Anklam)
+- The **minor son** is **Charles Emmanuel** (17)
+- The **missing son** must therefore have been **Johann Carl Abraham** (b. 1772) or **Franz Alexander** (b. 1776) - Johann Carl would have been about 18 around 1790. The other of the two accordingly died before 1810, without any document having been found so far.
+
+[→ Detailed analysis in the family tree](../stammbaum.md#the-reckoning-of-1810-what-became-of-the-children)
 
 ### The Luisenkirche in Charlottenburg
 

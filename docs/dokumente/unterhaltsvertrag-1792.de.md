@@ -97,7 +97,7 @@ Die 250 Gulden entsprachen:
 
 Arme Familien gaben bis zu **50% ihres Einkommens für Brot** aus.[^4] Die 250 Gulden mussten nicht nur die Reisekosten decken, sondern auch den Neuanfang in Deutschland ermöglichen - Unterkunft, Verpflegung und möglicherweise die Etablierung einer neuen Existenz.
 
-Für eine Familie mit sechs überlebenden Kindern (Johann Carl, Friedrich Ludwig, Franz Alexander, Henriette, Etienne jr. und Elisabeth) war dies zwar eine substanzielle Unterstützung, aber keineswegs ein Vermögen. Es war gerade genug, um die Reise zu finanzieren und einige Wochen oder Monate zu überbrücken.
+Für eine vielköpfige Familie war dies zwar eine substanzielle Unterstützung, aber keineswegs ein Vermögen. Es war gerade genug, um die Reise zu finanzieren und einige Wochen oder Monate zu überbrücken. Wie viele Kinder 1792 tatsächlich noch im Haushalt lebten, ist übrigens unklar: Einer der älteren Söhne war laut dem [Sterbeeintrag der Mutter (1810)](sterbeurkunde-justine-1810.md) bereits *"seit 20 Jahren"* - also seit etwa 1790 - verschollen, und auch die Spur der Tochter Henriette (geb. 1777) verliert sich früh.
 
 **Zum Vergleich:** Der Maler Vermeer hatte im 17. Jahrhundert eine Brotschuld von 617 Gulden angehäuft - was mehreren Jahren Brotversorgung für eine Familie entsprach.[^3] Dies verdeutlicht, wie schnell auch größere Summen aufgebraucht werden konnten.
 
@@ -108,7 +108,7 @@ Für eine Familie mit sechs überlebenden Kindern (Johann Carl, Friedrich Ludwig
 
 ### Die Einladung nach Deutschland
 
-Die Familie wurde von Verwandten nach Deutschland eingeladen. Wer diese Verwandten waren, ist nicht dokumentiert - möglicherweise Kontakte aus der Stettiner Zeit oder andere hugenottische Familien in Berlin.
+Die Familie wurde von Verwandten nach Deutschland eingeladen. Wer diese Verwandten waren, ist nicht dokumentiert. Am naheliegendsten ist die **Familie der Ehefrau**: Maria Justine Siercken stammte aus **Templin bei Berlin** - und tatsächlich zog die Familie 1792 genau dorthin, nach Berlin. Denkbar sind daneben Kontakte aus der Stettiner Zeit oder andere hugenottische Familien in Berlin.
 
 ---
 

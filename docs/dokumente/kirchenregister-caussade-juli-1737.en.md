@@ -159,7 +159,7 @@ The baptismal entry of **Etienne Cabos** (entry 6) shows a clear contrast:
 - Godmother is a **lady** (Claire St. Genies)
 - Mother is referred to as **"Demoiselle"** (Miss/Lady) – an honorific title
 
-The Cabos family belonged to the **educated, literate bourgeoisie** – a minority in Caussade. This social position also explains why Etienne was later able to pursue a career as **surgeon in Prussian service**.
+The Cabos family belonged to the **educated, literate bourgeoisie** – a minority in Caussade. This social position and the proximity to medical professional circles (the godfather was a master surgeon) could explain why Etienne was able to establish himself decades later in Berlin as a **dentist ("Dentiste")**.
 
 ### Statistics of this page
 
@@ -181,7 +181,7 @@ This church register page documents not only the birth of **Etienne Cabos**, but
 3. **The educational privileges** of the Cabos family
 4. **Everyday life in a small French town** before the Revolution
 
-The fact that Laurens Cabos could write and his son had a **surgeon** as godfather shows the social position that later enabled Etienne to learn the profession of surgeon and enter Prussian service.
+The fact that Laurens Cabos could write and a **master surgeon** stood as godfather to his son shows the social position of the family - an environment that makes Etienne's later career as a **dentist** in Berlin plausible. (In Prussia he initially served as a common soldier.)
 
 ---
 

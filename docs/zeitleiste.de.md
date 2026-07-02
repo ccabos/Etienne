@@ -134,6 +134,14 @@ Rochette + 3 Grenier-Brüder hingerichtet.<br>
 </div>
 
 <div class="timeline-item left" style="margin-top: 3px;">
+<div class="timeline-year">1771</div>
+<div class="timeline-event">💒 <a href="dokumente/hochzeit-anne-1771.md">Hochzeit Anne Cabos</a></div>
+<div class="timeline-location">2. Oktober - Réalville bei Caussade</div>
+Schwester Anne heiratet Pierre Lacombe.<br>
+<em>Vater Laurens wird als "feu" (verstorben) genannt - er starb zwischen 1760 und 1771</em>
+</div>
+
+<div class="timeline-item left" style="margin-top: 3px;">
 <div class="timeline-year">1796</div>
 <div class="timeline-event">✝️ Tod Jean Cabos</div>
 <div class="timeline-location">4. November - Caussade</div>
@@ -315,6 +323,7 @@ Begräbnis am 24. Dezember 1866
 | 1740 | 3 | Bruder Pierre geboren | Caussade |
 | 1760 | 23 | Bruder Jean heiratet Jeanne Fournier | Caussade |
 | 1761-62 | 24-25 | Affäre Rochette - Hinrichtungen | Caussade/Toulouse |
+| 1771 | 34 | Schwester Anne heiratet Pierre Lacombe; Vater Laurens bereits verstorben | Réalville bei Caussade |
 | 1772 | 35 | Hochzeit mit Maria Justine Siercken | Stettin, Preußen |
 | 1772-1777 | 35-40 | Vier Kinder geboren | Stettin |
 | 1778-1779 | 41-42 | Kartoffelkrieg | Böhmen |
@@ -333,7 +342,10 @@ Begräbnis am 24. Dezember 1866
 
 | Jahr | Ereignis | Ort |
 |------|----------|-----|
+| 1806 | Friedrich Ludwig wird Bürger (28. März) und heiratet Anna Monica Jacobsen (4. Mai, St. Michaelis) | Hamburg |
 | 1810 | Tod Maria Justine Siercken (56 J.) | Charlottenburg |
+| 1852 | Tod Charles Emmanuel Cabos (23. Januar) | Lippehne |
+| 1852 | Tod Etienne Cabos jr. (17. Mai) | Anklam |
 | 1866 | Tod Anne Elisabeth Pohle, geb. Cabos (81 J.) | Groß Jehser |
 
 ---

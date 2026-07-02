@@ -48,7 +48,7 @@ Between the years 1772 and 1777, four children were born in Stettin to the coupl
 
 ### Description
 
-**Friedrich Ludwig Abraham Isaac** was the second child. He later moved to Hamburg, where he became a citizen on March 28, 1806, and married Anna Monica Jacobsen on May 4, 1806, at the Hamburger Michel. Afterwards, he moved to Königsberg.
+**Friedrich Ludwig Abraham Isaac** was the second child. He came to Hamburg around 1794, became a citizen there on March 28, 1806, and married Anna Monica Jacobsen, widow Nettelbroth, on May 4, 1806, at the Hamburger Michel. The marriage register gives his trade as **"Mahler"** (painter). Afterwards, he moved to Königsberg.
 
 ---
 

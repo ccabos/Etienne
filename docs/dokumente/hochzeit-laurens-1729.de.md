@@ -21,12 +21,6 @@
 
 ---
 
-## Transkription
-
-*[Transkription des Originaleintrags hier einfügen]*
-
----
-
 ## Beschreibung
 
 Am **14. Juli 1729** heirateten **Laurens Cabos**, der Vater von Etienne, und **Marie Rey** in Caussade. Die Hochzeit wurde in der katholischen Kirche vollzogen - wie es das französische Gesetz zu dieser Zeit verlangte. Für Protestanten gab es keine legale Möglichkeit einer reformierten Trauung.

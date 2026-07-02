@@ -24,12 +24,6 @@
 
 ---
 
-## Transcription
-
-*[Insert transcription of original entry here]*
-
----
-
 ## Description
 
 On **July 9, 1737**, **Etienne Cabos** was born as the son of Laurens Cabos and Marie Rey in Caussade. The very next day, on July 10, he was baptized - a then-common practice of quick baptism due to high infant mortality rates.

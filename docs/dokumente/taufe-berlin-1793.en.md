@@ -9,6 +9,9 @@
 !!! note "Source"
     Church register of the French Reformed Friedrichstadt Church, Berlin
 
+!!! note "'Templin en Pomeranie'"
+    The entry erroneously locates Templin, the mother's birthplace, "in Pomerania" - in fact Templin lies in the **Uckermark (Brandenburg)**. Such geographic inaccuracies are common in church registers.
+
 ---
 
 ## Document Information
@@ -24,12 +27,6 @@
 | **Mother** | Maria Justine Siercken |
 | **Godfather** | Charles Emanuel Baron de Hoffstaedt, Privy Councilor |
 | **Godmother** | Agnes Louise Amelie Palmie, née Rauch |
-
----
-
-## Transcription
-
-*[Insert transcription of original entry here]*
 
 ---
 
@@ -55,6 +52,9 @@ The godparents show that the family had connections to higher circles despite th
 
 - **Charles Emanuel Baron de Hoffstaedt** - Privy Councilor
 - **Agnes Louise Amelie Palmie, née Rauch** - from a distinguished family
+
+!!! info "The godmother Palmié and the Bulletin of 1907"
+    The godmother comes from the Berlin Huguenot family **Palmié** - the very family whose correspondence is evaluated in the [Bulletin of 1907](bulletin-1907.md), in which Etienne Cabos is mentioned by name. The godparenthood of 1793 thus presumably explains **why** Cabos appears in the Palmié correspondence: the families knew each other personally. The correspondence also connected Berlin with Etienne's region of origin - the Palmiés wrote, among others, to Thomas Thuet, and the Thuet family was already represented as relatives of the bride at the [marriage contract of Etienne's brother Jean](hochzeit-jean-1760.md) in Caussade in 1760.
 
 ---
 

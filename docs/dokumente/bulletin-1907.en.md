@@ -71,7 +71,7 @@ This passage casts a completely new light on Etienne Cabos:
 | **1792 driven from Holland** | ✅ Confirmed | Matches the maintenance contract from April 1792, but "French occupation forces" is anachronistic - the French only came in 1795 |
 | **Lost belongings** | ⚠️ Possible | Matches the family's financial distress |
 | **Barber, dentist, perfumer** | ✅ Partially confirmed | The activity as a dentist is documented in the Hallische Anzeigen |
-| **Regiment de Brévern** | ⚠️ Divergent | Other sources mention Regiment No. 8 (von Hacke) |
+| **Regiment de Brévern** | ⚠️ Plausibly explainable | "de Brévern" is presumably a corruption of **"von Bevern"**: the [church register of the Stettin garrison church (1779)](kriegsende-1779.md) explicitly mentions the **"v. Bevernsche Regiment"** alongside the "v. Hackesche" in the same garrison. Either Cabos served there for a time, or the letter writer confused the two Stettin regiments |
 | **Corporal punishment** | ✅ Historically correct | The Prussian army was known for its harsh discipline |
 | **Wife inherited from officer** | ❓ Not verified | No other source mentions this |
 | **1802 in hospital** | ⚠️ Partial | Etienne died in 1808 in the hospital; 1802 would be earlier |
@@ -86,6 +86,9 @@ Nevertheless, this source is valuable because it:
 - Confirms his varied occupations
 - Provides hints of family tragedies in Caussade
 - Describes the harsh living conditions in the Prussian army
+
+!!! info "Why did the Palmiés know the Cabos family?"
+    The connection is documented: **Agnes Louise Amelie Palmié, née Rauch**, was [godmother of Etienne's son Charles Emmanuel](taufe-berlin-1793.md) in 1793. The families therefore knew each other personally - which explains why Cabos is described in such detail (even if not always correctly) in the Palmié correspondence.
 
 ---
 

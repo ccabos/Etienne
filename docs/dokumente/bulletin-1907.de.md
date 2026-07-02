@@ -71,7 +71,7 @@ Diese Passage wirft ein völlig neues Licht auf Etienne Cabos:
 | **1792 aus Holland vertrieben** | ✅ Bestätigt | Passt zum Unterhaltsvertrag vom April 1792, aber "französische Besatzungsmacht" ist anachronistisch - die Franzosen kamen erst 1795 |
 | **Habseligkeiten verloren** | ⚠️ Möglich | Passt zur finanziellen Notlage der Familie |
 | **Friseur, Zahnarzt, Parfümeur** | ✅ Teilweise bestätigt | Die Tätigkeit als Zahnarzt ist durch die Hallischen Anzeigen belegt |
-| **Regiment de Brévern** | ⚠️ Abweichend | Andere Quellen nennen das Regiment Nr. 8 (von Hacke) |
+| **Regiment de Brévern** | ⚠️ Plausibel erklärbar | "de Brévern" ist vermutlich eine Verballhornung von **"von Bevern"**: Das [Kirchenbuch der Garnisonkirche Stettin (1779)](kriegsende-1779.md) nennt neben dem "v. Hackeschen" ausdrücklich das **"v. Bevernsche Regiment"** in derselben Garnison. Entweder diente Cabos zeitweise dort, oder der Briefschreiber verwechselte die beiden Stettiner Regimenter |
 | **Prügelstrafe** | ✅ Historisch korrekt | Die preußische Armee war für ihre harte Disziplin bekannt |
 | **Frau erbte von Offizier** | ❓ Nicht verifiziert | Keine andere Quelle erwähnt dies |
 | **1802 im Krankenhaus** | ⚠️ Teilweise | Etienne starb 1808 im Krankenhaus; 1802 wäre früher |
@@ -86,6 +86,9 @@ Dennoch ist diese Quelle wertvoll, weil sie:
 - Seine vielfältigen Berufe bestätigt
 - Hinweise auf familiäre Tragödien in Caussade gibt
 - Die harten Lebensbedingungen in der preußischen Armee beschreibt
+
+!!! info "Warum kannten die Palmiés die Familie Cabos?"
+    Die Verbindung ist dokumentiert: **Agnes Louise Amelie Palmié, geb. Rauch**, war 1793 [Taufpatin von Etiennes Sohn Charles Emmanuel](taufe-berlin-1793.md). Die Familien kannten sich also persönlich - das erklärt, warum Cabos in der Palmié-Korrespondenz so detailliert (wenn auch nicht immer korrekt) beschrieben wird.
 
 ---
 

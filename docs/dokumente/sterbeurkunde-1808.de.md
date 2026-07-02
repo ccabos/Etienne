@@ -9,6 +9,9 @@
 !!! note "Ortsname 'Kochshagen'"
     Der Schreiber notierte den Geburtsort als "Kochshagen" - eine phonetische Verballhornung von **Caussade**. Der französische Ortsname war dem deutschsprachigen Kirchenbuchführer offenbar nicht geläufig.
 
+!!! note "Vatersname 'Etienne' statt 'Laurens'"
+    Der Eintrag nennt als Vater **"Etienne Cabos"** - nach allen Dokumenten aus Caussade (Hochzeit 1729, Taufen 1737 und 1740, Ehevertrag 1760, Heirat Anne 1771) hieß der Vater jedoch **Laurens (Laurent) Cabos**. Die Mutter **Marie Rey** ist dagegen korrekt angegeben - ein starker Beleg dafür, dass es sich um dieselbe Familie handelt. Vermutlich lag dem Kirchenbuchführer der Vatersname nicht vor, und er übernahm irrtümlich den Namen des Verstorbenen; denkbar ist auch, dass die Auskunftsperson (Etienne war im Krankenhaus gestorben, getrennt von seiner Familie) den Namen schlicht nicht kannte.
+
 ---
 
 ## Dokumentinformationen

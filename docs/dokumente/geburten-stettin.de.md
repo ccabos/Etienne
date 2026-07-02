@@ -51,7 +51,7 @@ In den Jahren 1772 bis 1777 wurden in Stettin vier Kinder des Ehepaares Stephan 
 
 ### Beschreibung
 
-**Friedrich Ludwig Abraham Isaac** war das zweite Kind. Er ging später nach Hamburg, wurde dort am 28. März 1806 Bürger und heiratete am 4. Mai 1806 Anna Monica Jacobsen im Hamburger Michel. Danach zog er nach Königsberg.
+**Friedrich Ludwig Abraham Isaac** war das zweite Kind. Er kam um 1794 nach Hamburg, wurde dort am 28. März 1806 Bürger und heiratete am 4. Mai 1806 Anna Monica Jacobsen, verwitwete Nettelbroth, im Hamburger Michel. Das Traubuch nennt als sein Gewerbe **"Mahler"** (Maler). Danach zog er nach Königsberg.
 
 ---
 

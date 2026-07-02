@@ -1,13 +1,11 @@
 # Citizen Book Rotterdam (Poorterboek) - 1780
 
-![Citizen Book Rotterdam](../images/buergerbuch-rotterdam.jpg){ loading=lazy }
-
 *"Etienne Cabos geb. te Caussade is poorter geedt. Present de Hoere, van Alphen en van der Does, Burgemeesters"*
 
 *Entry in the Citizen Book (Poorterboek) in Rotterdam from May 24, 1780, p. 158. They reside at Vissersdijk.*
 
-!!! info "Image Note"
-    Please add the image `buergerbuch-rotterdam.jpg` to the `docs/images/` folder.
+!!! info "No scan available"
+    No image file of this entry is available so far - the transcription comes from the Poorterboek Rotterdam, p. 158.
 
 ---
 

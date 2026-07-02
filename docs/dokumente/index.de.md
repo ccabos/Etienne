@@ -4,7 +4,7 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
 
 ---
 
-## Frankreich (1729-1760)
+## Frankreich (1729-1771)
 
 <div class="grid cards" markdown>
 
@@ -57,6 +57,16 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
     Bruder Jean heiratet Jeanne Fournier
 
     [→ Details](hochzeit-jean-1760.md)
+
+-   **Hochzeit Anne Cabos 1771**
+
+    ---
+
+    ![Hochzeit Anne 1771](../images/hochzeit-anne-1771-1.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Schwester Anne heiratet Pierre Lacombe
+
+    [→ Details](hochzeit-anne-1771.md)
 
 </div>
 

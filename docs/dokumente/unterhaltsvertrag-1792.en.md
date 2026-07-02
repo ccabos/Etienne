@@ -97,7 +97,7 @@ The 250 guilders corresponded to:
 
 Poor families spent up to **50% of their income on bread**.[^4] The 250 guilders had to cover not only the travel costs, but also enable a fresh start in Germany - accommodation, provisions, and possibly the establishment of a new livelihood.
 
-For a family with six surviving children (Johann Carl, Friedrich Ludwig, Franz Alexander, Henriette, Etienne jr., and Elisabeth), this was indeed substantial support, but by no means a fortune. It was just enough to finance the journey and bridge a few weeks or months.
+For a large family, this was indeed substantial support, but by no means a fortune. It was just enough to finance the journey and bridge a few weeks or months. Incidentally, how many children were actually still living in the household in 1792 is unclear: according to the [death entry of the mother (1810)](sterbeurkunde-justine-1810.md), one of the older sons had already been missing *"for 20 years"* - i.e. since about 1790 - and the trail of the daughter Henriette (b. 1777) also disappears early.
 
 **For comparison:** The painter Vermeer had accumulated a bread debt of 617 guilders in the 17th century - which corresponded to several years of bread supply for a family.[^3] This illustrates how quickly even larger sums could be exhausted.
 
@@ -108,7 +108,7 @@ For a family with six surviving children (Johann Carl, Friedrich Ludwig, Franz A
 
 ### The Invitation to Germany
 
-The family was invited to Germany by relatives. Who these relatives were is not documented - possibly contacts from the Stettin period or other Huguenot families in Berlin.
+The family was invited to Germany by relatives. Who these relatives were is not documented. The most obvious candidates are the **wife's family**: Maria Justine Siercken came from **Templin near Berlin** - and indeed, in 1792 the family moved exactly there, to Berlin. Contacts from the Stettin period or other Huguenot families in Berlin are also conceivable.
 
 ---
 

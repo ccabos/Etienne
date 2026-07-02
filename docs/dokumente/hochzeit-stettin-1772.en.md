@@ -23,12 +23,6 @@
 
 ---
 
-## Transcription
-
-*[Insert transcription of original entry here]*
-
----
-
 ## Description
 
 On **July 16, 1772**, **Etienne Cabos** - now under the Germanized name **Stephan Cabos** - married **Maria Justine Siercken** in Stettin. The bride was only 18 years old and came from Templin near Berlin, where her father worked as a town musician.

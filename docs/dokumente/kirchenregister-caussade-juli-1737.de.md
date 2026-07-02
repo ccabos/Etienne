@@ -159,7 +159,7 @@ Der Taufeintrag von **Etienne Cabos** (Eintrag 6) zeigt einen deutlichen Kontras
 - Patin ist eine **Dame** (Claire St. Genies)
 - Mutter wird als **„Demoiselle"** (Fräulein/Dame) bezeichnet – ein Ehrentitel
 
-Die Familie Cabos gehörte zur **gebildeten, schreibkundigen Bürgerschicht** – eine Minderheit in Caussade. Diese soziale Stellung erklärt auch, warum Etienne später als **Chirurg in preußischen Diensten** Karriere machen konnte.
+Die Familie Cabos gehörte zur **gebildeten, schreibkundigen Bürgerschicht** – eine Minderheit in Caussade. Diese soziale Stellung und die Nähe zu medizinischen Berufskreisen (der Pate war Meisterchirurg) könnten erklären, warum Etienne sich Jahrzehnte später in Berlin als **Zahnarzt ("Dentiste")** etablieren konnte.
 
 ### Statistik der Seite
 
@@ -181,7 +181,7 @@ Diese Kirchenregister-Seite dokumentiert nicht nur die Geburt von **Etienne Cabo
 3. **Die Bildungsprivilegien** der Familie Cabos
 4. **Den Alltag einer französischen Kleinstadt** vor der Revolution
 
-Die Tatsache, dass Laurens Cabos schreiben konnte und sein Sohn bei einem **Chirurgen** zur Patenschaft war, zeigt die gesellschaftliche Position, die es Etienne später ermöglichte, den Beruf des Chirurgen zu erlernen und in preußische Dienste zu treten.
+Die Tatsache, dass Laurens Cabos schreiben konnte und ein **Meisterchirurg** die Patenschaft für seinen Sohn übernahm, zeigt die gesellschaftliche Position der Familie - ein Umfeld, das Etiennes spätere Laufbahn als **Zahnarzt** in Berlin plausibel macht. (In Preußen diente er zunächst als einfacher Soldat.)
 
 ---
 

@@ -37,6 +37,7 @@ NAV = [
     ("Kirchenregister Caussade Juli 1737", "dokumente/kirchenregister-caussade-juli-1737.de.md"),
     ("Taufe Pierre 1740", "dokumente/taufe-pierre-1740.de.md"),
     ("Hochzeit Jean Cabos 1760", "dokumente/hochzeit-jean-1760.de.md"),
+    ("Hochzeit Anne Cabos 1771", "dokumente/hochzeit-anne-1771.de.md"),
     ("Hochzeit Stettin 1772", "dokumente/hochzeit-stettin-1772.de.md"),
     ("Geburten Stettin 1772-1777", "dokumente/geburten-stettin.de.md"),
     ("Kirchenbuch Kriegsende 1779", "dokumente/kriegsende-1779.de.md"),
@@ -150,6 +151,7 @@ def clean_markdown(text, file_dir):
 
     # Convert internal links to plain text
     text = re.sub(r'\[([^\]]+)\]\([^)]*\.md[^)]*\)', r'\1', text)
+    text = re.sub(r'\[([^\]]+)\]\(#[^)]*\)', r'\1', text)
 
     # Strip emojis
     text = strip_emojis(text)

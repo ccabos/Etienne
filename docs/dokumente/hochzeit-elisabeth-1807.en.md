@@ -8,6 +8,10 @@
 
 *Marriage entry Anne Elisabeth Cabos and August Friedrich Ferdinand Pohle, August 16, 1807, Luisenkirche Charlottenburg.*
 
+> *"No. 14 — Dom. 9. 10 & 11 post Trinitatis — Herr August Friedrich Ferdinand Pohle, Stadt-Chirurgus und Accoucheur hieselbst, mit Jungfer Elisabeth Cabos, des Kaufmanns zu Rotterdam Herrn Stephan Cabos einzige[?] eheliche Tochter. Copuliert den 16ten August"*
+
+*No. 14 — [Banns published on] the 9th, 10th and 11th Sunday after Trinity — Mr. August Friedrich Ferdinand Pohle, town surgeon and accoucheur (obstetrician) here, with Miss Elisabeth Cabos, only legitimate daughter of Mr. Stephan Cabos, merchant in Rotterdam. Married on August 16.*
+
 ### Death Certificate (1866)
 
 ![Death Certificate Anne Elisabeth 1866](../images/Tod_Anne_Elisabeth.jpg){ loading=lazy }
@@ -63,7 +67,11 @@ The marriage took place **one year before her father's death**:
 - **September 14, 1808**: Etienne Cabos dies in Charlottenburg
 - **September 10, 1810**: Maria Justine Siercken dies in Charlottenburg
 
-Elisabeth was 21 years old at the time of the marriage. Her husband August Friedrich Ferdinand Pohle was a city surgeon - a respected profession, which shows that Elisabeth made a good match despite her family's financial difficulties.
+Elisabeth was 21 years old at the time of the marriage. Her husband August Friedrich Ferdinand Pohle was a town surgeon and **accoucheur** (obstetrician) - respected professions, which shows that Elisabeth made a good match despite her family's financial difficulties.
+
+### "Only legitimate daughter" - an important clue
+
+The entry describes Elisabeth as the **"only legitimate daughter"** of Stephan Cabos. This is genealogically revealing: Etienne had a total of **four daughters** - Henriette Charlotte (1777), Marie Christine (~1779), Justine (1780) and Elisabeth (1785). Marie Christine and Justine demonstrably died as infants in Rotterdam. The fact that Elisabeth counts as the *only* daughter in 1807 means: **Henriette Charlotte must also have been dead by this time** - her place and date of death are so far unknown. The [death entry of the mother (1810)](sterbeurkunde-justine-1810.md), which mentions only one surviving daughter, confirms this picture.
 
 ### The Luisenkirche in Charlottenburg
 

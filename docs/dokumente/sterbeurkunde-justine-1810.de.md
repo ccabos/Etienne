@@ -44,7 +44,14 @@ Der Eintrag gibt einen bewegenden Einblick in das Schicksal der Familie:
 | **2 Söhne** | Volljährig |
 | **1 Sohn** | Seit 20 Jahren verschollen |
 
-Der verschollene Sohn - wahrscheinlich einer der älteren Söhne aus der Stettiner Zeit - war seit etwa 1790 verschwunden, also noch während der Rotterdamer Jahre. Was aus ihm wurde, bleibt ein Rätsel der Familiengeschichte.
+Der verschollene Sohn war seit etwa 1790 verschwunden - also noch während der Rotterdamer Jahre. Gleicht man den Eintrag mit den neun dokumentierten Kindern ab, lässt er sich erstaunlich genau auflösen:
+
+- Die **"1 major: Tochter"** ist **Elisabeth** (verheiratete Pohle) - Henriette Charlotte, die einzige andere Tochter, die das Kindesalter überlebte, muss zu diesem Zeitpunkt bereits tot gewesen sein (schon 1807 wird Elisabeth als ["einzige eheliche Tochter"](hochzeit-elisabeth-1807.md) bezeichnet)
+- Die **zwei volljährigen Söhne** sind **Friedrich Ludwig** (36, Bürger in Hamburg) und **Etienne jr.** (27, †1852 in Anklam)
+- Der **minderjährige Sohn** ist **Charles Emmanuel** (17)
+- Der **verschollene Sohn** muss also **Johann Carl Abraham** (geb. 1772) oder **Franz Alexander** (geb. 1776) gewesen sein - Johann Carl wäre um 1790 etwa 18 Jahre alt gewesen. Der jeweils andere der beiden ist demnach vor 1810 gestorben, ohne dass bisher ein Dokument gefunden wurde.
+
+[→ Ausführliche Analyse im Stammbaum](../stammbaum.md#die-bilanz-von-1810-was-wurde-aus-den-kindern)
 
 ### Die Luisenkirche in Charlottenburg
 

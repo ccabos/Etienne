@@ -137,12 +137,13 @@ This document substantially expands our picture of the Cabos family:
 
 | Person | Role | Life Dates | Source |
 |--------|-------|-------------|--------|
-| **Laurent Cabos** | Father | ? - ? | Marriage 1729, Marriage contract Jean 1760 |
+| **Laurent Cabos** | Father | ? - between 1760 and 1771 | Marriage 1729, Marriage contract Jean 1760, [Marriage Anne 1771](hochzeit-anne-1771.md) ("feu") |
 | **Marie Rey** | Mother | ? - ? | Marriage 1729 |
 | **??? Cabos** | "Older brother" (executed?) | before 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Son | ca. 1730? - 1796 | Marriage 1760, Death Caussade 1796 |
 | **Etienne Cabos** | Son | 1737-1808 | Baptism 1737, Death Berlin 1808 |
 | **[Pierre Cabos](taufe-pierre-1740.md)** | Son | 1740 - ? | Baptism 1740 |
+| **[Anne Cabos](hochzeit-anne-1771.md)** | Daughter | ca. 1742 - ? | Marriage 1771 |
 
 ### Social Network
 
@@ -154,6 +155,8 @@ The witnesses at the wedding show a network of merchants and bourgeois:
 - **Fournier** - Family of the bride, bourgeois
 
 The **Thuet** family is particularly interesting: The 1907 Bulletin mentions a **Thomas Thuet** who corresponded with J.-M. Palmié in Berlin!
+
+The **Lacombe** family also reappears: in 1771, Etienne's sister **Anne Cabos** married a **Pierre Lacombe** - with an episcopal dispensation for consanguinity. [→ To the marriage of Anne 1771](hochzeit-anne-1771.md)
 
 ---
 

@@ -6,16 +6,28 @@
 
 | Source | Description | Date |
 |--------|-------------|------|
-| Kirchenbuch Caussade | Baptism record Etienne Cabos | July 10, 1737 |
 | Kirchenbuch Caussade | Marriage record Laurens Cabos and Marie Rey | July 14, 1729 |
+| Kirchenbuch Caussade | Baptism record Etienne Cabos | July 10, 1737 |
+| Kirchenbuch Caussade | Baptism record Pierre Cabos | November 1, 1740 |
+| Notary Lacombe, Caussade | Marriage contract Jean Cabos and Jeanne Fournier | February 3, 1760 |
+| Protestant register Montauban (1757-1764) | Wedding of Jean Cabos by Pastor Lafond ("au Désert") | February 8, 1760 |
+| Church register Saint-Jean de Réalville | Marriage record Anne Cabos and Pierre Lacombe (father Laurens recorded as "feu"/deceased) | October 2, 1771 |
+| Civil register Commune de Caussade | Death record Jean Cabos (14 Brumaire An V) | November 4, 1796 |
 
 ### Prussia (Stettin)
 
 | Source | Description | Date |
 |--------|-------------|------|
 | Kirchenbuch Stettin | Marriage record Stephan Cabos and Justine Maria Siercken | July 16, 1772 |
-| Kirchenbuch Stettin | Baptism records of the children | 1772-1779 |
-| Französische reformierte Kirche Isenburg | Pass for Etienne Cabos | April 10, 1780 |
+| Kirchenbuch Stettin (garrison church) | Baptism records of the children | 1772-1779 |
+| Kirchenbuch garrison church Stettin | Entries on the war's end ("Getaufte während der Campagne 1778 u 1779") | 1779 |
+
+### On the Way to Holland
+
+| Source | Description | Date |
+|--------|-------------|------|
+| French Reformed congregation of (Neu-)Isenburg | Pass for Etienne Cabos ([digitized at FamilySearch](https://familysearch.org/ark:/61903/3:1:3QS7-89QV-ZV7J?i=404&cc=2037907)) | April 10, 1780 |
+| French Reformed congregation of (Neu-)Isenburg | Pass for Susanne Elisabeth Sollerolle (the family's maid) | April 10, 1780 |
 
 ### Netherlands (Rotterdam)
 
@@ -29,14 +41,29 @@
 | DTB Rotterdam Doop Waals | Baptism Elisabeth | September 25, 1785 |
 | Konsistorium Rotterdam | Maintenance contract | April 18, 1792 |
 
-### Prussia (Berlin/Charlottenburg)
+### Prussia (Berlin/Charlottenburg/Halle)
 
 | Source | Description | Date |
 |--------|-------------|------|
 | Kirchenbuch der franz. ref. Friedrichstadtkirche Berlin | Baptism Charles Emmanuel | February 1, 1793 |
-| Kirchenbuch der Luisenkirche Charlottenburg | Marriage Elisabeth Cabos | August 16, 1807 |
+| Wöchentliche Hallische Anzeigen, p. 100 | Advertisement of the dentist Cabos | March 27, 1794 |
+| Wöchentliche Hallische Anzeigen, p. 8 | Advertisement of the dentist Cabos | January 4, 1798 |
+| Kirchenbuch der Luisenkirche Charlottenburg | Marriage Elisabeth Cabos ("only legitimate daughter") | August 16, 1807 |
 | Kirchenbuch der franz. ref. Friedrichstadtkirche Berlin | Death record Etienne Cabos | September 14, 1808 |
 | Kirchenbuch der Luisenkirche Charlottenburg | Death record Maria Justine Cabos | September 10, 1810 |
+
+### Hamburg (Son Friedrich Ludwig)
+
+| Source | Description | Date |
+|--------|-------------|------|
+| Citizen register Hamburg | Friedrich Ludwig Abraham Isaac Cabos becomes citizen | March 28, 1806 |
+| Marriage register St. Michaelis, Hamburg | Marriage Friedrich Ludwig Cabos and Anna Monica Jacobsen, widow Nettelbroth | May 4, 1806 |
+
+### Brandenburg (Daughter Anne Elisabeth)
+
+| Source | Description | Date |
+|--------|-------------|------|
+| Kirchenbuch Groß Jehser | Death record Anne Elisabeth Pohle, née Cabos | December 21, 1866 |
 
 ---
 
@@ -47,6 +74,7 @@
 | Source | Description | Year |
 |--------|-------------|------|
 | [Bulletin archéologique et historique de la Société archéologique de Tarn-et-Garonne, Tome 35](dokumente/bulletin-1907.md) | French report on the Huguenot colony in Berlin, contains correspondence of the Palmié and Humbert families. **Mentions Etienne Cabos by name.** Publisher: Société archéologique de Tarn-et-Garonne, Montauban. [Online at Gallica (BnF)](https://gallica.bnf.fr/ark:/12148/bpt6k5663511j) | 1907 |
+| Nickol, Thomas: "The Availability of Dental Care in Halle: A Local Study" | Study on dental care in Halle around 1800, analyzing the advertisements of Cabos in the Wöchentliche Hallische Anzeigen. In: *Dental Practice in Europe at the End of the Eighteenth Century* | - |
 
 ### Huguenot History
 

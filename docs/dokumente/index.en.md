@@ -4,7 +4,7 @@ This page provides an overview of all historical original documents that chronic
 
 ---
 
-## France (1729-1760)
+## France (1729-1771)
 
 <div class="grid cards" markdown>
 
@@ -57,6 +57,16 @@ This page provides an overview of all historical original documents that chronic
     Brother Jean marries Jeanne Fournier
 
     [→ Details](hochzeit-jean-1760.md)
+
+-   **Marriage Anne Cabos 1771**
+
+    ---
+
+    ![Marriage Anne 1771](../images/hochzeit-anne-1771-1.jpg){ .card-image style="height:120px; object-fit:cover; width:100%;" }
+
+    Sister Anne marries Pierre Lacombe
+
+    [→ Details](hochzeit-anne-1771.md)
 
 </div>
 

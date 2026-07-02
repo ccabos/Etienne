@@ -117,12 +117,46 @@ def clean_markdown(text, file_dir):
     text = re.sub(r'</?div[^>]*>', '', text)
     text = re.sub(r'<span[^>]*>.*?</span>', '', text, flags=re.DOTALL)
 
-    # Admonitions
+    # Merge italic translation paragraphs into preceding blockquote so they
+    # render inside the same styled transcript box. Pattern:
+    #     > *"original"*
+    #
+    #     *translation*
+    # becomes:
+    #     > *"original"*
+    #     >
+    #     > *translation*
+    bq_italic_pattern = re.compile(
+        r'((?:^> [^\n]*\n)+)\n(\*[^\n*][^\n]*?\*)\s*\n',
+        re.MULTILINE,
+    )
+    def merge_italic_into_bq(m):
+        bq_block = m.group(1).rstrip('\n')
+        italic = m.group(2)
+        return bq_block + '\n>\n> ' + italic + '\n'
+    # Run repeatedly so consecutive translations get merged in turn
+    prev = None
+    while prev != text:
+        prev = text
+        text = bq_italic_pattern.sub(merge_italic_into_bq, text)
+
+    # Also handle "**Übersetzung:**\n*translation*" following blockquote
+    bq_uebersetzung_pattern = re.compile(
+        r'((?:^> [^\n]*\n)+)\n\*\*Übersetzung:\*\*\s*\n(\*[^\n]+?\*)\s*\n',
+        re.MULTILINE,
+    )
+    def merge_uebersetzung(m):
+        bq_block = m.group(1).rstrip('\n')
+        translation = m.group(2)
+        return bq_block + '\n>\n> ' + translation + '\n'
+    text = bq_uebersetzung_pattern.sub(merge_uebersetzung, text)
+
+    # Admonitions: render as bold-italic intro paragraph (NOT blockquote/transcript box)
     def admonition_sub(m):
         title = m.group(2) or m.group(1).capitalize()
         body = m.group(3)
-        body = re.sub(r'^    ', '', body, flags=re.MULTILINE)
-        return f'\n> **{title}:** {body}\n'
+        body = re.sub(r'^    ', '', body, flags=re.MULTILINE).strip()
+        return f'\n**{title}:** *{body}*\n'
     text = re.sub(
         r'^!!! (\w+)(?: "([^"]*)")?\n((?:    .*\n?)+)',
         admonition_sub, text, flags=re.MULTILINE
@@ -176,6 +210,15 @@ def md_to_html(md_text):
         lambda m: '<!--BQ_START-->' + m.group(1).strip() + '<!--BQ_END-->',
         html, flags=re.DOTALL
     )
+
+    # fpdf2's write_html does not support nested formatting tags inside <td>
+    # or <th> cells (it raises NotImplementedError on <strong>/<em>/<a> inside
+    # them). Strip those tags inside table cells while keeping the text.
+    def strip_inner_tags(m):
+        cell = m.group(0)
+        return re.sub(r'</?(?:strong|em|a|code|b|i)\b[^>]*>', '', cell)
+    html = re.sub(r'<td[^>]*>.*?</td>', strip_inner_tags, html, flags=re.DOTALL)
+    html = re.sub(r'<th[^>]*>.*?</th>', strip_inner_tags, html, flags=re.DOTALL)
 
     return html
 
@@ -330,36 +373,68 @@ class BookPDF(FPDF):
             pass
 
     def render_transcript_box(self, text):
-        """Render a transcript blockquote as a visually distinct box with background and left border."""
-        self.ln(5)
+        """Render a transcript blockquote as a visually distinct box with background and left border.
 
+        Renders line-by-line with manual page break handling so the background fill
+        and left border never bleed across page boundaries.
+        """
         box_x = 15  # 5mm indent from page margin (10mm)
         box_w = 180  # width of the box
         padding = 3  # mm padding inside the box
+        line_h = 5.5
+        inner_w = box_w - 2 * padding
 
+        # Split text into paragraphs to preserve blank-line spacing inside the box
+        paragraphs = re.split(r'\n\s*\n', text.strip())
+
+        self.ln(4)
         self.set_font('LibSerif', 'I', 10)
         self.set_text_color(60, 45, 30)
 
-        y_before = self.get_y()
+        # Pre-wrap each paragraph to lines using dry_run, building a flat list
+        # of (line_text, is_blank) tuples for sequential rendering.
+        rendered_lines = []
+        for i, para in enumerate(paragraphs):
+            para = para.strip()
+            if not para:
+                continue
+            if i > 0:
+                rendered_lines.append(('', True))  # blank spacer line
+            wrapped = self.multi_cell(
+                inner_w, line_h, para,
+                dry_run=True, output='LINES'
+            )
+            for ln in wrapped:
+                rendered_lines.append((ln, False))
 
-        # Render text with filled background
-        self.set_x(box_x + padding)
-        self.set_fill_color(228, 215, 197)  # Warm tan #E4D7C5
-        self.multi_cell(box_w - 2 * padding, 5.5, text, fill=True,
-                        new_x="LMARGIN", new_y="NEXT")
+        for line_text, is_blank in rendered_lines:
+            # Page break check - leave room for footer
+            if self.get_y() + line_h > (self.h - self.b_margin):
+                self.add_page()
+                # After add_page, font/colors persist but reset just in case
+                self.set_font('LibSerif', 'I', 10)
+                self.set_text_color(60, 45, 30)
 
-        y_after = self.get_y()
+            y = self.get_y()
+            # Background fill across full box width
+            self.set_fill_color(228, 215, 197)  # Warm tan #E4D7C5
+            self.rect(box_x, y, box_w, line_h, style='F')
+            # Thick brown left border for this line segment
+            self.set_draw_color(141, 110, 76)  # Brown #8D6E4C
+            self.set_line_width(1.0)
+            self.line(box_x, y, box_x, y + line_h)
+            # Render the text on top
+            if not is_blank:
+                self.set_xy(box_x + padding, y)
+                self.cell(inner_w, line_h, line_text, new_x="LMARGIN", new_y="NEXT")
+            else:
+                self.set_y(y + line_h)
 
-        # Draw thick brown left border
-        self.set_draw_color(141, 110, 76)  # Brown #8D6E4C
-        self.set_line_width(1.0)
-        self.line(box_x, y_before, box_x, y_after)
-        self.set_line_width(0.2)  # Reset line width
-
-        # Reset colors
+        # Reset state
+        self.set_line_width(0.2)
         self.set_text_color(30, 30, 30)
         self.set_draw_color(0, 0, 0)
-        self.ln(5)
+        self.ln(4)
 
     def render_section(self, nav_title, md_content, file_dir, is_document=False):
         """Render a section and return the starting page number."""
@@ -396,14 +471,20 @@ class BookPDF(FPDF):
 
             for part in bq_parts:
                 if part.startswith('<!--BQ_START-->'):
-                    # Extract text, strip HTML tags, render as styled box
+                    # Extract text, strip HTML tags, render as styled box.
+                    # Preserve paragraph breaks: <p>...</p> becomes \n\n separators.
                     inner = re.sub(r'<!--/?BQ_(?:START|END)-->', '', part).strip()
-                    plain_text = re.sub(r'<[^>]+>', ' ', inner)
+                    inner = re.sub(r'</p>\s*<p>', '\n\n', inner)
+                    inner = re.sub(r'<br\s*/?>', '\n', inner)
+                    plain_text = re.sub(r'<[^>]+>', '', inner)
                     plain_text = re.sub(r'&quot;', '"', plain_text)
                     plain_text = re.sub(r'&amp;', '&', plain_text)
                     plain_text = re.sub(r'&lt;', '<', plain_text)
                     plain_text = re.sub(r'&gt;', '>', plain_text)
-                    plain_text = re.sub(r'  +', ' ', plain_text).strip()
+                    plain_text = re.sub(r'&#39;', "'", plain_text)
+                    plain_text = re.sub(r'&nbsp;', ' ', plain_text)
+                    # Collapse multiple spaces but preserve newlines
+                    plain_text = re.sub(r'[ \t]+', ' ', plain_text).strip()
                     if plain_text:
                         self.render_transcript_box(plain_text)
                 else:

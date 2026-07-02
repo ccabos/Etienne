@@ -46,14 +46,9 @@
 
 ### Deutsche Übersetzung
 
-In dem von Notar Lacombe erhaltenen Ehevertrag entlässt **Laurent Cabos** seinen Sohn **Jean** aus der väterlichen Gewalt und gibt ihm **2 Stücke Land**, die mit Weizen besät sind.
-
-**Jeanne Fournier** (im Vertrag als Jeanne Fregevise?) gibt:
-- Das Geschäft des Hauses, in dem sie wohnt, **gegenüber der Stadtmarkthalle**
-- Den Warenbestand im Geschäft
-- Die Nutzung der Hälfte des Hauses, das vom Herrn Fraysse erworben wurde
-
-(Sie werden zusammen im Haus bleiben.)
+> In dem von Notar Lacombe erhaltenen Ehevertrag entlässt **Laurent Cabos** seinen Sohn **Jean** aus der väterlichen Gewalt und gibt ihm **2 Stücke Land**, die mit Weizen besät sind.
+>
+> **Jeanne Fournier** (im Vertrag als Jeanne Fregevise?) gibt das Geschäft des Hauses, in dem sie wohnt, gegenüber der Stadtmarkthalle, den Warenbestand im Geschäft sowie die Nutzung der Hälfte des Hauses, das vom Herrn Fraysse erworben wurde. (Sie werden zusammen im Haus bleiben.)
 
 **Anwesende Zeugen** (alle Bewohner von Caussade):
 

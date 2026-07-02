@@ -139,7 +139,7 @@ Die Behauptung über den "hingerichteten Bruder" könnte verschiedene Erklärung
 
 Das Bulletin enthält auch einen bemerkenswerten Brief Friedrichs des Großen von 1781, in dem er die Privilegien der französischen Kolonie verteidigt:
 
-> *„Da der König keinesfalls zulassen würde, dass jemand die Privilegien seiner Untertanen im Allgemeinen und der französischen Flüchtlinge im Besonderen antastet [...] hat Seine Majestät nicht nur den Antrag einiger Juden, die dasselbe Privileg anstreben, vollständig abgelehnt, sondern auch dem Generaldirektor seiner Finanzen angeordnet, dass dieses Privileg niemals aus der französischen Kolonie herausgenommen werden darf..."*
+> *„Da der König keinesfalls zulassen würde, dass jemand die Privilegien seiner Untertanen im Allgemeinen und der französischen Flüchtlinge im Besonderen antastet, haben die Inspektoren des französischen Kollegiums in Berlin keinerlei Anlass zur Beunruhigung darüber, dass die Adressbüros in der Hauptstadt und in Halle - deren herrenlose Nachlässe (déshérences) dem genannten Kollegium zugewiesen sind - den französischen Familien entzogen werden, denen sie zuerkannt wurden. Diese Familien werden vielmehr im friedlichen und ungestörten Genuss dieser Privilegien geschützt, und zu diesem Zweck hat Seine Majestät nicht nur den Antrag einiger Juden, die dasselbe Privileg anstreben, vollständig abgelehnt, sondern auch dem Generaldirektor seiner Finanzen angeordnet, dass dieses Privileg niemals aus der französischen Kolonie herausgenommen werden darf und dass die Inhaber in seiner freien und rechtmäßigen Ausübung weder gestört noch belästigt werden dürfen."*
 >
 > *Potsdam, 5. Oktober 1781.*
 >

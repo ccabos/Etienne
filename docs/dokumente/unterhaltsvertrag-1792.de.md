@@ -27,28 +27,23 @@
 
 ## Transkription (Übersetzung aus dem Niederländischen)
 
-**Versorgung / Unterhalt**
-
-*Vertrag von Étienne Cabos und seiner Ehefrau Justina Maria Siercken, die dabei sind, nach Deutschland aufzubrechen, nachdem sie 250 Gulden von der wallonischen und der lutherischen Diakonie bekommen haben am 18. April 1792.*
-
----
-
-Wir, die unterschreibenden Étienne Cabos und Justine Maria Siercken, edle Leute, zur Zeit wohnhaft in der Stadt Rotterdam, sind zu diesem Zeitpunkt bereit nach Deutschland auszureisen. Wir bestätigen hiermit, dass wir und unsere Kinder seit einigen Jahren Unterhalt bezogen, sowohl durch die ehrenwerten Herren Diakone von den Wallonen, als auch von der hiesigen lutherischen Gemeinde.
-
-Vor kurzem sind wir von dem ehrenwerten Konsistorium (kirchliche Behörde) informiert worden, dass wir die Genehmigung haben nach Deutschland zu übersiedeln um bei unserer Familie, welche uns eingeladen hat, zu wohnen. Wir nehmen dieses Angebot wahr, nicht nur um unsere unglückliche Lage zu verbessern, sondern auch die zwei Diakonien von einer schweren Last, die sie zu tragen haben um unsere Bedürfnisse zu erfüllen, zu befreien.
-
-Unser Ersuchen ist von den beiden Diakonien genehmigt worden und beide sind bereit uns zu helfen und zu unterstützen, die Wallonische Diakonie mit einer Summe von 125 Gulden und die gleiche Summe von 125 Gulden auch die lutherische Diakonie, was zusammen 250 Gulden ergibt, welche wir bestätigen empfangen zu haben und bedanken uns für diese freundliche Unterstützung, so dass wir die Reise nach Deutschland direkt antreten können um dort wohnen zu bleiben.
-
-Dort angekommen verpflichten wir uns nie wieder Anspruch auf Unterhalt von beiden Diakonien, unter welchen Umständen auch immer, zu erheben. Weiterhin wollen wir unsere Dankbarkeit für die vielen Jahre Unterhalt für uns und unsere Kinder zum Ausdruck bringen und verpflichten uns die Summe von 250 Gulden sobald es uns möglich ist an die Wallonische Diakonie und die lutherische Gemeinde zurück zu zahlen.
-
-**Rotterdam 18 April 1792**
-
-Unterschrieben:
-
-- E. Cabos
-- M.J. Cabos, geborene Siercken
-
-*Heute in dem Konsistorium der hiesigen lutherischen Gemeinde.*
+> **Versorgung / Unterhalt**
+>
+> *Vertrag von Étienne Cabos und seiner Ehefrau Justina Maria Siercken, die dabei sind, nach Deutschland aufzubrechen, nachdem sie 250 Gulden von der wallonischen und der lutherischen Diakonie bekommen haben am 18. April 1792.*
+>
+> Wir, die unterschreibenden Étienne Cabos und Justine Maria Siercken, edle Leute, zur Zeit wohnhaft in der Stadt Rotterdam, sind zu diesem Zeitpunkt bereit nach Deutschland auszureisen. Wir bestätigen hiermit, dass wir und unsere Kinder seit einigen Jahren Unterhalt bezogen, sowohl durch die ehrenwerten Herren Diakone von den Wallonen, als auch von der hiesigen lutherischen Gemeinde.
+>
+> Vor kurzem sind wir von dem ehrenwerten Konsistorium (kirchliche Behörde) informiert worden, dass wir die Genehmigung haben nach Deutschland zu übersiedeln um bei unserer Familie, welche uns eingeladen hat, zu wohnen. Wir nehmen dieses Angebot wahr, nicht nur um unsere unglückliche Lage zu verbessern, sondern auch die zwei Diakonien von einer schweren Last, die sie zu tragen haben um unsere Bedürfnisse zu erfüllen, zu befreien.
+>
+> Unser Ersuchen ist von den beiden Diakonien genehmigt worden und beide sind bereit uns zu helfen und zu unterstützen, die Wallonische Diakonie mit einer Summe von 125 Gulden und die gleiche Summe von 125 Gulden auch die lutherische Diakonie, was zusammen 250 Gulden ergibt, welche wir bestätigen empfangen zu haben und bedanken uns für diese freundliche Unterstützung, so dass wir die Reise nach Deutschland direkt antreten können um dort wohnen zu bleiben.
+>
+> Dort angekommen verpflichten wir uns nie wieder Anspruch auf Unterhalt von beiden Diakonien, unter welchen Umständen auch immer, zu erheben. Weiterhin wollen wir unsere Dankbarkeit für die vielen Jahre Unterhalt für uns und unsere Kinder zum Ausdruck bringen und verpflichten uns die Summe von 250 Gulden sobald es uns möglich ist an die Wallonische Diakonie und die lutherische Gemeinde zurück zu zahlen.
+>
+> **Rotterdam 18 April 1792**
+>
+> Unterschrieben: E. Cabos — M.J. Cabos, geborene Siercken
+>
+> *Heute in dem Konsistorium der hiesigen lutherischen Gemeinde.*
 
 ---
 

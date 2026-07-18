@@ -163,8 +163,11 @@ Dieses Dokument ist eine der wenigen externen Quellen, die Etienne Cabos namentl
 - Die Härten der preußischen Armee erlebte
 - Trotz aller Widrigkeiten eine Familie gründete und erhielt
 
-Die Entdeckung der Brüder **[Jean Cabos](hochzeit-jean-1760.md)** (†1796 Caussade) und **[Pierre Cabos](taufe-pierre-1740.md)** (geb. 1740, jünger als Etienne) zeigt, dass keiner von beiden der in effigie verurteilte "ältere Bruder" war. Wenn die Behauptung im Bulletin stimmt, muss es einen **weiteren, älteren Bruder** gegeben haben, der vor 1737 geboren wurde - und der, da er "nur" in effigie hingerichtet wurde, **die Flucht überlebt haben dürfte**. Gesucht wird also nicht sein Grab, sondern seine Spur: eine Verurteilung par contumace in den Akten des Parlement de Toulouse und ein Lebenszeichen irgendwo im hugenottischen Refuge. Ein faszinierendes Rätsel für weitere Forschungen.
+Die Entdeckung der Brüder **[Jean Cabos](hochzeit-jean-1760.md)** (†1796 Caussade) und **[Pierre Cabos](taufe-pierre-1740.md)** (geb. 1740, jünger als Etienne) zeigt, dass keiner von beiden der in effigie verurteilte "ältere Bruder" war. Wenn die Behauptung im Bulletin stimmt, muss es einen **weiteren, älteren Bruder** gegeben haben, der vor 1737 geboren wurde - und der, da er "nur" in effigie hingerichtet wurde, **die Flucht überlebt haben dürfte**. Gesucht wird also nicht sein Grab, sondern seine Spur: eine Verurteilung par contumace in den Akten des Parlement de Toulouse und ein Lebenszeichen irgendwo im hugenottischen Refuge.
+
+!!! tip "Wer war es wirklich? Drei Hypothesen und konkrete Recherche-Wege"
+    Ob es sich um einen unbekannten älteren Bruder, um **Etienne selbst** (als Deserteur der französischen Armee) oder um den jüngeren Bruder Pierre handelte, wird auf der Seite **[Forschungsausblick](forschungsausblick.md)** ausführlich abgewogen - samt der genauen Datenbanken, Archive und Suchbegriffe, mit denen sich die Frage weiterverfolgen lässt.
 
 ---
 
-[← Zurück zur Übersicht](index.md)
+[← Zurück zur Übersicht](index.md) | [→ Forschungsausblick](forschungsausblick.md)

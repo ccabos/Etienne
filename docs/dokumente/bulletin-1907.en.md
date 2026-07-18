@@ -163,8 +163,11 @@ This document is one of the few external sources that mention Etienne Cabos by n
 - Experienced the hardships of the Prussian army
 - Despite all adversities, founded and maintained a family
 
-The discovery of the brothers **[Jean Cabos](hochzeit-jean-1760.md)** (†1796 Caussade) and **[Pierre Cabos](taufe-pierre-1740.md)** (b. 1740, younger than Etienne) shows that neither of them was the "older brother" condemned in effigy. If the claim in the Bulletin is correct, there must have been another, **older brother** born before 1737 - and since he was executed "only" in effigy, **he probably survived his flight**. What is sought is therefore not his grave but his trail: a condemnation par contumace in the records of the Parlement de Toulouse and a sign of life somewhere in the Huguenot Refuge. A fascinating puzzle for further research.
+The discovery of the brothers **[Jean Cabos](hochzeit-jean-1760.md)** (†1796 Caussade) and **[Pierre Cabos](taufe-pierre-1740.md)** (b. 1740, younger than Etienne) shows that neither of them was the "older brother" condemned in effigy. If the claim in the Bulletin is correct, there must have been another, **older brother** born before 1737 - and since he was executed "only" in effigy, **he probably survived his flight**. What is sought is therefore not his grave but his trail: a condemnation par contumace in the records of the Parlement de Toulouse and a sign of life somewhere in the Huguenot Refuge.
+
+!!! tip "Who was it really? Three hypotheses and concrete avenues for research"
+    Whether it was an unknown older brother, **Etienne himself** (as a deserter from the French army), or the younger brother Pierre is weighed in detail on the **[Research Outlook](forschungsausblick.md)** page - together with the exact databases, archives and search terms with which the question can be pursued further.
 
 ---
 
-[← Back to Overview](index.md)
+[← Back to Overview](index.md) | [→ Research Outlook](forschungsausblick.md)

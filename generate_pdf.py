@@ -53,6 +53,7 @@ NAV = [
     ("Sterbeurkunde Etienne 1808", "dokumente/sterbeurkunde-1808.de.md"),
     ("Sterbeurkunde Maria Justine 1810", "dokumente/sterbeurkunde-justine-1810.de.md"),
     ("Bulletin 1907 (Sekundärquelle)", "dokumente/bulletin-1907.de.md"),
+    ("Forschungsausblick", "dokumente/forschungsausblick.de.md"),
     ("Quellen", "quellen.de.md"),
 ]
 

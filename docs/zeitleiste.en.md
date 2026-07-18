@@ -146,7 +146,7 @@ Sister Anne marries Pierre Lacombe.<br>
 <div class="timeline-event">✝️ Death Jean Cabos</div>
 <div class="timeline-location">November 4 - Caussade</div>
 Brother Jean dies in Caussade.<br>
-<em>Thus not the "executed brother"</em>
+<em>Thus not the brother condemned in effigy</em>
 </div>
 
 <div class="timeline-section" style="margin-top: 50px;">🇩🇪 PRUSSIA - STETTIN (1772-1780)</div>
@@ -333,7 +333,7 @@ Burial on December 24, 1866
 | 1792 | 55 | Political Crisis - Flight to Berlin | Rotterdam → Berlin |
 | 1793 | 56 | Last child Charles Emmanuel | Berlin |
 | 1794-1798 | 57-61 | Dentist in Halle | Berlin/Halle |
-| 1796 | 59 | Brother Jean dies (not executed!) | Caussade |
+| 1796 | 59 | Brother Jean dies (was not the one condemned in effigy) | Caussade |
 | 1802 | 65 | Family in hospital? (Bulletin 1907) | Berlin |
 | 1807 | 70 | Daughter Elisabeth marries Pohle | Charlottenburg |
 | 1808 | 71 | Death Etienne Cabos | Charlottenburg |

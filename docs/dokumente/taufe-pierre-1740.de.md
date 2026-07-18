@@ -48,9 +48,9 @@
 | **Etienne Cabos** | 1737 | - | †1808 Berlin |
 | **Pierre Cabos** | 1740 | 3 Jahre jünger | ? |
 
-### War Pierre der "hingerichtete Bruder"?
+### War Pierre der verurteilte Bruder?
 
-Das [Bulletin von 1907](bulletin-1907.md) spricht vom **"älteren Bruder"** Etiennes, der hingerichtet wurde.
+Das [Bulletin von 1907](bulletin-1907.md) spricht vom **"älteren Bruder"** Etiennes, der in effigie hingerichtet wurde - also in Abwesenheit verurteilt, weil er geflohen war.
 
 **Pierre kann es NICHT gewesen sein**, denn:
 - Pierre wurde **1740** geboren
@@ -86,7 +86,7 @@ Die Paten **Jean Delpech** und **Jeanne Delpech** sind interessant:
 |--------|-------|-------------|--------|
 | **Laurent/Laurens Cabos** | Vater | ? - zwischen 1760 und 1771 | Hochzeit 1729, Taufen, [Heirat Anne 1771](hochzeit-anne-1771.md) ("feu") |
 | **Marie Rey** | Mutter | ? - ? | Hochzeit 1729, Taufen |
-| **??? Cabos** | Ältester Sohn? (hingerichtet?) | vor 1737 - ? | Bulletin 1907 |
+| **??? Cabos** | Ältester Sohn? (in effigie verurteilt, geflohen?) | vor 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Sohn | ca. 1730? - 1796 | Hochzeit 1760, Tod 1796 |
 | **Etienne Cabos** | Sohn | 1737 - 1808 | Taufe 1737, Tod Berlin |
 | **Pierre Cabos** | Sohn | 1740 - ? | Taufe 1740 |

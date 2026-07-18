@@ -94,7 +94,7 @@ graph TD
 #### 👤 ??? Cabos (before 1737 - ?)
 - **Birth:** before 1737 (presumably)
 - **Status:** Unconfirmed
-- **Note:** The [Bulletin 1907](dokumente/bulletin-1907.md) claims Etienne's "older brother" was executed in Caussade. Neither Jean nor Pierre can be this brother. If the claim is true, there must have been a fourth, older brother.
+- **Note:** The [Bulletin 1907](dokumente/bulletin-1907.md) reports that Etienne's "older brother" was **executed in effigy** in Caussade - i.e. condemned in absentia because he had **fled**. Neither Jean nor Pierre can be this brother. If the claim is true, there must have been another, older brother, who probably survived his flight.
 
 !!! warning "Research Needed"
     The existence of this brother is not documented by primary sources.
@@ -127,7 +127,7 @@ graph TD
 - **Special Note:** Remained in Caussade, died there peacefully during the French Revolution
 
 !!! success "Not the Executed Brother"
-    The death certificate from 1796 proves that Jean was not executed.
+    The death certificate from 1796 proves that Jean remained unmolested in Caussade and died there - he was not the fugitive brother condemned in effigy mentioned in the Bulletin 1907.
 
 [→ Marriage document 1760](dokumente/hochzeit-jean-1760.md)
 
@@ -138,7 +138,7 @@ graph TD
 - **Special Note:** Younger brother of Etienne (3 years younger)
 
 !!! info "Not the Older Brother"
-    Pierre was born in 1740, so 3 years after Etienne - he cannot be the "older executed brother" from the Bulletin 1907.
+    Pierre was born in 1740, so 3 years after Etienne - he cannot be the "older brother condemned in effigy" from the Bulletin 1907.
 
 [→ Baptism document 1740](dokumente/taufe-pierre-1740.md)
 

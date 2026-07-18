@@ -51,7 +51,7 @@ Tragically, little Justine died on September 12, 1782 - not even two years old.
 
 The son **Etienne** was born on April 19, 1783 - according to a letter from Pastor Täge of Anklam, *"during a journey from Le Havre to Rotterdam"*. This detail is fascinating: What brought Etienne Cabos senior to Le Havre? Was it a business trip for his fancy goods store?
 
-The baptism took place on April 26, 1783 in Rotterdam - the child was given his father's name.
+The baptism took place on April 26, 1783 in Rotterdam - the child was given his father's name. The entry is also indexed online: [Open Archives - baptism Estienne Cabos, April 26, 1783](https://www.openarchieven.nl/srt:D824CB9E-6282-409D-8CCC-ED38ADA69D89).
 
 ---
 

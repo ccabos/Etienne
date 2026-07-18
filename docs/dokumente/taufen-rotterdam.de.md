@@ -51,7 +51,7 @@ Tragischerweise starb die kleine Justine bereits am 12. September 1782 - nicht e
 
 Der Sohn **Etienne** wurde am 19. April 1783 geboren - laut eines Briefes des Pfarrers Täge aus Anklam *"auf einer Reise von Le Havre nach Rotterdam"*. Diese Angabe ist faszinierend: Was führte Etienne Cabos senior nach Le Havre? War es eine Geschäftsreise für sein Galanteriewarengeschäft?
 
-Die Taufe fand am 26. April 1783 in Rotterdam statt - das Kind erhielt den Namen seines Vaters.
+Die Taufe fand am 26. April 1783 in Rotterdam statt - das Kind erhielt den Namen seines Vaters. Der Eintrag ist auch online indexiert: [Open Archives - Taufe Estienne Cabos, 26.4.1783](https://www.openarchieven.nl/srt:D824CB9E-6282-409D-8CCC-ED38ADA69D89).
 
 ---
 

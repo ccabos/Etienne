@@ -106,7 +106,10 @@ Die Anzeigen zeigen:
 
 ### Sekundärliteratur
 
-- Nickol, Thomas: "The Availability of Dental Care in Halle: A Local Study." In: *Dental Practice in Europe at the End of the Eighteenth Century* (Konferenzband). Die Studie basiert auf Archivmaterial des Landeshauptarchivs Magdeburg und des Stadtarchivs Halle.
+- Nickol, Thomas: "The Availability of Dental Care in Halle: A Local Study." In: Christine Hillam (Hg.): *Dental Practice in Europe at the End of the 18th Century* (Reihe Clio Medica). Rodopi, Amsterdam/New York 2003; Online-Ausgabe: Brill. Die Studie basiert auf Archivmaterial des Landeshauptarchivs Magdeburg und des Stadtarchivs Halle.
+
+!!! tip "Originalanzeigen bald online?"
+    Die Universitäts- und Landesbibliothek Sachsen-Anhalt digitalisiert derzeit in großem Umfang historische Hallenser Zeitungen - darunter die **Wöchentlichen Hallischen Anzeigen (1731-1810)**. Die Originalanzeigen von Cabos aus dem März 1794 und Januar 1798 könnten damit demnächst als Scan auffindbar sein.
 
 ---
 

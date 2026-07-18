@@ -94,7 +94,7 @@ Anders als Bruder Jean, der 1760 "im Désert" (im Untergrund) protestantisch get
 |--------|-------|-------------|--------|
 | **Laurent/Laurens Cabos** | Vater | ? - zwischen 1760 und 1771 | Hochzeit 1729, Ehevertrag 1760, Heirat Anne 1771 ("feu") |
 | **Marie Rey** | Mutter | ? - ? | Hochzeit 1729, Taufen |
-| **??? Cabos** | Ältester Sohn? (hingerichtet?) | vor 1737 - ? | Bulletin 1907 |
+| **??? Cabos** | Ältester Sohn? (in effigie verurteilt, geflohen?) | vor 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Sohn | ca. 1730? - 1796 | Hochzeit 1760, Tod 1796 |
 | **Etienne Cabos** | Sohn | 1737 - 1808 | Taufe 1737, Tod Berlin 1808 |
 | **Pierre Cabos** | Sohn | 1740 - ? | Taufe 1740 |

@@ -94,7 +94,7 @@ Unlike brother Jean, who was married in a Protestant ceremony "in the Désert" (
 |--------|------|-------|--------|
 | **Laurent/Laurens Cabos** | Father | ? - between 1760 and 1771 | Marriage 1729, marriage contract 1760, marriage Anne 1771 ("feu") |
 | **Marie Rey** | Mother | ? - ? | Marriage 1729, baptisms |
-| **??? Cabos** | Eldest son? (executed?) | before 1737 - ? | Bulletin 1907 |
+| **??? Cabos** | Eldest son? (condemned in effigy, fled?) | before 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Son | ca. 1730? - 1796 | Marriage 1760, death 1796 |
 | **Etienne Cabos** | Son | 1737 - 1808 | Baptism 1737, death Berlin 1808 |
 | **Pierre Cabos** | Son | 1740 - ? | Baptism 1740 |

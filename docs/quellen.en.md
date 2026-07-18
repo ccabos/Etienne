@@ -100,6 +100,24 @@
 
 ---
 
+## Online Databases for Further Research
+
+These databases demonstrably or very probably contain material on the Cabos family:
+
+| Database | Relevance |
+|----------|-----------|
+| [Open Archives (openarchieven.nl)](https://www.openarchieven.nl/) | Indexes the Rotterdam DTB registers; the [baptism record of Estienne Cabos (April 26, 1783)](https://www.openarchieven.nl/srt:D824CB9E-6282-409D-8CCC-ED38ADA69D89) is already recorded there - the family's other Rotterdam entries should also be findable |
+| [Stadsarchief Rotterdam](https://stadsarchief.rotterdam.nl/) | Originals of the DTB registers and the Poorterboek |
+| [Berlin address books 1799 ff. (ZLB)](https://digital.zlb.de/) | Fully digitized; Etienne Cabos should be findable as "Dentiste"/dentist in the volumes ca. 1799-1808 |
+| [ULB Saxony-Anhalt, newspaper digitization](https://bibliothek.uni-halle.de/) | Currently digitizing the **Wöchentliche Hallische Anzeigen (1731-1810)** - the original advertisements of 1794/1798 |
+| [Archion](https://www.archion.de/) / Landeskirchliches Archiv Greifswald | Church registers of the Stettin garrison parish (the originals are held there) |
+| Geheimes Staatsarchiv PK Berlin / Ancestry | Prussian **military church registers** (filmed by the Mormons, partly online at Ancestry) - possible regimental records |
+| [Archives du Parlement de Toulouse (sacs à procès)](https://archives.haute-garonne.fr/n/les-sacs-a-proces-du-parlement-de-toulouse/n:110) | Possible condemnation par contumace of the brother "executed in effigy" |
+| [Archives départementales de Tarn-et-Garonne](https://archivesdepartementales.ledepartement82.fr/) | Church registers of Caussade/Réalville: baptism of Anne (~1742), burial of Laurens (1760-1771), possibly further siblings |
+| [FamilySearch](https://www.familysearch.org/) | Digitized [Isenburg pass of 1780](https://familysearch.org/ark:/61903/3:1:3QS7-89QV-ZV7J?i=404&cc=2037907) and Tarn-et-Garonne registers |
+
+---
+
 ## Historical Context
 
 ### Important Events

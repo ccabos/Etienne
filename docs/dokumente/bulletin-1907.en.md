@@ -18,6 +18,7 @@
 | **Year** | 1907 |
 | **Publisher** | Société archéologique et historique de Tarn-et-Garonne |
 | **Press** | Imp. et lith. Forestié, Montauban |
+| **Article** | "Une correspondance berlinoise de fils de réfugiés", pp. 142-144 |
 | **Subject** | Correspondence of French Huguenots in Berlin |
 | **Digitized by** | Bibliothèque nationale de France |
 | **ARK Identifier** | ark:/12148/bpt6k5663511j |
@@ -52,13 +53,14 @@ Frederick's death brought great change to the French colony. From a letter dated
 !!! warning "New Discoveries about Etienne Cabos"
     The Bulletin contains a direct mention of Etienne Cabos - with surprising details that appear in no other source!
 
-The text reports on French and Gascon deserters who were accepted into Prussian regiments:
+The passage comes from the article **"Une correspondance berlinoise de fils de réfugiés"** (Bulletin 1907, pp. 142-144). The text reports on French and Gascon deserters who were accepted into Prussian regiments. The French original reads:
 
-> *"One of these deserters, **Etienne Cabos**, whose older brother had been executed in Caussade for an offense unknown to me, had been driven from Holland by the French occupation forces in 1792; in his hasty flight he had lost his belongings.*
->
-> *This adventurer became successively a barber, dentist, perfumer, and entered the Regiment de Brévern; he received numerous blows to learn the Prussian art of drill.*
->
-> *His wife, who had inherited from an officer, was admitted to the hospital together with her husband and children in 1802."*
+> *"L'un de ces déserteurs, **Etienne Cabos**, dont le frère aîné avait été **effigié** à Caussade pour je ne sais quel méfait, avait été chassé de Hollande par l'occupation française en 1792 ; dans sa fuite précipitée, il avait perdu ses hardes. Cet aventurier se fit tour à tour barbier, dentiste, parfumeur, engagé au régiment de Brévern ; il reçut force coups de schlague pour apprendre l'exercice à la prussienne. Sa femme, après avoir **capté** la succession d'un officier, était, avec son mari et ses enfants, réduite à l'hôpital en 1802."*
+
+*One of these deserters, **Etienne Cabos**, whose older brother had been **executed in effigy** in Caussade for an offense unknown to me, had been driven from Holland by the French occupation forces in 1792; in his hasty flight he had lost his belongings. This adventurer became successively a barber, dentist, perfumer, and entered the Regiment de Brévern; he received numerous blows of the cane to learn the Prussian art of drill. His wife, who had **captured** (obtained by intrigue) the inheritance of an officer, was reduced to the hospital together with her husband and children in 1802.*
+
+!!! danger "Important correction: 'effigié' - not actually executed!"
+    The French original does **not** say that the brother was executed. **"Effigié"** means: **executed in effigy** - the sentence was carried out in absentia on an image or straw dummy. This Ancien Régime practice applied to convicts who had **fled** and were condemned in absentia (par contumace). The older brother was therefore not killed - **he had left Caussade and evaded justice**. Earlier translations of this passage as "executed" were misleading.
 
 ### Analysis of this Passage
 
@@ -67,13 +69,13 @@ This passage casts a completely new light on Etienne Cabos:
 | Claim | Assessment | Note |
 |------------|-----------|-----------|
 | **"Deserter"** | ⚠️ Unclear | Was Etienne a deserter from the French army? Or does this refer to his leaving Prussia? |
-| **Brother executed** | ❓ Fourth brother? | Neither **[Jean](hochzeit-jean-1760.md)** (†1796) nor **[Pierre](taufe-pierre-1740.md)** (1740, younger than Etienne). If true, there must have been a **fourth, older brother**! |
+| **Brother "effigié"** | 🔄 Re-read | The brother was executed **in effigy**, i.e. **condemned in absentia - he had fled and may have lived on**. Neither **[Jean](hochzeit-jean-1760.md)** (†1796 in Caussade) nor **[Pierre](taufe-pierre-1740.md)** (1740, younger than Etienne) fit as the convict; another, **older brother** remains likely - but what is sought now is not a dead man but a **fugitive** |
 | **1792 driven from Holland** | ✅ Confirmed | Matches the maintenance contract from April 1792, but "French occupation forces" is anachronistic - the French only came in 1795 |
 | **Lost belongings** | ⚠️ Possible | Matches the family's financial distress |
 | **Barber, dentist, perfumer** | ✅ Partially confirmed | The activity as a dentist is documented in the Hallische Anzeigen |
 | **Regiment de Brévern** | ⚠️ Plausibly explainable | "de Brévern" is presumably a corruption of **"von Bevern"**: the [church register of the Stettin garrison church (1779)](kriegsende-1779.md) explicitly mentions the **"v. Bevernsche Regiment"** alongside the "v. Hackesche" in the same garrison. Either Cabos served there for a time, or the letter writer confused the two Stettin regiments |
 | **Corporal punishment** | ✅ Historically correct | The Prussian army was known for its harsh discipline |
-| **Wife inherited from officer** | ❓ Not verified | No other source mentions this |
+| **Wife "captured" officer's inheritance** | ❓ Not verified | No other source mentions this. The original ("après avoir capté la succession") insinuates **inheritance-sniffing** - a spiteful note by the letter writer, showing how disparagingly the colony talked about the family |
 | **1802 in hospital** | ⚠️ Partial | Etienne died in 1808 in the hospital; 1802 would be earlier |
 
 ### Critical Assessment
@@ -88,7 +90,9 @@ Nevertheless, this source is valuable because it:
 - Describes the harsh living conditions in the Prussian army
 
 !!! info "Why did the Palmiés know the Cabos family?"
-    The connection is documented: **Agnes Louise Amelie Palmié, née Rauch**, was [godmother of Etienne's son Charles Emmanuel](taufe-berlin-1793.md) in 1793. The families therefore knew each other personally - which explains why Cabos is described in such detail (even if not always correctly) in the Palmié correspondence.
+    The connection is documented: **Agnes Louise Amelie Palmié, née Rauch**, was [godmother of Etienne's son Charles Emmanuel](taufe-berlin-1793.md) in 1793. The families therefore knew each other personally - which explains why Cabos is described in such detail (even if not always correctly, and with palpable condescension: "cet aventurier", the wife as an inheritance-sniffer) in the Palmié correspondence.
+
+    The article also reveals more about the correspondents: **J.-M. Palmié** was a wine merchant in Berlin; his uncle **Antoine Palmié** was among the first refugees in the city and had founded a pharmacy there. **Thomas Thuet** - of that Thuet family which appears in 1760 as relatives of the bride at the [marriage contract of Etienne's brother Jean](hochzeit-jean-1760.md) in Caussade - was Palmié's **cousin** and asked by letter in 1784 whether his brother Jean Thuet should open a pharmacy in Germany. The correspondence thus demonstrably connected Berlin with the closest circle of the Cabos family in Caussade.
 
 ---
 
@@ -118,12 +122,13 @@ This execution was one of the last religious persecutions under the Ancien Régi
 
 ### Possible Connection to the Bulletin's Claim
 
-The claim about the "executed brother" could have various explanations:
+The reading **"effigié"** (executed in effigy, see above) fits the events of 1761/62 remarkably well: after the market riot at Rochette's arrest, the supporters were prosecuted - the ringleaders who were caught were sent to the **galleys**; those who had **fled** were condemned in absentia (par contumace) and **executed in effigy**. An older Cabos brother who took part in the riot and fled in time would exactly match the Bulletin's sentence: *"effigié à Caussade pour je ne sais quel méfait"*.
 
-1. **Confusion**: The author of 1907 might have confused information about the Grenier brothers with the Cabos family
-2. **"Brother in faith"**: "Brother" could metaphorically mean a brother in faith of the Protestant community
-3. **Actual Cabos**: There could have been an unknown Cabos who was executed during this turbulent time
-4. **Reason for flight**: The persecutions could have motivated Etienne to flee to Prussia - even without direct family connection
+Several interpretations follow:
+
+1. **Fugitive brother** (most plausible reading): An older brother was condemned in absentia - perhaps after the riot of 1761 or for other Désert offenses - and executed in effigy. He may afterwards have lived on somewhere in the Refuge. It is even conceivable that he belonged to that "family in Germany" who [invited the Cabos family in 1792](unterhaltsvertrag-1792.md) - but that remains pure speculation
+2. **Confusion**: The author of 1907 might have mixed information about other convicts of the region with the Cabos family
+3. **Reason for Etienne's flight**: The wave of persecution could also have motivated Etienne himself to emigrate - a brother executed in effigy would have branded the family as "convicted"
 
 !!! warning "Research Needed"
     A search in the [Archives du Parlement de Toulouse](https://archives.haute-garonne.fr/n/les-sacs-a-proces-du-parlement-de-toulouse/n:110) (sacs à procès) and the [Archives départementales de Tarn-et-Garonne](https://archivesdepartementales.ledepartement82.fr/) could provide further clues.
@@ -158,7 +163,7 @@ This document is one of the few external sources that mention Etienne Cabos by n
 - Experienced the hardships of the Prussian army
 - Despite all adversities, founded and maintained a family
 
-The discovery of the brothers **[Jean Cabos](hochzeit-jean-1760.md)** (†1796 Caussade) and **[Pierre Cabos](taufe-pierre-1740.md)** (b. 1740, younger than Etienne) shows that neither of them was the executed "older brother." If the claim in the Bulletin is correct, there must have been a **fourth, older brother** who was born before 1737. This question remains a fascinating puzzle for further research in the church records of Caussade.
+The discovery of the brothers **[Jean Cabos](hochzeit-jean-1760.md)** (†1796 Caussade) and **[Pierre Cabos](taufe-pierre-1740.md)** (b. 1740, younger than Etienne) shows that neither of them was the "older brother" condemned in effigy. If the claim in the Bulletin is correct, there must have been another, **older brother** born before 1737 - and since he was executed "only" in effigy, **he probably survived his flight**. What is sought is therefore not his grave but his trail: a condemnation par contumace in the records of the Parlement de Toulouse and a sign of life somewhere in the Huguenot Refuge. A fascinating puzzle for further research.
 
 ---
 

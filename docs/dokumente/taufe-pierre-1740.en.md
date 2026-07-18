@@ -48,9 +48,9 @@ Pierre Cabos, son of Sieur **Laurens Cabos**, merchant, and Demoiselle **Marie R
 | **Etienne Cabos** | 1737 | - | †1808 Berlin |
 | **Pierre Cabos** | 1740 | 3 years younger | ? |
 
-### Was Pierre the "Executed Brother"?
+### Was Pierre the Condemned Brother?
 
-The [Bulletin from 1907](bulletin-1907.md) speaks of Etienne's **"older brother"** who was executed.
+The [Bulletin from 1907](bulletin-1907.md) speaks of Etienne's **"older brother"** who was executed in effigy - i.e. condemned in absentia because he had fled.
 
 **Pierre CANNOT have been the one**, because:
 - Pierre was born in **1740**
@@ -86,7 +86,7 @@ The godparents **Jean Delpech** and **Jeanne Delpech** are interesting:
 |--------|-------|-------------|--------|
 | **Laurent/Laurens Cabos** | Father | ? - between 1760 and 1771 | Marriage 1729, Baptisms, [Marriage Anne 1771](hochzeit-anne-1771.md) ("feu") |
 | **Marie Rey** | Mother | ? - ? | Marriage 1729, Baptisms |
-| **??? Cabos** | Eldest son? (executed?) | before 1737 - ? | Bulletin 1907 |
+| **??? Cabos** | Eldest son? (condemned in effigy, fled?) | before 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Son | ca. 1730? - 1796 | Marriage 1760, Death 1796 |
 | **Etienne Cabos** | Son | 1737 - 1808 | Baptism 1737, Death Berlin |
 | **Pierre Cabos** | Son | 1740 - ? | Baptism 1740 |

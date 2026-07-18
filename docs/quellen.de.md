@@ -100,6 +100,24 @@
 
 ---
 
+## Online-Datenbanken für weitere Forschung
+
+Diese Datenbanken enthalten nachweislich oder sehr wahrscheinlich Material zur Familie Cabos:
+
+| Datenbank | Relevanz |
+|-----------|----------|
+| [Open Archives (openarchieven.nl)](https://www.openarchieven.nl/) | Indexiert die Rotterdamer DTB-Register; der [Taufeintrag von Estienne Cabos (26.4.1783)](https://www.openarchieven.nl/srt:D824CB9E-6282-409D-8CCC-ED38ADA69D89) ist dort bereits als Datensatz nachgewiesen - die übrigen Rotterdamer Einträge der Familie sollten ebenfalls auffindbar sein |
+| [Stadsarchief Rotterdam](https://stadsarchief.rotterdam.nl/) | Originale der DTB-Register und des Poorterboeks |
+| [Berliner Adressbücher 1799 ff. (ZLB)](https://digital.zlb.de/) | Vollständig digitalisiert; Etienne Cabos müsste als "Dentiste"/Zahnarzt in den Jahrgängen ca. 1799-1808 zu finden sein |
+| [ULB Sachsen-Anhalt, Zeitungsdigitalisierung](https://bibliothek.uni-halle.de/) | Digitalisiert derzeit die **Wöchentlichen Hallischen Anzeigen (1731-1810)** - die Originalanzeigen von 1794/1798 |
+| [Archion](https://www.archion.de/) / Landeskirchliches Archiv Greifswald | Kirchenbücher der Stettiner Garnisongemeinde (dort liegen die Originale) |
+| Geheimes Staatsarchiv PK Berlin / Ancestry | Preußische **Militärkirchenbücher** (von den Mormonen verfilmt, teilweise bei Ancestry online) - mögliche Regimentsnachweise |
+| [Archives du Parlement de Toulouse (sacs à procès)](https://archives.haute-garonne.fr/n/les-sacs-a-proces-du-parlement-de-toulouse/n:110) | Mögliche Verurteilung par contumace des "in effigie hingerichteten" Bruders |
+| [Archives départementales de Tarn-et-Garonne](https://archivesdepartementales.ledepartement82.fr/) | Kirchenbücher Caussade/Réalville: Taufe Anne (~1742), Begräbnis Laurens (1760-1771), evtl. weitere Geschwister |
+| [FamilySearch](https://www.familysearch.org/) | Digitalisat des [Isenburger Passes von 1780](https://familysearch.org/ark:/61903/3:1:3QS7-89QV-ZV7J?i=404&cc=2037907) und Register Tarn-et-Garonne |
+
+---
+
 ## Historischer Kontext
 
 ### Wichtige Ereignisse

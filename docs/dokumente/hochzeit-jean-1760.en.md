@@ -104,9 +104,9 @@ In the marriage contract received by Notary Lacombe, **Laurent Cabos** emancipat
 ## Jean Was NOT the Executed Brother
 
 !!! success "New Finding: Death Certificate 1796"
-    The discovery of the death certificate from **November 4, 1796** proves that Jean Cabos was **not** executed. He lived 36 years after his marriage and died peacefully in Caussade during the French Revolution.
+    The discovery of the death certificate from **November 4, 1796** proves that Jean Cabos remained unmolested in Caussade. He lived 36 years after his marriage and died peacefully in Caussade during the French Revolution.
 
-The [Bulletin of 1907](bulletin-1907.md) claims that Etienne's **"older brother"** was **executed** in Caussade. Jean cannot have been this brother.
+The [Bulletin of 1907](bulletin-1907.md) reports that Etienne's **"older brother"** was **executed in effigy** in Caussade - condemned in absentia because he had fled. Jean, who demonstrably stayed in Caussade, cannot have been this brother.
 
 ### Jean's Life Dates
 
@@ -119,7 +119,7 @@ Jean thus lived another **34 years** after the Rochette affair (1762) and did no
 
 ### Implication for Research
 
-If the 1907 Bulletin is correct and a brother of Etienne's was executed, then it must be a **third brother** - neither Etienne nor Jean.
+If the 1907 Bulletin is correct and a brother of Etienne's was condemned in effigy, then it must be **another brother** - neither Etienne nor Jean.
 
 !!! question "Open Questions"
     - **Third brother?**: Did the Cabos family have other sons besides Etienne and Jean?
@@ -139,7 +139,7 @@ This document substantially expands our picture of the Cabos family:
 |--------|-------|-------------|--------|
 | **Laurent Cabos** | Father | ? - between 1760 and 1771 | Marriage 1729, Marriage contract Jean 1760, [Marriage Anne 1771](hochzeit-anne-1771.md) ("feu") |
 | **Marie Rey** | Mother | ? - ? | Marriage 1729 |
-| **??? Cabos** | "Older brother" (executed?) | before 1737 - ? | Bulletin 1907 |
+| **??? Cabos** | "Older brother" (condemned in effigy, fled?) | before 1737 - ? | Bulletin 1907 |
 | **Jean Cabos** | Son | ca. 1730? - 1796 | Marriage 1760, Death Caussade 1796 |
 | **Etienne Cabos** | Son | 1737-1808 | Baptism 1737, Death Berlin 1808 |
 | **[Pierre Cabos](taufe-pierre-1740.md)** | Son | 1740 - ? | Baptism 1740 |

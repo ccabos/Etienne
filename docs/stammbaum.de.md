@@ -94,7 +94,7 @@ graph TD
 #### 👤 ??? Cabos (vor 1737 - ?)
 - **Geburt:** vor 1737 (vermutlich)
 - **Status:** Unbestätigt
-- **Hinweis:** Das [Bulletin 1907](dokumente/bulletin-1907.md) behauptet, Etiennes "älterer Bruder" sei in Caussade hingerichtet worden. Weder Jean noch Pierre können dieser Bruder sein. Wenn die Behauptung stimmt, muss es einen vierten, älteren Bruder gegeben haben.
+- **Hinweis:** Das [Bulletin 1907](dokumente/bulletin-1907.md) berichtet, Etiennes "älterer Bruder" sei in Caussade **in effigie hingerichtet** worden - also in Abwesenheit verurteilt, weil er **geflohen** war. Weder Jean noch Pierre können dieser Bruder sein. Wenn die Behauptung stimmt, muss es einen weiteren, älteren Bruder gegeben haben, der die Flucht vermutlich überlebte.
 
 !!! warning "Forschungsbedarf"
     Die Existenz dieses Bruders ist nicht durch Primärquellen belegt.
@@ -126,8 +126,8 @@ graph TD
 - **Religion:** Protestantisch (Trauung "au Désert" durch Pastor Lafond)
 - **Besonderheit:** Blieb in Caussade, starb dort friedlich während der Französischen Revolution
 
-!!! success "Nicht der hingerichtete Bruder"
-    Die Sterbeurkunde von 1796 beweist, dass Jean nicht hingerichtet wurde.
+!!! success "Nicht der verurteilte Bruder"
+    Die Sterbeurkunde von 1796 beweist, dass Jean unbehelligt in Caussade blieb und dort starb - er war nicht der geflohene, in effigie verurteilte Bruder aus dem Bulletin 1907.
 
 [→ Hochzeitsdokument 1760](dokumente/hochzeit-jean-1760.md)
 
@@ -138,7 +138,7 @@ graph TD
 - **Besonderheit:** Jüngerer Bruder von Etienne (3 Jahre jünger)
 
 !!! info "Nicht der ältere Bruder"
-    Pierre wurde 1740 geboren, also 3 Jahre nach Etienne - er kann nicht der "ältere hingerichtete Bruder" aus dem Bulletin 1907 sein.
+    Pierre wurde 1740 geboren, also 3 Jahre nach Etienne - er kann nicht der "ältere, in effigie verurteilte Bruder" aus dem Bulletin 1907 sein.
 
 [→ Taufdokument 1740](dokumente/taufe-pierre-1740.md)
 

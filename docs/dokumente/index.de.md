@@ -247,3 +247,19 @@ Diese Seite bietet eine Übersicht über alle historischen Originaldokumente, di
     [→ Details](bulletin-1907.md)
 
 </div>
+
+---
+
+## Ausblick
+
+<div class="grid cards" markdown>
+
+-   :material-magnify:{ .lg .middle } **Forschungsausblick**
+
+    ---
+
+    Offene Fragen und konkrete Recherche-Wege: Archive, Datenbanken und Suchbegriffe für die weitere Forschung
+
+    [→ Details](forschungsausblick.md)
+
+</div>

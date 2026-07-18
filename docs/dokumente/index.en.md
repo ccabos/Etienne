@@ -257,3 +257,19 @@ This page provides an overview of all historical original documents that chronic
     [→ Details](bulletin-1907.md)
 
 </div>
+
+---
+
+## Outlook
+
+<div class="grid cards" markdown>
+
+-   :material-magnify:{ .lg .middle } **Research Outlook**
+
+    ---
+
+    Open questions and concrete avenues for research: archives, databases and search terms for further investigation
+
+    [→ Details](forschungsausblick.md)
+
+</div>

@@ -18,16 +18,19 @@ import cairosvg
 
 DOCS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
 
-# --- Palette (matches the book's brown/amber Material theme) ---
-PARCHMENT = "#f4ecd9"
-PARCHMENT2 = "#efe4cb"
+# --- Palette (antique styling, matches the book's brown/amber theme) ---
+PARCHMENT = "#f4ecd9"      # page background
+PARCHMENT2 = "#efe4cb"     # panels / legend
 FRAME = "#b9a37e"
-GRID = "#d9c9a6"
-LAND_LABEL = "#bfa d".replace(" ", "")  # placeholder, overwritten below
-LAND_LABEL = "#c3ad82"
-ROUTE = "#5d4037"          # dark brown main route
+SEA = "#c2d2d0"            # muted blue-grey water
+LAND = "#e9dcbb"          # aged parchment land
+COAST = "#7d6a49"         # sepia coastline
+GRID = "#a8987a"          # graticule (sepia, low opacity applied inline)
+LAND_LABEL = "#9c8a63"    # region names over land
+SEA_LABEL = "#8fa3a2"     # sea names
+ROUTE = "#5d4037"         # dark brown main route
 ROUTE_HALO = "#f7f1e2"
-EXCURSION = "#c9781f"      # amber side-trips
+EXCURSION = "#c9781f"     # amber side-trips
 PIN = "#7a4a2b"
 PIN_EDGE = "#4e3120"
 EXC_PIN = "#d98a2b"
@@ -35,8 +38,8 @@ INK = "#3a2c1e"
 INK_SOFT = "#6f5c46"
 
 # --- Geographic bounds (lon/lat) ---
-LON_MIN, LON_MAX = -0.6, 15.4
-LAT_MIN, LAT_MAX = 43.4, 54.4
+LON_MIN, LON_MAX = -3.2, 16.6
+LAT_MIN, LAT_MAX = 43.0, 54.75
 MEAN_LAT = (LAT_MIN + LAT_MAX) / 2
 K = math.cos(math.radians(MEAN_LAT))  # horizontal compression
 
@@ -46,23 +49,97 @@ MAP_X0, MAP_X1 = 58, 792   # map drawing band (with inner margin applied below)
 MAP_Y0, MAP_Y1 = 108, 792
 INNER = 34
 
-_ax0 = MAP_X0 + INNER
-_ax1 = MAP_X1 - INNER
-_ay0 = MAP_Y0 + INNER
-_ay1 = MAP_Y1 - INNER
-_eff_w = (LON_MAX - LON_MIN) * K
-_eff_h = (LAT_MAX - LAT_MIN)
-SCALE = min((_ax1 - _ax0) / _eff_w, (_ay1 - _ay0) / _eff_h)
-_used_w = _eff_w * SCALE
-_used_h = _eff_h * SCALE
-_off_x = _ax0 + ((_ax1 - _ax0) - _used_w) / 2
-_off_y = _ay0 + ((_ay1 - _ay0) - _used_h) / 2
+# Fill the whole plate interior exactly, so the land clips precisely at the
+# map edges (no letterbox margin). The bbox aspect is chosen close to the
+# plate's, leaving only a negligible horizontal stretch.
+PX0, PX1 = MAP_X0 + 2, MAP_X1 - 2
+PY0, PY1 = MAP_Y0 + 2, MAP_Y1 - 2
+SX = (PX1 - PX0) / (LON_MAX - LON_MIN)
+SY = (PY1 - PY0) / (LAT_MAX - LAT_MIN)
 
 
 def px(lon, lat):
-    x = _off_x + (lon - LON_MIN) * K * SCALE
-    y = _off_y + (LAT_MAX - lat) * SCALE
-    return x, y
+    return PX0 + (lon - LON_MIN) * SX, PY0 + (LAT_MAX - lat) * SY
+
+
+def _ring_to_path(coords):
+    parts = []
+    for i, (lon, lat) in enumerate(coords):
+        x, y = px(lon, lat)
+        parts.append(("M " if i == 0 else "L ") + f"{x:.1f} {y:.1f}")
+    return " ".join(parts) + " Z"
+
+
+def _geom_to_path(geom):
+    """SVG path 'd' for a (Multi)Polygon: exteriors + holes."""
+    polys = []
+    gt = geom.geom_type
+    if gt == "Polygon":
+        polys = [geom]
+    elif gt in ("MultiPolygon", "GeometryCollection"):
+        polys = [g for g in geom.geoms if g.geom_type == "Polygon"]
+    d = []
+    for poly in polys:
+        d.append(_ring_to_path(list(poly.exterior.coords)))
+        for hole in poly.interiors:
+            d.append(_ring_to_path(list(hole.coords)))
+    return " ".join(d)
+
+
+# Faint antique washes for the major powers of 1783 (by NAME in the dataset)
+TERRITORY_TINTS = {
+    "France": "#e8dcac",
+    "Prussia": "#dbe1cb",
+    "Netherlands": "#d6e0dc",       # Dutch Republic (United Provinces)
+    "Austrian Empire": "#ecd6bf",   # Habsburg lands (incl. Bohemia)
+}
+
+BORDERS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                            "data", "world_1783.geojson")
+
+
+def build_historical():
+    """Build the 1783 base layer from the historical-basemaps dataset
+    (A. Ourednik, GPLv3): land fill, political borders, and faint washes for
+    the major powers. Falls back gracefully if data or shapely is missing
+    (the pre-generated PNGs ship in the repo, so deploy never needs this)."""
+    empty = {"land": "", "borders": "", "tints": []}
+    try:
+        import json
+        import warnings
+        warnings.filterwarnings("ignore")
+        from shapely.geometry import shape, box
+        from shapely.ops import unary_union
+
+        feats = json.load(open(BORDERS_FILE, encoding="utf-8"))["features"]
+        clip = box(LON_MIN, LAT_MIN, LON_MAX, LAT_MAX)
+        ents = []
+        for f in feats:
+            geom = f.get("geometry")
+            if not geom:
+                continue
+            try:
+                g = shape(geom)
+            except Exception:
+                continue
+            if not g.is_valid:
+                g = g.buffer(0)
+            gi = g.intersection(clip)
+            if gi.is_empty:
+                continue
+            ents.append((f["properties"].get("NAME", ""), gi))
+    except Exception as exc:  # pragma: no cover
+        print(f"  [historical base skipped: {exc}]")
+        return empty
+
+    land_union = unary_union([g for _, g in ents])
+    tints = [(_geom_to_path(g), TERRITORY_TINTS[n])
+             for n, g in ents if n in TERRITORY_TINTS]
+    borders = " ".join(_geom_to_path(g) for _, g in ents)
+    return {"land": _geom_to_path(land_union), "borders": borders, "tints": tints}
+
+
+BASE = build_historical()
 
 
 # lon, lat of every place
@@ -80,12 +157,17 @@ COORD = {
 MAIN_ROUTE = ["caussade", "stettin", "isenburg", "rotterdam", "berlin"]
 EXCURSIONS = [("stettin", "bohemia"), ("rotterdam", "lehavre"), ("berlin", "halle")]
 
-# Region context labels: (lon, lat, text, rotation)
+# Region context labels over land: (lon, lat, rotation)
 REGIONS_BASE = [
-    (2.6, 46.7, 0),   # France
-    (5.9, 53.4, 0),   # Netherlands
-    (11.4, 54.0, 0),  # Prussia
-    (13.7, 49.9, 0),  # Bohemia
+    (1.9, 47.2, 0),    # France
+    (5.6, 52.85, 0),   # Netherlands
+    (11.6, 54.0, 0),   # Prussia
+    (14.9, 49.5, 0),   # Bohemia
+]
+# Sea labels: (lon, lat, rotation). The Atlantic strip is too narrow after
+# filling the plate, so only the North Sea is labelled.
+SEAS_BASE = [
+    (3.1, 54.4, 0),    # North Sea
 ]
 
 TEXT = {
@@ -93,6 +175,7 @@ TEXT = {
         "title": "Etiennes Lebensweg 1737–1808",
         "subtitle": "Von Caussade in Südfrankreich über Stettin, Isenburg und Rotterdam nach Berlin",
         "regions": ["FRANKREICH", "NIEDER-\nLANDE", "PREUSSEN", "BÖHMEN"],
+        "seas": ["NORDSEE"],
         "legend_head": "Stationen",
         "pins": {
             "caussade": "Caussade",
@@ -127,8 +210,8 @@ TEXT = {
             ("↳", "Halle (Saale)", "1794 & 1798",
              "Als reisender Zahnarzt (Nebenreisen)."),
         ],
-        "caption": "Schematische Karte des Lebensweges – Hauptstationen nummeriert, "
-                   "Nebenreisen gestrichelt.",
+        "caption": "Grenzverläufe von 1783 (nach A. Ourednik, Historical Basemaps, GPLv3) – "
+                   "Hauptstationen nummeriert, Nebenreisen gestrichelt.",
         "scalebar": "200 km",
         "north": "N",
     },
@@ -136,6 +219,7 @@ TEXT = {
         "title": "Etienne's Life Journey 1737–1808",
         "subtitle": "From Caussade in southern France via Stettin, Isenburg and Rotterdam to Berlin",
         "regions": ["FRANCE", "NETHER-\nLANDS", "PRUSSIA", "BOHEMIA"],
+        "seas": ["NORTH SEA"],
         "legend_head": "Stations",
         "pins": {
             "caussade": "Caussade",
@@ -170,8 +254,8 @@ TEXT = {
             ("↳", "Halle (Saale)", "1794 & 1798",
              "As a travelling dentist (side-trips)."),
         ],
-        "caption": "Schematic map of the life journey – main stations numbered, "
-                   "side-trips dashed.",
+        "caption": "Borders as of 1783 (after A. Ourednik, Historical Basemaps, GPLv3) – "
+                   "main stations numbered, side-trips dashed.",
         "scalebar": "200 km",
         "north": "N",
     },
@@ -185,16 +269,49 @@ def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def arrowhead(x0, y0, x1, y1, t=0.60, size=11, color=ROUTE):
-    """Triangle arrowhead at fraction t along segment, pointing to (x1,y1)."""
-    ax = x0 + (x1 - x0) * t
-    ay = y0 + (y1 - y0) * t
-    ang = math.atan2(y1 - y0, x1 - x0)
+def arrowhead_at(ax, ay, ang, size=11, color=ROUTE):
+    """Triangle arrowhead centred at (ax,ay), pointing along angle `ang`."""
     p1 = (ax + size * math.cos(ang), ay + size * math.sin(ang))
     p2 = (ax + size * math.cos(ang + 2.5), ay + size * math.sin(ang + 2.5))
     p3 = (ax + size * math.cos(ang - 2.5), ay + size * math.sin(ang - 2.5))
     return (f'<polygon points="{p1[0]:.1f},{p1[1]:.1f} {p2[0]:.1f},{p2[1]:.1f} '
             f'{p3[0]:.1f},{p3[1]:.1f}" fill="{color}"/>')
+
+
+def arrowhead(x0, y0, x1, y1, t=0.60, size=11, color=ROUTE):
+    """Arrowhead at fraction t along a straight segment, pointing to (x1,y1)."""
+    return arrowhead_at(x0 + (x1 - x0) * t, y0 + (y1 - y0) * t,
+                        math.atan2(y1 - y0, x1 - x0), size, color)
+
+
+def quad_point(p0, c, p1, t):
+    """Point and tangent angle on a quadratic Bézier at parameter t."""
+    mt = 1 - t
+    x = mt * mt * p0[0] + 2 * mt * t * c[0] + t * t * p1[0]
+    y = mt * mt * p0[1] + 2 * mt * t * c[1] + t * t * p1[1]
+    dx = 2 * mt * (c[0] - p0[0]) + 2 * t * (p1[0] - c[0])
+    dy = 2 * mt * (c[1] - p0[1]) + 2 * t * (p1[1] - c[1])
+    return x, y, math.atan2(dy, dx)
+
+
+def halo_text(x, y, text, size, fill, anchor="start", family=SANS,
+              weight=None, italic=False, ls=None, halo=PARCHMENT2, halo_w=3.0):
+    """Halo'd text drawn as two elements (halo underneath, fill on top).
+
+    cairosvg does not honour SVG `paint-order`, so a single element with a
+    thick light stroke would paint the halo over the dark fill and wash the
+    text out. Emitting the halo copy first and the fill copy second is robust."""
+    a = f'font-family="{family}" font-size="{size}"'
+    if weight:
+        a += f' font-weight="{weight}"'
+    if italic:
+        a += ' font-style="italic"'
+    if ls:
+        a += f' letter-spacing="{ls}"'
+    common = f'x="{x:.1f}" y="{y:.1f}" text-anchor="{anchor}" {a}'
+    return (f'<text {common} fill="{halo}" stroke="{halo}" stroke-width="{halo_w}" '
+            f'stroke-linejoin="round">{esc(text)}</text>'
+            f'<text {common} fill="{fill}">{esc(text)}</text>')
 
 
 def build_svg(lang):
@@ -216,35 +333,60 @@ def build_svg(lang):
              f'width="{MAP_X1-MAP_X0-4}" height="{MAP_Y1-MAP_Y0-4}" rx="5"/></clipPath>')
     s.append(f'<g clip-path="url(#mapclip)">')
 
-    # graticule
+    # sea background
+    s.append(f'<rect x="{MAP_X0+2}" y="{MAP_Y0+2}" width="{MAP_X1-MAP_X0-4}" '
+             f'height="{MAP_Y1-MAP_Y0-4}" fill="{SEA}"/>')
+
+    # historical base (1783): land fill, territory washes, political borders
+    if BASE["land"]:
+        # land mass
+        s.append(f'<path d="{BASE["land"]}" fill="{LAND}" fill-rule="evenodd" '
+                 f'stroke="none"/>')
+        # faint antique washes for the major powers
+        for tint_d, tint_fill in BASE["tints"]:
+            s.append(f'<path d="{tint_d}" fill="{tint_fill}" fill-rule="evenodd" '
+                     f'stroke="none" opacity="0.6"/>')
+        # political borders of 1783 (coastline + internal state borders)
+        s.append(f'<path d="{BASE["borders"]}" fill="none" stroke="{COAST}" '
+                 f'stroke-width="0.8" fill-rule="evenodd" opacity="0.75"/>')
+        # coastline emphasis + soft coastal shading
+        s.append(f'<path d="{BASE["land"]}" fill="none" stroke="#d8c9a0" '
+                 f'stroke-width="6" fill-rule="evenodd" opacity="0.5"/>')
+        s.append(f'<path d="{BASE["land"]}" fill="none" stroke="{COAST}" '
+                 f'stroke-width="1.5" fill-rule="evenodd"/>')
+
+    # graticule (faint, over land + sea)
     lon = math.ceil(LON_MIN / 2) * 2
     while lon <= LON_MAX:
         x, _ = px(lon, LAT_MAX)
-        _, y1 = px(lon, LAT_MIN)
         s.append(f'<line x1="{x:.1f}" y1="{MAP_Y0+2}" x2="{x:.1f}" y2="{MAP_Y1-2}" '
-                 f'stroke="{GRID}" stroke-width="1"/>')
-        s.append(f'<text x="{x:.1f}" y="{MAP_Y1-8}" font-family="{SANS}" '
-                 f'font-size="11" fill="{INK_SOFT}" text-anchor="middle" '
-                 f'opacity="0.75">{lon}°E</text>')
+                 f'stroke="{GRID}" stroke-width="0.8" opacity="0.4"/>')
+        s.append(halo_text(x, MAP_Y1 - 8, f"{lon}°E", 11, INK_SOFT,
+                           anchor="middle", halo="#eae1c9", halo_w=2.6))
         lon += 2
     lat = math.ceil(LAT_MIN / 2) * 2
     while lat <= LAT_MAX:
         _, y = px(LON_MIN, lat)
         s.append(f'<line x1="{MAP_X0+2}" y1="{y:.1f}" x2="{MAP_X1-2}" y2="{y:.1f}" '
-                 f'stroke="{GRID}" stroke-width="1"/>')
-        s.append(f'<text x="{MAP_X0+6}" y="{y-4:.1f}" font-family="{SANS}" '
-                 f'font-size="11" fill="{INK_SOFT}" text-anchor="start" '
-                 f'opacity="0.75">{lat}°N</text>')
+                 f'stroke="{GRID}" stroke-width="0.8" opacity="0.4"/>')
+        s.append(halo_text(MAP_X0 + 6, y - 4, f"{lat}°N", 11, INK_SOFT,
+                           anchor="start", halo="#eae1c9", halo_w=2.6))
         lat += 2
+
+    # sea labels
+    for (lon_r, lat_r, rot), txt in zip(SEAS_BASE, t["seas"]):
+        x, y = px(lon_r, lat_r)
+        s.append(f'<text x="{x:.1f}" y="{y:.1f}" font-family="{FONT}" '
+                 f'font-size="15" letter-spacing="4" fill="{SEA_LABEL}" '
+                 f'text-anchor="middle" font-style="italic">{esc(txt)}</text>')
 
     # region context labels
     for (lon_r, lat_r, rot), txt in zip(REGIONS_BASE, t["regions"]):
         x, y = px(lon_r, lat_r)
         lines = txt.split("\n")
         for i, ln in enumerate(lines):
-            s.append(f'<text x="{x:.1f}" y="{y + i*20:.1f}" font-family="{SANS}" '
-                     f'font-size="17" letter-spacing="3" fill="{LAND_LABEL}" '
-                     f'text-anchor="middle" font-weight="700">{esc(ln)}</text>')
+            s.append(halo_text(x, y + i * 20, ln, 16, LAND_LABEL, anchor="middle",
+                               family=SANS, weight="700", ls=3, halo=LAND, halo_w=3.0))
 
     # excursion connectors (dashed) - under main route
     for a, b in EXCURSIONS:
@@ -254,14 +396,32 @@ def build_svg(lang):
                  f'stroke="{EXCURSION}" stroke-width="3" stroke-dasharray="2 7" '
                  f'stroke-linecap="round" opacity="0.9"/>')
 
-    # main route: halo then line then arrowheads
+    # main route: halo then line then arrowheads. The long Caussade->Stettin
+    # leg is bowed (quadratic) to the south-east so it clears the Isenburg /
+    # Rotterdam cluster instead of overlapping it.
     pts = [px(*COORD[k]) for k in MAIN_ROUTE]
-    d = "M " + " L ".join(f"{x:.1f} {y:.1f}" for x, y in pts)
+    p0, p1 = pts[0], pts[1]
+    mx, my = (p0[0] + p1[0]) / 2, (p0[1] + p1[1]) / 2
+    vx, vy = p1[0] - p0[0], p1[1] - p0[1]
+    vlen = math.hypot(vx, vy) or 1.0
+    # unit normal pointing south-east (away from the Isenburg cluster)
+    nx, ny = -vy / vlen, vx / vlen
+    if nx < 0:
+        nx, ny = -nx, -ny
+    bow = 0.14 * vlen
+    ctrl = (mx + nx * bow, my + ny * bow)
+    d = (f"M {p0[0]:.1f} {p0[1]:.1f} Q {ctrl[0]:.1f} {ctrl[1]:.1f} "
+         f"{p1[0]:.1f} {p1[1]:.1f} "
+         + " ".join(f"L {x:.1f} {y:.1f}" for x, y in pts[2:]))
     s.append(f'<path d="{d}" fill="none" stroke="{ROUTE_HALO}" stroke-width="8" '
              f'stroke-linejoin="round" stroke-linecap="round"/>')
     s.append(f'<path d="{d}" fill="none" stroke="{ROUTE}" stroke-width="3.4" '
              f'stroke-linejoin="round" stroke-linecap="round"/>')
-    for (x0, y0), (x1, y1) in zip(pts[:-1], pts[1:]):
+    # arrowhead on the bowed leg (tangent to the curve)
+    bx, by, bang = quad_point(p0, ctrl, p1, 0.62)
+    s.append(arrowhead_at(bx, by, bang))
+    # arrowheads on the straight legs
+    for (x0, y0), (x1, y1) in zip(pts[1:-1], pts[2:]):
         s.append(arrowhead(x0, y0, x1, y1))
 
     # excursion end markers (small diamonds) + labels
@@ -278,11 +438,11 @@ def build_svg(lang):
                  f'stroke="#fff" stroke-width="1.5"/>')
     # excursion labels
     xb, yb = px(*COORD["bohemia"])
-    s.append(f'<text x="{xb:.1f}" y="{yb+24:.1f}" font-family="{SANS}" font-size="13" '
-             f'fill="{EXCURSION}" text-anchor="middle" font-style="italic">{esc(t["exc"]["bohemia"])}</text>')
+    s.append(halo_text(xb, yb + 24, t["exc"]["bohemia"], 13, EXCURSION,
+                       anchor="middle", family=SANS, italic=True, halo=LAND, halo_w=3.0))
     xb, yb = px(*COORD["lehavre"])
-    s.append(f'<text x="{xb-12:.1f}" y="{yb+4:.1f}" font-family="{SANS}" font-size="13" '
-             f'fill="{EXCURSION}" text-anchor="end" font-style="italic">{esc(t["exc"]["lehavre"])}</text>')
+    s.append(halo_text(xb - 12, yb + 4, t["exc"]["lehavre"], 13, EXCURSION,
+                       anchor="end", family=SANS, italic=True, halo=LAND, halo_w=3.0))
     # (Halle sits in the congested centre where several routes cross; its
     # on-map label is omitted - the legend lists it clearly instead.)
 
@@ -304,10 +464,8 @@ def build_svg(lang):
                  f'font-size="16" font-weight="700" fill="#fff" '
                  f'text-anchor="middle">{i}</text>')
         dx, dy, anch = label_off[key]
-        s.append(f'<text x="{x+dx:.1f}" y="{y+dy:.1f}" font-family="{FONT}" '
-                 f'font-size="18" font-weight="700" fill="{INK}" '
-                 f'text-anchor="{anch}" paint-order="stroke" stroke="{PARCHMENT2}" '
-                 f'stroke-width="3">{esc(t["pins"][key])}</text>')
+        s.append(halo_text(x + dx, y + dy, t["pins"][key], 18, INK, anchor=anch,
+                           family=FONT, weight="700", halo="#f6efdd", halo_w=3.6))
 
     s.append('</g>')  # end map clip
 
@@ -319,7 +477,7 @@ def build_svg(lang):
              f'font-weight="700" fill="{ROUTE}" text-anchor="middle">{t["north"]}</text>')
 
     # scale bar (200 km)
-    bar_px = 200.0 / 111.0 * SCALE
+    bar_px = 200.0 * SX / (111.0 * K)   # 200 km horizontally at mean latitude
     bx0 = MAP_X0 + 24
     by = MAP_Y1 - 26
     s.append(f'<line x1="{bx0:.1f}" y1="{by}" x2="{bx0+bar_px:.1f}" y2="{by}" '

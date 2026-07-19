@@ -96,7 +96,8 @@
 
 ### Maps
 
-- **David Rumsey Map Collection** - [Carte de France (1777), Blatt Montauban](https://www.davidrumsey.com/luna/servlet/s/8584yt)
+- **David Rumsey Map Collection** - [Carte de France (1777), Montauban sheet](https://www.davidrumsey.com/luna/servlet/s/8584yt)
+- **Historical borders (1783)** for the life-journey map on the start page: A. Ourednik, [*Historical Basemaps*](https://github.com/aourednik/historical-basemaps) (file `world_1783.geojson`), licensed under GNU GPL v3
 
 ---
 

@@ -97,6 +97,7 @@
 ### Karten
 
 - **David Rumsey Map Collection** - [Carte de France (1777), Blatt Montauban](https://www.davidrumsey.com/luna/servlet/s/8584yt)
+- **Historische Grenzverläufe (1783)** für die Lebensweg-Karte auf der Startseite: A. Ourednik, [*Historical Basemaps*](https://github.com/aourednik/historical-basemaps) (Datei `world_1783.geojson`), lizenziert unter GNU GPL v3
 
 ---
 

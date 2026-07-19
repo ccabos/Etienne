@@ -157,12 +157,15 @@ COORD = {
 MAIN_ROUTE = ["caussade", "stettin", "isenburg", "rotterdam", "berlin"]
 EXCURSIONS = [("stettin", "bohemia"), ("rotterdam", "lehavre"), ("berlin", "halle")]
 
-# Region context labels over land: (lon, lat, rotation)
+# Region context labels over land: (lon, lat, rotation). These four are the
+# major powers Etienne actually lived in, so they stay prominent. Prussia is
+# placed in its open Neumark territory east of Berlin (the Berlin/Stettin core
+# is occupied by the route); (11.6,54) would fall on Mecklenburg, not Prussia.
 REGIONS_BASE = [
-    (1.9, 47.2, 0),    # France
-    (5.6, 52.85, 0),   # Netherlands
-    (11.6, 54.0, 0),   # Prussia
-    (14.9, 49.5, 0),   # Bohemia
+    (1.9, 47.2, 16, 3),      # France
+    (5.6, 52.85, 16, 3),     # Netherlands
+    (15.2, 52.7, 14, 1.4),   # Prussia (Neumark; narrower to fit the gap)
+    (14.9, 49.5, 16, 3),     # Bohemia
 ]
 # Sea labels: (lon, lat, rotation). The Atlantic strip is too narrow after
 # filling the plate, so only the North Sea is labelled.
@@ -170,19 +173,32 @@ SEAS_BASE = [
     (3.1, 54.4, 0),    # North Sea
 ]
 
-# Small labels for the other 1783 states/countries: (lon, lat, de, en).
-# The four major powers already carry the large region labels above.
+# Small labels for the other 1783 states/countries (places Etienne did not
+# live in): (lon, lat, de, en). Kept smaller than the major-power labels.
 MINOR_LABELS = [
     (13.2, 47.3, "ÖSTERREICH", "AUSTRIA"),
-    (11.9, 48.8, "BAYERN", "BAVARIA"),
-    (12.75, 51.15, "SACHSEN", "SAXONY"),
-    (10.5, 53.45, "MECKLENBURG", "MECKLENBURG"),
+    (11.9, 48.85, "BAYERN", "BAVARIA"),
+    (12.75, 51.1, "SACHSEN", "SAXONY"),
+    (11.4, 53.4, "MECKLENBURG", "MECKLENBURG"),
+    (9.85, 53.95, "HOLSTEIN", "HOLSTEIN"),
+    (9.1, 54.45, "DÄNEMARK", "DENMARK"),
     (-0.9, 53.0, "GROSS-\nBRITANNIEN", "BRITAIN"),
-    (8.3, 46.75, "SCHWEIZ", "SWITZERLAND"),
-    (15.8, 51.7, "POLEN", "POLAND"),
-    (9.3, 54.35, "DÄNEMARK", "DENMARK"),
+    (8.35, 46.7, "SCHWEIZ", "SWITZERLAND"),
+    (7.7, 48.7, "BADEN", "BADEN"),
+    (9.35, 48.0, "WÜRTTEMBERG", "WÜRTTEMBERG"),
+    (4.25, 50.3, "ÖSTERR.\nNIEDERLANDE", "AUSTRIAN\nNETHERLANDS"),
+    (15.8, 51.55, "POLEN", "POLAND"),
     (7.3, 45.0, "SARDINIEN-\nPIEMONT", "SARDINIA-\nPIEDMONT"),
+    (9.7, 45.5, "MAILAND", "MILAN"),
     (12.5, 45.7, "VENEDIG", "VENICE"),
+]
+
+# Context cities Etienne did not visit (small marker + small label):
+# (lon, lat, de, en, dx, dy, anchor)
+CITIES = [
+    (2.35, 48.86, "Paris", "Paris", 7, 4, "start"),
+    (1.44, 43.62, "Toulouse", "Toulouse", 7, 4, "start"),
+    (16.37, 48.21, "Wien", "Vienna", -7, 4, "end"),
 ]
 
 TEXT = {
@@ -395,7 +411,7 @@ def build_svg(lang):
                  f'font-size="15" letter-spacing="4" fill="{SEA_LABEL}" '
                  f'text-anchor="middle" font-style="italic">{esc(txt)}</text>')
 
-    # small labels for the other countries/states of 1783
+    # small labels for the other countries/states of 1783 (not visited)
     li = 2 if lang == "de" else 3
     for entry in MINOR_LABELS:
         lon_r, lat_r = entry[0], entry[1]
@@ -403,16 +419,26 @@ def build_svg(lang):
         x, y = px(lon_r, lat_r)
         lines = txt.split("\n")
         for i, ln in enumerate(lines):
-            s.append(halo_text(x, y + i * 12, ln, 10.5, "#8a7a58", anchor="middle",
-                               family=SANS, ls=0.6, halo=LAND, halo_w=2.4))
+            s.append(halo_text(x, y + i * 11, ln, 9.5, "#8a7a58", anchor="middle",
+                               family=SANS, ls=0.5, halo=LAND, halo_w=2.2))
 
-    # region context labels (major powers, larger)
-    for (lon_r, lat_r, rot), txt in zip(REGIONS_BASE, t["regions"]):
+    # context cities Etienne did not visit (small marker + small label)
+    for lon_c, lat_c, de, en, dx, dy, anch in CITIES:
+        x, y = px(lon_c, lat_c)
+        s.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.3" fill="none" '
+                 f'stroke="{INK_SOFT}" stroke-width="1.6"/>')
+        s.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="0.9" fill="{INK_SOFT}"/>')
+        s.append(halo_text(x + dx, y + dy, de if lang == "de" else en, 10.5,
+                           INK_SOFT, anchor=anch, family=FONT, italic=True,
+                           halo=LAND, halo_w=2.6))
+
+    # region context labels (major powers Etienne lived in, larger)
+    for (lon_r, lat_r, size, ls), txt in zip(REGIONS_BASE, t["regions"]):
         x, y = px(lon_r, lat_r)
         lines = txt.split("\n")
         for i, ln in enumerate(lines):
-            s.append(halo_text(x, y + i * 20, ln, 16, LAND_LABEL, anchor="middle",
-                               family=SANS, weight="700", ls=3, halo=LAND, halo_w=3.0))
+            s.append(halo_text(x, y + i * 20, ln, size, LAND_LABEL, anchor="middle",
+                               family=SANS, weight="700", ls=ls, halo=LAND, halo_w=3.0))
 
     # excursion connectors (dashed) - under main route
     for a, b in EXCURSIONS:

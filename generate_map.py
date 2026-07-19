@@ -170,6 +170,21 @@ SEAS_BASE = [
     (3.1, 54.4, 0),    # North Sea
 ]
 
+# Small labels for the other 1783 states/countries: (lon, lat, de, en).
+# The four major powers already carry the large region labels above.
+MINOR_LABELS = [
+    (13.2, 47.3, "ÖSTERREICH", "AUSTRIA"),
+    (11.9, 48.8, "BAYERN", "BAVARIA"),
+    (12.75, 51.15, "SACHSEN", "SAXONY"),
+    (10.5, 53.45, "MECKLENBURG", "MECKLENBURG"),
+    (-0.9, 53.0, "GROSS-\nBRITANNIEN", "BRITAIN"),
+    (8.3, 46.75, "SCHWEIZ", "SWITZERLAND"),
+    (15.8, 51.7, "POLEN", "POLAND"),
+    (9.3, 54.35, "DÄNEMARK", "DENMARK"),
+    (7.3, 45.0, "SARDINIEN-\nPIEMONT", "SARDINIA-\nPIEDMONT"),
+    (12.5, 45.7, "VENEDIG", "VENICE"),
+]
+
 TEXT = {
     "de": {
         "title": "Etiennes Lebensweg 1737–1808",
@@ -380,7 +395,18 @@ def build_svg(lang):
                  f'font-size="15" letter-spacing="4" fill="{SEA_LABEL}" '
                  f'text-anchor="middle" font-style="italic">{esc(txt)}</text>')
 
-    # region context labels
+    # small labels for the other countries/states of 1783
+    li = 2 if lang == "de" else 3
+    for entry in MINOR_LABELS:
+        lon_r, lat_r = entry[0], entry[1]
+        txt = entry[li]
+        x, y = px(lon_r, lat_r)
+        lines = txt.split("\n")
+        for i, ln in enumerate(lines):
+            s.append(halo_text(x, y + i * 12, ln, 10.5, "#8a7a58", anchor="middle",
+                               family=SANS, ls=0.6, halo=LAND, halo_w=2.4))
+
+    # region context labels (major powers, larger)
     for (lon_r, lat_r, rot), txt in zip(REGIONS_BASE, t["regions"]):
         x, y = px(lon_r, lat_r)
         lines = txt.split("\n")
@@ -396,33 +422,46 @@ def build_svg(lang):
                  f'stroke="{EXCURSION}" stroke-width="3" stroke-dasharray="2 7" '
                  f'stroke-linecap="round" opacity="0.9"/>')
 
-    # main route: halo then line then arrowheads. The long Caussade->Stettin
-    # leg is bowed (quadratic) to the south-east so it clears the Isenburg /
-    # Rotterdam cluster instead of overlapping it.
+    # main route. Two legs are bowed (quadratic) to avoid overlaps:
+    #   leg 0 Caussade->Stettin  bows south-east (clears the Isenburg cluster)
+    #   leg 1 Stettin->Isenburg  bows north (up), away from leg 0
+    # remaining legs are straight.
     pts = [px(*COORD[k]) for k in MAIN_ROUTE]
-    p0, p1 = pts[0], pts[1]
-    mx, my = (p0[0] + p1[0]) / 2, (p0[1] + p1[1]) / 2
-    vx, vy = p1[0] - p0[0], p1[1] - p0[1]
-    vlen = math.hypot(vx, vy) or 1.0
-    # unit normal pointing south-east (away from the Isenburg cluster)
-    nx, ny = -vy / vlen, vx / vlen
-    if nx < 0:
-        nx, ny = -nx, -ny
-    bow = 0.14 * vlen
-    ctrl = (mx + nx * bow, my + ny * bow)
-    d = (f"M {p0[0]:.1f} {p0[1]:.1f} Q {ctrl[0]:.1f} {ctrl[1]:.1f} "
-         f"{p1[0]:.1f} {p1[1]:.1f} "
-         + " ".join(f"L {x:.1f} {y:.1f}" for x, y in pts[2:]))
+    CURVES = {0: ("se", 0.14), 1: ("up", 0.07)}
+
+    def control(a, b, side, frac):
+        mxx, myy = (a[0] + b[0]) / 2, (a[1] + b[1]) / 2
+        vX, vY = b[0] - a[0], b[1] - a[1]
+        L = math.hypot(vX, vY) or 1.0
+        nX, nY = -vY / L, vX / L
+        if side == "se" and nX < 0:
+            nX, nY = -nX, -nY
+        if side == "up" and nY > 0:      # normal pointing north (screen up)
+            nX, nY = -nX, -nY
+        return (mxx + nX * frac * L, myy + nY * frac * L)
+
+    ctrls = {}
+    d = f"M {pts[0][0]:.1f} {pts[0][1]:.1f}"
+    for i in range(len(pts) - 1):
+        a, b = pts[i], pts[i + 1]
+        if i in CURVES:
+            c = control(a, b, *CURVES[i])
+            ctrls[i] = c
+            d += f" Q {c[0]:.1f} {c[1]:.1f} {b[0]:.1f} {b[1]:.1f}"
+        else:
+            d += f" L {b[0]:.1f} {b[1]:.1f}"
     s.append(f'<path d="{d}" fill="none" stroke="{ROUTE_HALO}" stroke-width="8" '
              f'stroke-linejoin="round" stroke-linecap="round"/>')
     s.append(f'<path d="{d}" fill="none" stroke="{ROUTE}" stroke-width="3.4" '
              f'stroke-linejoin="round" stroke-linecap="round"/>')
-    # arrowhead on the bowed leg (tangent to the curve)
-    bx, by, bang = quad_point(p0, ctrl, p1, 0.62)
-    s.append(arrowhead_at(bx, by, bang))
-    # arrowheads on the straight legs
-    for (x0, y0), (x1, y1) in zip(pts[1:-1], pts[2:]):
-        s.append(arrowhead(x0, y0, x1, y1))
+    # arrowheads (tangent to the curve on bowed legs)
+    for i in range(len(pts) - 1):
+        a, b = pts[i], pts[i + 1]
+        if i in CURVES:
+            ax, ay, ang = quad_point(a, ctrls[i], b, 0.62)
+            s.append(arrowhead_at(ax, ay, ang))
+        else:
+            s.append(arrowhead(a[0], a[1], b[0], b[1]))
 
     # excursion end markers (small diamonds) + labels
     exc_label_pos = {

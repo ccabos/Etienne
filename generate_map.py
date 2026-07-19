@@ -157,17 +157,48 @@ COORD = {
 MAIN_ROUTE = ["caussade", "stettin", "isenburg", "rotterdam", "berlin"]
 EXCURSIONS = [("stettin", "bohemia"), ("rotterdam", "lehavre"), ("berlin", "halle")]
 
-# Region context labels over land: (lon, lat, rotation)
+# Region context labels over land: (lon, lat, rotation). These four are the
+# major powers Etienne actually lived in, so they stay prominent. Prussia is
+# placed in its open Neumark territory east of Berlin (the Berlin/Stettin core
+# is occupied by the route); (11.6,54) would fall on Mecklenburg, not Prussia.
 REGIONS_BASE = [
-    (1.9, 47.2, 0),    # France
-    (5.6, 52.85, 0),   # Netherlands
-    (11.6, 54.0, 0),   # Prussia
-    (14.9, 49.5, 0),   # Bohemia
+    (1.9, 47.2, 16, 3),      # France
+    (5.6, 52.85, 16, 3),     # Netherlands
+    (15.2, 52.7, 14, 1.4),   # Prussia (Neumark; narrower to fit the gap)
+    (14.9, 49.5, 16, 3),     # Bohemia
 ]
 # Sea labels: (lon, lat, rotation). The Atlantic strip is too narrow after
 # filling the plate, so only the North Sea is labelled.
 SEAS_BASE = [
     (3.1, 54.4, 0),    # North Sea
+]
+
+# Small labels for the other 1783 states/countries (places Etienne did not
+# live in): (lon, lat, de, en). Kept smaller than the major-power labels.
+MINOR_LABELS = [
+    (13.2, 47.3, "ÖSTERREICH", "AUSTRIA"),
+    (11.9, 48.85, "BAYERN", "BAVARIA"),
+    (12.75, 51.1, "SACHSEN", "SAXONY"),
+    (11.4, 53.4, "MECKLENBURG", "MECKLENBURG"),
+    (9.85, 53.95, "HOLSTEIN", "HOLSTEIN"),
+    (9.1, 54.45, "DÄNEMARK", "DENMARK"),
+    (-0.9, 53.0, "GROSS-\nBRITANNIEN", "BRITAIN"),
+    (8.35, 46.7, "SCHWEIZ", "SWITZERLAND"),
+    (7.7, 48.7, "BADEN", "BADEN"),
+    (9.35, 48.0, "WÜRTTEMBERG", "WÜRTTEMBERG"),
+    (4.25, 50.3, "ÖSTERR.\nNIEDERLANDE", "AUSTRIAN\nNETHERLANDS"),
+    (15.8, 51.55, "POLEN", "POLAND"),
+    (7.3, 45.0, "SARDINIEN-\nPIEMONT", "SARDINIA-\nPIEDMONT"),
+    (9.7, 45.5, "MAILAND", "MILAN"),
+    (12.5, 45.7, "VENEDIG", "VENICE"),
+]
+
+# Context cities Etienne did not visit (small marker + small label):
+# (lon, lat, de, en, dx, dy, anchor)
+CITIES = [
+    (2.35, 48.86, "Paris", "Paris", 7, 4, "start"),
+    (1.44, 43.62, "Toulouse", "Toulouse", 7, 4, "start"),
+    (16.37, 48.21, "Wien", "Vienna", -7, 4, "end"),
 ]
 
 TEXT = {
@@ -380,13 +411,34 @@ def build_svg(lang):
                  f'font-size="15" letter-spacing="4" fill="{SEA_LABEL}" '
                  f'text-anchor="middle" font-style="italic">{esc(txt)}</text>')
 
-    # region context labels
-    for (lon_r, lat_r, rot), txt in zip(REGIONS_BASE, t["regions"]):
+    # small labels for the other countries/states of 1783 (not visited)
+    li = 2 if lang == "de" else 3
+    for entry in MINOR_LABELS:
+        lon_r, lat_r = entry[0], entry[1]
+        txt = entry[li]
         x, y = px(lon_r, lat_r)
         lines = txt.split("\n")
         for i, ln in enumerate(lines):
-            s.append(halo_text(x, y + i * 20, ln, 16, LAND_LABEL, anchor="middle",
-                               family=SANS, weight="700", ls=3, halo=LAND, halo_w=3.0))
+            s.append(halo_text(x, y + i * 11, ln, 9.5, "#8a7a58", anchor="middle",
+                               family=SANS, ls=0.5, halo=LAND, halo_w=2.2))
+
+    # context cities Etienne did not visit (small marker + small label)
+    for lon_c, lat_c, de, en, dx, dy, anch in CITIES:
+        x, y = px(lon_c, lat_c)
+        s.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.3" fill="none" '
+                 f'stroke="{INK_SOFT}" stroke-width="1.6"/>')
+        s.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="0.9" fill="{INK_SOFT}"/>')
+        s.append(halo_text(x + dx, y + dy, de if lang == "de" else en, 10.5,
+                           INK_SOFT, anchor=anch, family=FONT, italic=True,
+                           halo=LAND, halo_w=2.6))
+
+    # region context labels (major powers Etienne lived in, larger)
+    for (lon_r, lat_r, size, ls), txt in zip(REGIONS_BASE, t["regions"]):
+        x, y = px(lon_r, lat_r)
+        lines = txt.split("\n")
+        for i, ln in enumerate(lines):
+            s.append(halo_text(x, y + i * 20, ln, size, LAND_LABEL, anchor="middle",
+                               family=SANS, weight="700", ls=ls, halo=LAND, halo_w=3.0))
 
     # excursion connectors (dashed) - under main route
     for a, b in EXCURSIONS:
@@ -396,33 +448,46 @@ def build_svg(lang):
                  f'stroke="{EXCURSION}" stroke-width="3" stroke-dasharray="2 7" '
                  f'stroke-linecap="round" opacity="0.9"/>')
 
-    # main route: halo then line then arrowheads. The long Caussade->Stettin
-    # leg is bowed (quadratic) to the south-east so it clears the Isenburg /
-    # Rotterdam cluster instead of overlapping it.
+    # main route. Two legs are bowed (quadratic) to avoid overlaps:
+    #   leg 0 Caussade->Stettin  bows south-east (clears the Isenburg cluster)
+    #   leg 1 Stettin->Isenburg  bows north (up), away from leg 0
+    # remaining legs are straight.
     pts = [px(*COORD[k]) for k in MAIN_ROUTE]
-    p0, p1 = pts[0], pts[1]
-    mx, my = (p0[0] + p1[0]) / 2, (p0[1] + p1[1]) / 2
-    vx, vy = p1[0] - p0[0], p1[1] - p0[1]
-    vlen = math.hypot(vx, vy) or 1.0
-    # unit normal pointing south-east (away from the Isenburg cluster)
-    nx, ny = -vy / vlen, vx / vlen
-    if nx < 0:
-        nx, ny = -nx, -ny
-    bow = 0.14 * vlen
-    ctrl = (mx + nx * bow, my + ny * bow)
-    d = (f"M {p0[0]:.1f} {p0[1]:.1f} Q {ctrl[0]:.1f} {ctrl[1]:.1f} "
-         f"{p1[0]:.1f} {p1[1]:.1f} "
-         + " ".join(f"L {x:.1f} {y:.1f}" for x, y in pts[2:]))
+    CURVES = {0: ("se", 0.14), 1: ("up", 0.07)}
+
+    def control(a, b, side, frac):
+        mxx, myy = (a[0] + b[0]) / 2, (a[1] + b[1]) / 2
+        vX, vY = b[0] - a[0], b[1] - a[1]
+        L = math.hypot(vX, vY) or 1.0
+        nX, nY = -vY / L, vX / L
+        if side == "se" and nX < 0:
+            nX, nY = -nX, -nY
+        if side == "up" and nY > 0:      # normal pointing north (screen up)
+            nX, nY = -nX, -nY
+        return (mxx + nX * frac * L, myy + nY * frac * L)
+
+    ctrls = {}
+    d = f"M {pts[0][0]:.1f} {pts[0][1]:.1f}"
+    for i in range(len(pts) - 1):
+        a, b = pts[i], pts[i + 1]
+        if i in CURVES:
+            c = control(a, b, *CURVES[i])
+            ctrls[i] = c
+            d += f" Q {c[0]:.1f} {c[1]:.1f} {b[0]:.1f} {b[1]:.1f}"
+        else:
+            d += f" L {b[0]:.1f} {b[1]:.1f}"
     s.append(f'<path d="{d}" fill="none" stroke="{ROUTE_HALO}" stroke-width="8" '
              f'stroke-linejoin="round" stroke-linecap="round"/>')
     s.append(f'<path d="{d}" fill="none" stroke="{ROUTE}" stroke-width="3.4" '
              f'stroke-linejoin="round" stroke-linecap="round"/>')
-    # arrowhead on the bowed leg (tangent to the curve)
-    bx, by, bang = quad_point(p0, ctrl, p1, 0.62)
-    s.append(arrowhead_at(bx, by, bang))
-    # arrowheads on the straight legs
-    for (x0, y0), (x1, y1) in zip(pts[1:-1], pts[2:]):
-        s.append(arrowhead(x0, y0, x1, y1))
+    # arrowheads (tangent to the curve on bowed legs)
+    for i in range(len(pts) - 1):
+        a, b = pts[i], pts[i + 1]
+        if i in CURVES:
+            ax, ay, ang = quad_point(a, ctrls[i], b, 0.62)
+            s.append(arrowhead_at(ax, ay, ang))
+        else:
+            s.append(arrowhead(a[0], a[1], b[0], b[1]))
 
     # excursion end markers (small diamonds) + labels
     exc_label_pos = {

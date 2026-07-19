@@ -6,6 +6,21 @@
 
 *Europe in 1789 - the year of the French Revolution. The map shows the political borders during Etienne Cabos' lifetime.*
 
+### Etienne's life journey on the 1789 map
+
+![Etienne's life journey on the 1789 map](../images/karte-1789-weg-en.png){ loading=lazy }
+
+*The same contemporary map, with Etienne's life stations added. The points are georeferenced against known cities on the map itself; the route follows the chronological order:*
+
+- **Caussade (France)** – born 1737 (in the far southwest, off the edge of the map)
+- **Stettin** – soldier and marriage, 1772–1779
+- **Isenburg** – travel pass, 10 April 1780
+- **Rotterdam** – citizen, 1780–1792
+- **Berlin** – dentist from 1793, died 1808
+- **Halle** – dentist advertisements 1794/1798
+
+*Base map: "The Holy Roman Empire 1789". The route was added for this book (`generate_map_1789.py`).*
+
 ---
 
 ## Map from 1777 - Montauban Sheet

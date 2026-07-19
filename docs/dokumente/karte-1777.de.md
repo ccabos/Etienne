@@ -6,6 +6,21 @@
 
 *Europa im Jahr 1789 - dem Jahr der Französischen Revolution. Die Karte zeigt die politischen Grenzen zur Lebenszeit von Etienne Cabos.*
 
+### Etiennes Lebensweg auf der Karte von 1789
+
+![Etiennes Lebensweg auf der Karte von 1789](../images/karte-1789-weg.png){ loading=lazy }
+
+*Dieselbe zeitgenössische Karte, ergänzt um Etiennes Lebensstationen. Die Punkte sind über bekannte Städte der Karte eingemessen; der Weg folgt der zeitlichen Reihenfolge:*
+
+- **Caussade (Frankreich)** – Geburt 1737 (im Südwesten, außerhalb des Kartenausschnitts)
+- **Stettin** – Soldat und Heirat, 1772–1779
+- **Isenburg** – Reisepass, 10. April 1780
+- **Rotterdam** – Bürger, 1780–1792
+- **Berlin** – Zahnarzt ab 1793, gestorben 1808
+- **Halle** – Zahnarzt-Anzeigen 1794/1798
+
+*Grundkarte: „Das Heilige Römische Reich 1789". Die Wegführung wurde für dieses Buch ergänzt (`generate_map_1789.py`).*
+
 ---
 
 ## Karte von 1777 - Blatt Montauban

@@ -76,34 +76,14 @@ def _ring_to_path(coords):
     return " ".join(parts) + " Z"
 
 
-def build_land_path():
-    """Return one SVG path 'd' for all land within the map bounds, using real
-    coastline geometry (Natural Earth 110m via geopandas, offline). Country
-    borders are dissolved away so only coastlines remain - period-appropriate,
-    since 18th-century political borders differed from today's. Falls back to
-    an empty string if geopandas is unavailable (pre-generated PNGs ship in the
-    repo, so the deploy build never needs this)."""
-    try:
-        import warnings
-        warnings.filterwarnings("ignore")
-        import geopandas as gpd
-        from shapely.geometry import box
-        from shapely.ops import unary_union
-
-        world = gpd.read_file(gpd.datasets.get_path("naturalearth_lowres"))
-        land = unary_union(list(world.geometry))
-        clip = box(LON_MIN, LAT_MIN, LON_MAX, LAT_MAX)
-        land = land.intersection(clip)
-    except Exception as exc:  # pragma: no cover
-        print(f"  [land layer skipped: {exc}]")
-        return ""
-
+def _geom_to_path(geom):
+    """SVG path 'd' for a (Multi)Polygon: exteriors + holes."""
     polys = []
-    if land.geom_type == "Polygon":
-        polys = [land]
-    elif land.geom_type in ("MultiPolygon", "GeometryCollection"):
-        polys = [g for g in land.geoms if g.geom_type == "Polygon"]
-
+    gt = geom.geom_type
+    if gt == "Polygon":
+        polys = [geom]
+    elif gt in ("MultiPolygon", "GeometryCollection"):
+        polys = [g for g in geom.geoms if g.geom_type == "Polygon"]
     d = []
     for poly in polys:
         d.append(_ring_to_path(list(poly.exterior.coords)))
@@ -112,7 +92,60 @@ def build_land_path():
     return " ".join(d)
 
 
-LAND_PATH = build_land_path()
+# Faint antique washes for the major powers of 1783 (by NAME in the dataset)
+TERRITORY_TINTS = {
+    "France": "#e8dcac",
+    "Prussia": "#dbe1cb",
+    "Netherlands": "#d6e0dc",       # Dutch Republic (United Provinces)
+    "Austrian Empire": "#ecd6bf",   # Habsburg lands (incl. Bohemia)
+}
+
+BORDERS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                            "data", "world_1783.geojson")
+
+
+def build_historical():
+    """Build the 1783 base layer from the historical-basemaps dataset
+    (A. Ourednik, GPLv3): land fill, political borders, and faint washes for
+    the major powers. Falls back gracefully if data or shapely is missing
+    (the pre-generated PNGs ship in the repo, so deploy never needs this)."""
+    empty = {"land": "", "borders": "", "tints": []}
+    try:
+        import json
+        import warnings
+        warnings.filterwarnings("ignore")
+        from shapely.geometry import shape, box
+        from shapely.ops import unary_union
+
+        feats = json.load(open(BORDERS_FILE, encoding="utf-8"))["features"]
+        clip = box(LON_MIN, LAT_MIN, LON_MAX, LAT_MAX)
+        ents = []
+        for f in feats:
+            geom = f.get("geometry")
+            if not geom:
+                continue
+            try:
+                g = shape(geom)
+            except Exception:
+                continue
+            if not g.is_valid:
+                g = g.buffer(0)
+            gi = g.intersection(clip)
+            if gi.is_empty:
+                continue
+            ents.append((f["properties"].get("NAME", ""), gi))
+    except Exception as exc:  # pragma: no cover
+        print(f"  [historical base skipped: {exc}]")
+        return empty
+
+    land_union = unary_union([g for _, g in ents])
+    tints = [(_geom_to_path(g), TERRITORY_TINTS[n])
+             for n, g in ents if n in TERRITORY_TINTS]
+    borders = " ".join(_geom_to_path(g) for _, g in ents)
+    return {"land": _geom_to_path(land_union), "borders": borders, "tints": tints}
+
+
+BASE = build_historical()
 
 
 # lon, lat of every place
@@ -183,7 +216,7 @@ TEXT = {
             ("↳", "Halle (Saale)", "1794 & 1798",
              "Als reisender Zahnarzt (Nebenreisen)."),
         ],
-        "caption": "Karte im historischen Stil (Küstenlinien nach geografischen Daten) – "
+        "caption": "Grenzverläufe von 1783 (nach A. Ourednik, Historical Basemaps, GPLv3) – "
                    "Hauptstationen nummeriert, Nebenreisen gestrichelt.",
         "scalebar": "200 km",
         "north": "N",
@@ -227,7 +260,7 @@ TEXT = {
             ("↳", "Halle (Saale)", "1794 & 1798",
              "As a travelling dentist (side-trips)."),
         ],
-        "caption": "Map in a historical style (coastlines from geographic data) – "
+        "caption": "Borders as of 1783 (after A. Ourednik, Historical Basemaps, GPLv3) – "
                    "main stations numbered, side-trips dashed.",
         "scalebar": "200 km",
         "north": "N",
@@ -297,15 +330,23 @@ def build_svg(lang):
     s.append(f'<rect x="{MAP_X0+2}" y="{MAP_Y0+2}" width="{MAP_X1-MAP_X0-4}" '
              f'height="{MAP_Y1-MAP_Y0-4}" fill="{SEA}"/>')
 
-    # land masses (real coastline, historical style: parchment fill, sepia coast)
-    if LAND_PATH:
-        s.append(f'<path d="{LAND_PATH}" fill="{LAND}" fill-rule="evenodd" '
+    # historical base (1783): land fill, territory washes, political borders
+    if BASE["land"]:
+        # land mass
+        s.append(f'<path d="{BASE["land"]}" fill="{LAND}" fill-rule="evenodd" '
                  f'stroke="none"/>')
-        # soft coastal shading just inside the coast
-        s.append(f'<path d="{LAND_PATH}" fill="none" stroke="#d8c9a0" '
-                 f'stroke-width="6" fill-rule="evenodd" opacity="0.55"/>')
-        s.append(f'<path d="{LAND_PATH}" fill="none" stroke="{COAST}" '
-                 f'stroke-width="1.4" fill-rule="evenodd"/>')
+        # faint antique washes for the major powers
+        for tint_d, tint_fill in BASE["tints"]:
+            s.append(f'<path d="{tint_d}" fill="{tint_fill}" fill-rule="evenodd" '
+                     f'stroke="none" opacity="0.6"/>')
+        # political borders of 1783 (coastline + internal state borders)
+        s.append(f'<path d="{BASE["borders"]}" fill="none" stroke="{COAST}" '
+                 f'stroke-width="0.8" fill-rule="evenodd" opacity="0.75"/>')
+        # coastline emphasis + soft coastal shading
+        s.append(f'<path d="{BASE["land"]}" fill="none" stroke="#d8c9a0" '
+                 f'stroke-width="6" fill-rule="evenodd" opacity="0.5"/>')
+        s.append(f'<path d="{BASE["land"]}" fill="none" stroke="{COAST}" '
+                 f'stroke-width="1.5" fill-rule="evenodd"/>')
 
     # graticule (faint, over land + sea)
     lon = math.ceil(LON_MIN / 2) * 2

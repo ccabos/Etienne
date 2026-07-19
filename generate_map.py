@@ -49,23 +49,17 @@ MAP_X0, MAP_X1 = 58, 792   # map drawing band (with inner margin applied below)
 MAP_Y0, MAP_Y1 = 108, 792
 INNER = 34
 
-_ax0 = MAP_X0 + INNER
-_ax1 = MAP_X1 - INNER
-_ay0 = MAP_Y0 + INNER
-_ay1 = MAP_Y1 - INNER
-_eff_w = (LON_MAX - LON_MIN) * K
-_eff_h = (LAT_MAX - LAT_MIN)
-SCALE = min((_ax1 - _ax0) / _eff_w, (_ay1 - _ay0) / _eff_h)
-_used_w = _eff_w * SCALE
-_used_h = _eff_h * SCALE
-_off_x = _ax0 + ((_ax1 - _ax0) - _used_w) / 2
-_off_y = _ay0 + ((_ay1 - _ay0) - _used_h) / 2
+# Fill the whole plate interior exactly, so the land clips precisely at the
+# map edges (no letterbox margin). The bbox aspect is chosen close to the
+# plate's, leaving only a negligible horizontal stretch.
+PX0, PX1 = MAP_X0 + 2, MAP_X1 - 2
+PY0, PY1 = MAP_Y0 + 2, MAP_Y1 - 2
+SX = (PX1 - PX0) / (LON_MAX - LON_MIN)
+SY = (PY1 - PY0) / (LAT_MAX - LAT_MIN)
 
 
 def px(lon, lat):
-    x = _off_x + (lon - LON_MIN) * K * SCALE
-    y = _off_y + (LAT_MAX - lat) * SCALE
-    return x, y
+    return PX0 + (lon - LON_MIN) * SX, PY0 + (LAT_MAX - lat) * SY
 
 
 def _ring_to_path(coords):
@@ -170,10 +164,10 @@ REGIONS_BASE = [
     (11.6, 54.0, 0),   # Prussia
     (14.9, 49.5, 0),   # Bohemia
 ]
-# Sea labels: (lon, lat, rotation)
+# Sea labels: (lon, lat, rotation). The Atlantic strip is too narrow after
+# filling the plate, so only the North Sea is labelled.
 SEAS_BASE = [
     (3.1, 54.4, 0),    # North Sea
-    (-2.4, 46.0, 0),   # Atlantic
 ]
 
 TEXT = {
@@ -181,7 +175,7 @@ TEXT = {
         "title": "Etiennes Lebensweg 1737–1808",
         "subtitle": "Von Caussade in Südfrankreich über Stettin, Isenburg und Rotterdam nach Berlin",
         "regions": ["FRANKREICH", "NIEDER-\nLANDE", "PREUSSEN", "BÖHMEN"],
-        "seas": ["NORDSEE", "ATLANTIK"],
+        "seas": ["NORDSEE"],
         "legend_head": "Stationen",
         "pins": {
             "caussade": "Caussade",
@@ -225,7 +219,7 @@ TEXT = {
         "title": "Etienne's Life Journey 1737–1808",
         "subtitle": "From Caussade in southern France via Stettin, Isenburg and Rotterdam to Berlin",
         "regions": ["FRANCE", "NETHER-\nLANDS", "PRUSSIA", "BOHEMIA"],
-        "seas": ["NORTH SEA", "ATLANTIC"],
+        "seas": ["NORTH SEA"],
         "legend_head": "Stations",
         "pins": {
             "caussade": "Caussade",
@@ -275,16 +269,29 @@ def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
-def arrowhead(x0, y0, x1, y1, t=0.60, size=11, color=ROUTE):
-    """Triangle arrowhead at fraction t along segment, pointing to (x1,y1)."""
-    ax = x0 + (x1 - x0) * t
-    ay = y0 + (y1 - y0) * t
-    ang = math.atan2(y1 - y0, x1 - x0)
+def arrowhead_at(ax, ay, ang, size=11, color=ROUTE):
+    """Triangle arrowhead centred at (ax,ay), pointing along angle `ang`."""
     p1 = (ax + size * math.cos(ang), ay + size * math.sin(ang))
     p2 = (ax + size * math.cos(ang + 2.5), ay + size * math.sin(ang + 2.5))
     p3 = (ax + size * math.cos(ang - 2.5), ay + size * math.sin(ang - 2.5))
     return (f'<polygon points="{p1[0]:.1f},{p1[1]:.1f} {p2[0]:.1f},{p2[1]:.1f} '
             f'{p3[0]:.1f},{p3[1]:.1f}" fill="{color}"/>')
+
+
+def arrowhead(x0, y0, x1, y1, t=0.60, size=11, color=ROUTE):
+    """Arrowhead at fraction t along a straight segment, pointing to (x1,y1)."""
+    return arrowhead_at(x0 + (x1 - x0) * t, y0 + (y1 - y0) * t,
+                        math.atan2(y1 - y0, x1 - x0), size, color)
+
+
+def quad_point(p0, c, p1, t):
+    """Point and tangent angle on a quadratic Bézier at parameter t."""
+    mt = 1 - t
+    x = mt * mt * p0[0] + 2 * mt * t * c[0] + t * t * p1[0]
+    y = mt * mt * p0[1] + 2 * mt * t * c[1] + t * t * p1[1]
+    dx = 2 * mt * (c[0] - p0[0]) + 2 * t * (p1[0] - c[0])
+    dy = 2 * mt * (c[1] - p0[1]) + 2 * t * (p1[1] - c[1])
+    return x, y, math.atan2(dy, dx)
 
 
 def halo_text(x, y, text, size, fill, anchor="start", family=SANS,
@@ -389,14 +396,32 @@ def build_svg(lang):
                  f'stroke="{EXCURSION}" stroke-width="3" stroke-dasharray="2 7" '
                  f'stroke-linecap="round" opacity="0.9"/>')
 
-    # main route: halo then line then arrowheads
+    # main route: halo then line then arrowheads. The long Caussade->Stettin
+    # leg is bowed (quadratic) to the south-east so it clears the Isenburg /
+    # Rotterdam cluster instead of overlapping it.
     pts = [px(*COORD[k]) for k in MAIN_ROUTE]
-    d = "M " + " L ".join(f"{x:.1f} {y:.1f}" for x, y in pts)
+    p0, p1 = pts[0], pts[1]
+    mx, my = (p0[0] + p1[0]) / 2, (p0[1] + p1[1]) / 2
+    vx, vy = p1[0] - p0[0], p1[1] - p0[1]
+    vlen = math.hypot(vx, vy) or 1.0
+    # unit normal pointing south-east (away from the Isenburg cluster)
+    nx, ny = -vy / vlen, vx / vlen
+    if nx < 0:
+        nx, ny = -nx, -ny
+    bow = 0.14 * vlen
+    ctrl = (mx + nx * bow, my + ny * bow)
+    d = (f"M {p0[0]:.1f} {p0[1]:.1f} Q {ctrl[0]:.1f} {ctrl[1]:.1f} "
+         f"{p1[0]:.1f} {p1[1]:.1f} "
+         + " ".join(f"L {x:.1f} {y:.1f}" for x, y in pts[2:]))
     s.append(f'<path d="{d}" fill="none" stroke="{ROUTE_HALO}" stroke-width="8" '
              f'stroke-linejoin="round" stroke-linecap="round"/>')
     s.append(f'<path d="{d}" fill="none" stroke="{ROUTE}" stroke-width="3.4" '
              f'stroke-linejoin="round" stroke-linecap="round"/>')
-    for (x0, y0), (x1, y1) in zip(pts[:-1], pts[1:]):
+    # arrowhead on the bowed leg (tangent to the curve)
+    bx, by, bang = quad_point(p0, ctrl, p1, 0.62)
+    s.append(arrowhead_at(bx, by, bang))
+    # arrowheads on the straight legs
+    for (x0, y0), (x1, y1) in zip(pts[1:-1], pts[2:]):
         s.append(arrowhead(x0, y0, x1, y1))
 
     # excursion end markers (small diamonds) + labels
@@ -452,7 +477,7 @@ def build_svg(lang):
              f'font-weight="700" fill="{ROUTE}" text-anchor="middle">{t["north"]}</text>')
 
     # scale bar (200 km)
-    bar_px = 200.0 / 111.0 * SCALE
+    bar_px = 200.0 * SX / (111.0 * K)   # 200 km horizontally at mean latitude
     bx0 = MAP_X0 + 24
     by = MAP_Y1 - 26
     s.append(f'<line x1="{bx0:.1f}" y1="{by}" x2="{bx0+bar_px:.1f}" y2="{by}" '

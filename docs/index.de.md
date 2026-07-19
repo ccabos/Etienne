@@ -2,9 +2,9 @@
 
 ## Ein Leben zwischen Frankreich, Preußen und den Niederlanden
 
-![Karte der Lebensstationen](images/karte-stationen.png)
+![Karte von Etiennes Lebensweg](images/karte-stationen.png)
 
-*Die Lebensstationen von Etienne Cabos: Von Caussade in Südfrankreich über Stettin und Rotterdam bis nach Berlin.*
+*Etiennes Lebensweg mit seinen Hauptstationen und den wichtigsten Ereignissen jeder Station - von Caussade in Südfrankreich über Stettin, Isenburg und Rotterdam bis nach Berlin (1737-1808).*
 
 ---
 

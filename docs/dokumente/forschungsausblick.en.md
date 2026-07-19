@@ -64,7 +64,7 @@ The [death entry of the mother (1810)](sterbeurkunde-justine-1810.md) names a **
 ## 5. Etienne's Berlin and Halle Years
 
 - **Berlin address books (from 1799)**: fully digitized at the [Zentral- und Landesbibliothek Berlin](https://digital.zlb.de/). Etienne should appear there as *"Dentiste"*/dentist in the volumes ca. 1799-1808 - **the chance to find his Berlin address.**
-- **Original dental advertisements**: the [ULB Saxony-Anhalt](https://bibliothek.uni-halle.de/) is digitizing the **Wöchentliche Hallische Anzeigen (1731-1810)**; the advertisements of March 1794 and January 1798 may soon be available as scans.
+- **Original dental advertisements**: the ULB Saxony-Anhalt is digitizing the **Wöchentliche Hallische Anzeigen (1731-1810)**. They can be searched via the [ULB "Historical Newspapers" portal](https://digital.bibliothek.uni-halle.de/hz) and - with full-text search - via the [German Newspaper Portal (DDB)](https://www.deutsche-digitale-bibliothek.de/newspaper), where one could search directly for "Cabos". *Whether exactly the volumes for 1794 and 1798 are already online remains to be verified.*
 - **The intermediate stay in (Neu-)Isenburg**: church registers of the French Reformed congregation of [Neu-Isenburg](reisepass-1780.md) could confirm the family's stay in 1779/80.
 
 ---

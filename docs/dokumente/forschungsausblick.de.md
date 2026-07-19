@@ -64,7 +64,7 @@ Der [Sterbeeintrag der Mutter (1810)](sterbeurkunde-justine-1810.md) nennt einen
 ## 5. Etiennes Berliner und Hallenser Jahre
 
 - **Berliner Adressbücher (ab 1799)**: vollständig digitalisiert bei der [Zentral- und Landesbibliothek Berlin](https://digital.zlb.de/). Etienne müsste dort als *"Dentiste"*/Zahnarzt der Jahrgänge ca. 1799-1808 auftauchen - **die Chance, seine Berliner Adresse zu finden.**
-- **Original-Zahnarztanzeigen**: Die [ULB Sachsen-Anhalt](https://bibliothek.uni-halle.de/) digitalisiert die **Wöchentlichen Hallischen Anzeigen (1731-1810)**; die Anzeigen von März 1794 und Januar 1798 könnten bald als Scan verfügbar sein.
+- **Original-Zahnarztanzeigen**: Die ULB Sachsen-Anhalt digitalisiert die **Wöchentlichen Hallischen Anzeigen (1731-1810)**. Zu durchsuchen sind sie über das [ULB-Portal "Historische Zeitungen"](https://digital.bibliothek.uni-halle.de/hz) und - mit Volltextsuche - über das [Deutsche Zeitungsportal (DDB)](https://www.deutsche-digitale-bibliothek.de/newspaper). Dort ließe sich direkt nach "Cabos" suchen. *Ob genau die Jahrgänge 1794 und 1798 bereits online sind, ist noch zu verifizieren.*
 - **Der Zwischenaufenthalt in (Neu-)Isenburg**: Kirchenbücher der französisch-reformierten Gemeinde [Neu-Isenburg](reisepass-1780.md) könnten den Aufenthalt der Familie 1779/80 bestätigen.
 
 ---

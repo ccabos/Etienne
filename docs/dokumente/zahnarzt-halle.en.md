@@ -108,8 +108,8 @@ The advertisements show:
 
 - Nickol, Thomas: "The Availability of Dental Care in Halle: A Local Study." In: Christine Hillam (ed.): *Dental Practice in Europe at the End of the 18th Century* (Clio Medica series). Rodopi, Amsterdam/New York 2003; online edition: Brill. The study is based on archival material from the State Main Archive Magdeburg and the City Archive Halle.
 
-!!! tip "Original advertisements soon online?"
-    The University and State Library of Saxony-Anhalt is currently digitizing historical Halle newspapers on a large scale - including the **Wöchentliche Hallische Anzeigen (1731-1810)**. The original Cabos advertisements from March 1794 and January 1798 may therefore soon be findable as scans.
+!!! tip "Search the original advertisements online"
+    The University and State Library of Saxony-Anhalt is currently digitizing historical Halle newspapers on a large scale - including the **Wöchentliche Hallische Anzeigen (1731-1810)**. They can be searched via the [ULB "Historical Newspapers" portal](https://digital.bibliothek.uni-halle.de/hz) and - with full-text search - via the [German Newspaper Portal (DDB)](https://www.deutsche-digitale-bibliothek.de/newspaper), where one could search directly for "Cabos". Whether exactly the volumes for 1794 and 1798 are already online remains to be verified.
 
 ---
 

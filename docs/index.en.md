@@ -2,9 +2,9 @@
 
 ## A Life Between France, Prussia and the Netherlands
 
-![Map of life stations](images/karte-stationen.png)
+![Map of Etienne Cabos's life journey](images/karte-stationen-en.png)
 
-*The life stations of Etienne Cabos: From Caussade in southern France via Stettin and Rotterdam to Berlin.*
+*Etienne Cabos's life journey with its main stations and the key events of each - from Caussade in southern France via Stettin, Isenburg and Rotterdam to Berlin (1737-1808).*
 
 ---
 
